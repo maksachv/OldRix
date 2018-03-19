@@ -1,0 +1,22 @@
+{
+
+"Limestone": {
+        "template": "uniform",
+        "block": [
+            {"name": "chisel:limestone", "weight":90}
+        ],
+        "material": "stone",
+        "clusterSize": 25,
+        "numClusters": 7,
+        "minHeight": 32,
+        "maxHeight": 128,
+        "retrogen": "true",
+        "biomeRestriction": "none",
+        "biomes": [],
+        "dimensionRestriction": "blacklist",
+        "dimensions": [
+            -1,
+            1
+        ]
+    }
+}

@@ -1,0 +1,82 @@
+{
+  "backups": {
+    "backup_timer": 12.0,
+    "backups_to_keep": 6,
+    "compression_level": 1,
+    "display_file_size": true,
+    "enabled": true,
+    "folder": "./backups/",
+    "need_online_players": true,
+    "use_separate_thread": true
+  },
+  "chunkloading": {
+    "enabled": true,
+    "max_player_offline_hours": -1.0
+  },
+  "commands": {
+    "back": true,
+    "home": true,
+    "name_admin": "admin",
+    "spawn": true,
+    "tplast": false,
+    "warp": true
+  },
+  "general": {
+    "blocked_entities": [],
+    "restart_timer": 0.0,
+    "safe_spawn": true,
+    "server_info_difficulty": true,
+    "server_info_mode": true,
+    "spawn_area_in_sp": false,
+    "spawn_pvp": false
+  },
+  "login": {
+    "motd": [
+      "Добро пожаловать на Звездолет! Разрешено все, что не запрещено, но в разумных пределах! Антилаговая комиссия всегда может нюкнуть вашу базу без объяснения причины. Приятной игры \u003dD"
+    ],
+    "starting_items": [
+      "minecraft:apple 16 0"
+    ]
+  },
+  "permissions_admin": {
+    "allow_creative_interact_secure": true,
+    "badge": "W",
+    "break_whitelist": [
+      "OpenBlocks:grave"
+    ],
+    "cross_dim_homes": true,
+    "custom_config": {},
+    "dimension_blacklist": [],
+    "forced_chunk_security": "-",
+    "forced_explosions": "-",
+    "max_claims": 1000,
+    "max_homes": 10,
+    "max_loaded_chunks": 64,
+    "show_rank": true
+  },
+  "permissions_player": {
+    "allow_creative_interact_secure": false,
+    "badge": "B",
+    "break_whitelist": [
+      "OpenBlocks:grave"
+    ],
+    "cross_dim_homes": false,
+    "custom_config": {},
+    "dimension_blacklist": [
+      1
+    ],
+    "forced_chunk_security": "-",
+    "forced_explosions": "-",
+    "max_claims": 32,
+    "max_homes": 1,
+    "max_loaded_chunks": 16,
+    "show_rank": true
+  },
+  "tops": {
+    "deaths": true,
+    "deaths_ph": true,
+    "first_joined": true,
+    "last_seen": true,
+    "time_played": true
+  }
+}

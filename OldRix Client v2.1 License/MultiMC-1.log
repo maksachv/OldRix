@@ -1,0 +1,255 @@
+    0.006 D <> Log initialized.
+    0.006 D MultiMC 5, (c) 2013-2017 MultiMC Contributors
+    0.006 D Version                    :  "0.6.1-1177"
+    0.006 D Git commit                 :  "595d1571802b7d7ec1128a92a653f2ed7bdabb3c"
+    0.006 D Git refspec                :  "refs/heads/stable"
+    0.006 D Work dir before adjustment :  "D:/MultiMC"
+    0.006 D Work dir after adjustment  :  "D:/MultiMC"
+    0.006 D Adjusted by                :  "Fallback to binary path D:/MultiMC"
+    0.006 D Binary path                :  "D:/MultiMC"
+    0.006 D Application root path      :  "D:/MultiMC"
+    0.007 D <> Paths set.
+    0.009 D Detected default console font: "Courier" , substitutions: ""
+    0.010 D <> Settings loaded.
+    0.010 D Loading Application Language File for ru ...
+    0.010 D Your language is "ru"
+    0.010 D <> Translations loaded.
+    0.010 D <> Updater started.
+    0.012 D Started watching  "D:/MultiMC/icons"
+    0.013 D <> Instance icons intialized.
+    0.013 D <> Icon themes initialized.
+    0.013 D ""
+    0.013 D Loading theme "custom"
+    0.014 D <> Widget themes initialized.
+    0.014 D Instance path              :  "instances"
+    0.015 D Loading Instances...
+    0.015 D Found instance ID "НоваяЭра- UltraHardcore"
+    0.015 D Found instance ID "НоваяЭра- UltraTech"
+    0.016 D Loaded instance  "НоваяЭра: UltraHardcore"  from  "D:/MultiMC/instances/НоваяЭра- UltraHardcore"
+    0.017 D Loaded instance  "НоваяЭра: UltraTech"  from  "D:/MultiMC/instances/НоваяЭра- UltraTech"
+    0.017 D <> Instances loaded.
+    0.017 D Loading accounts...
+    0.017 D <> Accounts loaded.
+    0.018 D <> Cache initialized.
+    0.018 D Detecting proxy settings...
+    0.018 D Using no proxy is an option!
+    0.018 D <> Proxy settings done.
+    0.018 D Downloading Translations Index...
+    0.018 D Task "NetJob(Translations Index)" started
+    0.024 D <> Icon theme set.
+    0.024 D <> Application theme set.
+    0.024 D <> Initialized analytics with tid "UA-87731965-2"
+    0.054 W QMetaObject::connectSlotsByName: No matching signal for on_actionInstanceSettings_triggered()
+    0.059 D Task "NetJob(Status JSON)" started
+    0.073 D Task "NetJob(Startup player skins download)" started
+    0.073 D Reloading news.
+    0.073 D Task "NetJob(News RSS Feed)" started
+    0.074 D Checking for updates.
+    0.074 D Channel list isn't loaded yet. Loading channel list and deferring update check.
+    0.074 D Loading the channel list.
+    0.074 D Task "NetJob(Update System Channel List)" started
+    0.074 D Task "NetJob(Checking for notifications)" started
+    0.211 D Viewport size "838x563"
+    0.211 D RAM size is 16329 MB
+    0.211 D [Analytics] "ScreenView: Main Window"
+    0.211 D <> Main window shown.
+    0.212 D Task "NetJob(Translations Index)" succeeded
+    0.212 D Got translations index!
+    0.212 D Task "NetJob(Translation for ru)" started
+    0.212 D Download cache hit  "http://files.multimc.org/translations/index"
+    0.213 D Downloading  "http://status.mojang.com/check"
+    0.689 D Downloading  "https://crafatar.com/skins/c09a8e7ac2f4498081635b91bb86273d.png"
+    0.690 D Downloading  "http://multimc.org/rss.xml"
+    0.690 D Downloading  "http://files.multimc.org/update/win32/channels.json"
+    0.690 D Downloading  "http://files.multimc.org/notifications.json"
+    0.726 D Downloading  "http://files.multimc.org/translations/ru.qm"
+    1.368 D Download succeeded: "http://files.multimc.org/translations/ru.qm"
+    1.368 D Task "NetJob(Translation for ru)" succeeded
+    1.368 D Got translation: "ru"
+    1.369 D Loading Application Language File for ru ...
+    1.390 D Location header: QUrl("https://multimc.org/rss.xml")
+    1.390 D Following redirect to  "https://multimc.org/rss.xml"
+    1.390 D Downloading  "https://multimc.org/rss.xml"
+    1.390 D Download redirected: "https://multimc.org/rss.xml"
+    1.475 D Download succeeded: "http://files.multimc.org/notifications.json"
+    1.544 D Task "NetJob(Checking for notifications)" succeeded
+    1.545 D Download succeeded: "http://files.multimc.org/update/win32/channels.json"
+    1.545 D Task "NetJob(Update System Channel List)" succeeded
+    1.545 D Successfully loaded UpdateChecker channel list.
+    1.545 D Checking for updates.
+    1.545 D m_repoUrl =  "http://files.multimc.org/update/win32/stable/"
+    1.545 D Task "NetJob(GoUpdate Repository Index)" started
+    1.545 D Downloading  "http://files.multimc.org/update/win32/stable/index.json"
+    1.586 D Download succeeded: "http://status.mojang.com/check"
+    1.586 D Task "NetJob(Status JSON)" succeeded
+    1.586 D Finished loading status JSON.
+    1.586 D Status loading succeeded.
+    1.634 D Download succeeded: "https://multimc.org/rss.xml"
+    1.634 D Task "NetJob(News RSS Feed)" succeeded
+    1.634 D Finished loading RSS feed.
+    1.634 D Loaded news entry "MultiMC 0.6.1 released!"
+    1.634 D Loaded news entry "MultiMC 0.6.0 released!"
+    1.634 D Loaded news entry "Introducing the Archive"
+    1.634 D Loaded news entry "MultiMC 0.5.1 - Bugfixes"
+    1.635 D Loaded news entry "MultiMC 0.5.0 - Running multiple instances at the same time!"
+    1.635 D Loaded news entry "Update to 0.4.11 - OSX 10.7 fix and workaround for Minecraft 1.9 compatibility"
+    1.635 D Loaded news entry "Update to 0.4.10 - Another wifi fix"
+    1.635 D Loaded news entry "Update to 0.4.9 - the Windows wifi fix"
+    1.635 D Loaded news entry "Update to 0.4.8"
+    1.635 D Loaded news entry "Update to 0.4.7, what 0.4.6 should have been."
+    1.635 D Loaded news entry "Update to 0.4.6, Bug fixes and improvements!"
+    1.635 D Loaded news entry "Update to 0.4.5, Translations, Themes, and Technic"
+    1.635 D Loaded news entry "Version 0.4 out - Jar mods, UI changes, and more!"
+    1.635 D Loaded news entry "Introducing QuickMods - A better way to install mods"
+    1.635 D Loaded news entry "Support us on Patreon!"
+    1.635 D Loaded news entry "Heartbleed Vulnerability Update (fixed!)"
+    1.635 D Loaded news entry "Announcing MultiMC 6"
+    1.635 D Loaded news entry "MultiMC 5 - 0.3 update"
+    1.635 D Loaded news entry "First official MultiMC 5 release!"
+    1.635 D Loaded news entry "MultiMC Status Update"
+    1.635 D News loading succeeded.
+    1.636 D Download succeeded: "https://crafatar.com/skins/c09a8e7ac2f4498081635b91bb86273d.png"
+    1.636 D Task "NetJob(Startup player skins download)" succeeded
+    1.663 D Download succeeded: "http://files.multimc.org/update/win32/stable/index.json"
+    1.664 D Task "NetJob(GoUpdate Repository Index)" succeeded
+    1.664 D Finished downloading repo index. Checking for new versions.
+    1.664 D Processing repository version list.
+    3.188 D Task "LaunchController(0x6129088)" started
+    3.190 D Task "RefreshTask(0x614d2d0)" started
+    3.836 D Processing authentication response.
+    3.837 D Getting new access token.
+    3.837 D Finished reading refresh response.
+    3.838 D Task "RefreshTask(0x614d2d0)" succeeded
+    3.838 D Writing account list to "accounts.json"
+    3.838 D Building JSON data structure.
+    3.838 D Building account array.
+    3.838 D Writing account list to file.
+    3.839 D Saved account list to "accounts.json"
+    6.350 D Task "LaunchTask(0x6129128)" started
+    6.350 D Task "TextPrint(0x613bbb4)" started
+    6.351 D Task "TextPrint(0x613bbb4)" succeeded
+    6.351 D Task "TextPrint(0x613b334)" started
+    6.351 D Task "TextPrint(0x613b334)" succeeded
+    6.351 D Task "CheckJava(0x6129228)" started
+    6.353 D Task "CheckJava(0x6129228)" succeeded
+    6.353 D Task "ClaimAccount(0x600d894)" started
+    6.353 D Writing account list to "accounts.json"
+    6.353 D Building JSON data structure.
+    6.353 D Building account array.
+    6.353 D Writing account list to file.
+    6.354 D Saved account list to "accounts.json"
+    6.355 W Account "slava.basser@mail.ru" is now in use.
+    6.355 D Task "ClaimAccount(0x600d894)" succeeded
+    6.355 D Task "Update(0x600de7c)" started
+    6.357 D Task "OneSixUpdate(0x613b868)" started
+    6.357 D Task "ComponentUpdateTask(0x60cbdb8)" started
+    6.358 D Loading components
+    6.358 D Task "NetJob(Скачиваем index.json файла(ов) обновления.)" started
+    6.358 D Remote loading is being run for metadata index
+    6.373 D Task "NetJob(Скачиваем org.lwjgl/2.9.1.json файла(ов) обновления.)" started
+    6.374 D Remote loading is being run for "LWJGL 2"
+    6.389 D Task "NetJob(Скачиваем net.minecraft/1.7.10.json файла(ов) обновления.)" started
+    6.391 D Remote loading is being run for "Minecraft"
+    6.391 D Task "FoldersTask(0x609999c)" started
+    6.392 D Task "FoldersTask(0x609999c)" succeeded
+    6.400 D Downloading  "https://v1.meta.multimc.org/index.json"
+    6.401 D Downloading  "https://v1.meta.multimc.org/org.lwjgl/2.9.1.json"
+    6.403 D Downloading  "https://v1.meta.multimc.org/net.minecraft/1.7.10.json"
+    6.586 D Download succeeded: "https://v1.meta.multimc.org/index.json"
+    6.587 D Task "NetJob(Скачиваем index.json файла(ов) обновления.)" succeeded
+    6.587 D Remote task 0 succeeded
+    6.679 D Download succeeded: "https://v1.meta.multimc.org/net.minecraft/1.7.10.json"
+    6.679 D Task "NetJob(Скачиваем net.minecraft/1.7.10.json файла(ов) обновления.)" succeeded
+    6.679 D Remote task 2 succeeded
+    6.730 D Download succeeded: "https://v1.meta.multimc.org/org.lwjgl/2.9.1.json"
+    6.730 D Task "NetJob(Скачиваем org.lwjgl/2.9.1.json файла(ов) обновления.)" succeeded
+    6.730 D Remote task 1 succeeded
+    6.730 D Component list save is scheduled for "НоваяЭра: UltraHardcore"
+    6.730 D Resolving dependencies
+    6.730 D "Req: net.minecraft == 1.7.10" Is met.
+    6.730 D "Req: org.lwjgl" Is met.
+    6.730 D Task "ComponentUpdateTask(0x60cbdb8)" succeeded
+    6.730 D Component list update/resolve task succeeded for "НоваяЭра: UltraHardcore"
+    6.730 D Task "LibrariesTask(0x613c1f4)" started
+    6.731 D "НоваяЭра: UltraHardcore" : downloading libraries
+    6.731 D Applying "org.lwjgl" GOOD
+    6.731 D Applying "net.minecraft" GOOD
+    6.731 D Applying "net.minecraftforge" GOOD
+    6.734 D Task "NetJob(Библиотеки для сборки НоваяЭра: UltraHardcore)" started
+    6.734 D Task "NetJob(Библиотеки для сборки НоваяЭра: UltraHardcore)" succeeded
+    6.734 D Task "LibrariesTask(0x613c1f4)" succeeded
+    6.734 D Task "FMLLibrariesTask(0x600a36c)" started
+    6.734 D Task "FMLLibrariesTask(0x600a36c)" succeeded
+    6.734 D Task "AssetUpdateTask(0x613c3b4)" started
+    6.735 D Asset index SHA1: "f90ca2878ba3141d32d949ea7f665855dd073c65"
+    6.735 D "НоваяЭра: UltraHardcore" : Starting asset index download
+    6.735 D Task "NetJob(Индекс ресурса для НоваяЭра: UltraHardcore)" started
+    6.736 D Downloading  "https://launchermeta.mojang.com/mc/assets/1.7.10/f90ca2878ba3141d32d949ea7f665855dd073c65/1.7.10.json"
+    7.084 D Download succeeded: "https://launchermeta.mojang.com/mc/assets/1.7.10/f90ca2878ba3141d32d949ea7f665855dd073c65/1.7.10.json"
+    7.085 D Task "NetJob(Индекс ресурса для НоваяЭра: UltraHardcore)" succeeded
+    7.085 D "НоваяЭра: UltraHardcore" : Finished asset index download
+    7.157 D Task "AssetUpdateTask(0x613c3b4)" succeeded
+    7.157 D Task "OneSixUpdate(0x613b868)" succeeded
+    7.157 D Task "Update(0x600de7c)" succeeded
+    7.158 D Task "ModMinecraftJar(0x6096acc)" started
+    7.158 D Task "ModMinecraftJar(0x6096acc)" succeeded
+    7.158 D Task "PrintInstanceInfo(0x613baf4)" started
+    7.824 D reconstructAssets "assets" "assets/indexes" "assets/objects" "assets/virtual" "assets/virtual/1.7.10"
+    7.827 D Task "PrintInstanceInfo(0x613baf4)" succeeded
+    7.827 D Task "CreateServerResourcePacksFolder(0x6096c8c)" started
+    7.827 D Task "CreateServerResourcePacksFolder(0x6096c8c)" succeeded
+    7.828 D Task "ExtractNatives(0x6096f9c)" started
+    8.131 D Task "ExtractNatives(0x6096f9c)" succeeded
+    8.131 D Task "LauncherPartLaunch(0x60074f4)" started
+    8.131 D reconstructAssets "assets" "assets/indexes" "assets/objects" "assets/virtual" "assets/virtual/1.7.10"
+    8.135 D Env: ignoring "JAVA_HOME" "C:\\Program Files\\Java\\jdk1.8.0_161"
+    8.135 D "-XX:HeapDumpPath=MojangTricksIntelDriversForPerformance_javaw.exe_minecraft.exe.heapdump -Xms512m -Xmx6016m -Duser.language=en -Djava.library.path=D:/MultiMC/instances/НоваяЭра- UltraHardcore/natives -cp D:/MultiMC/jars/NewLaunch.jar;D:/MultiMC/libraries/net/java/jinput/jinput/2.0.5/jinput-2.0.5.jar;D:/MultiMC/libraries/net/java/jutils/jutils/1.0.0/jutils-1.0.0.jar;D:/MultiMC/libraries/org/lwjgl/lwjgl/lwjgl/2.9.1/lwjgl-2.9.1.jar;D:/MultiMC/libraries/org/lwjgl/lwjgl/lwjgl_util/2.9.1/lwjgl_util-2.9.1.jar;D:/MultiMC/libraries/com/mojang/netty/1.6/netty-1.6.jar;D:/MultiMC/libraries/com/mojang/realms/1.3.5/realms-1.3.5.jar;D:/MultiMC/libraries/org/apache/commons/commons-compress/1.8.1/commons-compress-1.8.1.jar;D:/MultiMC/libraries/org/apache/httpcomponents/httpclient/4.3.3/httpclient-4.3.3.jar;D:/MultiMC/libraries/commons-logging/commons-logging/1.1.3/commons-logging-1.1.3.jar;D:/MultiMC/libraries/org/apache/httpcomponents/httpcore/4.3.2/httpcore-4.3.2.jar;D:/MultiMC/libraries/java3d/vecmath/1.3.1/vecmath-1.3.1.jar;D:/MultiMC/libraries/net/sf/trove4j/trove4j/3.0.3/trove4j-3.0.3.jar;D:/MultiMC/libraries/com/ibm/icu/icu4j-core-mojang/51.2/icu4j-core-mojang-51.2.jar;D:/MultiMC/libraries/net/sf/jopt-simple/jopt-simple/4.5/jopt-simple-4.5.jar;D:/MultiMC/libraries/com/paulscode/codecjorbis/20101023/codecjorbis-20101023.jar;D:/MultiMC/libraries/com/paulscode/codecwav/20101023/codecwav-20101023.jar;D:/MultiMC/libraries/com/paulscode/libraryjavasound/20101123/libraryjavasound-20101123.jar;D:/MultiMC/libraries/com/paulscode/librarylwjglopenal/20100824/librarylwjglopenal-20100824.jar;D:/MultiMC/libraries/com/paulscode/soundsystem/20120107/soundsystem-20120107.jar;D:/MultiMC/libraries/io/netty/netty-all/4.0.10.Final/netty-all-4.0.10.Final.jar;D:/MultiMC/libraries/com/google/guava/guava/17.0/guava-17.0.jar;D:/MultiMC/libraries/org/apache/commons/commons-lang3/3.3.2/commons-lang3-3.3.2.jar;D:/MultiMC/libraries/commons-io/commons-io/2.4/commons-io-2.4.jar;D:/MultiMC/libraries/commons-codec/commons-codec/1.9/commons-codec-1.9.jar;D:/MultiMC/libraries/com/google/code/gson/gson/2.2.4/gson-2.2.4.jar;D:/MultiMC/libraries/com/mojang/authlib/1.5.21/authlib-1.5.21.jar;D:/MultiMC/libraries/org/apache/logging/log4j/log4j-api/2.0-beta9/log4j-api-2.0-beta9.jar;D:/MultiMC/libraries/org/apache/logging/log4j/log4j-core/2.0-beta9/log4j-core-2.0-beta9.jar;D:/MultiMC/libraries/tv/twitch/twitch/5.16/twitch-5.16.jar;D:/MultiMC/libraries/lzma/lzma/0.0.1/lzma-0.0.1.jar;D:/MultiMC/libraries/org/scala-lang/scala-xml_2.11/1.0.2/scala-xml_2.11-1.0.2.jar;D:/MultiMC/libraries/org/scala-lang/scala-swing_2.11/1.0.1/scala-swing_2.11-1.0.1.jar;D:/MultiMC/libraries/org/scala-lang/scala-reflect/2.11.1/scala-reflect-2.11.1.jar;D:/MultiMC/libraries/org/scala-lang/scala-parser-combinators_2.11/1.0.1/scala-parser-combinators_2.11-1.0.1.jar;D:/MultiMC/libraries/org/scala-lang/scala-library/2.11.1/scala-library-2.11.1.jar;D:/MultiMC/libraries/org/scala-lang/plugins/scala-continuations-plugin_2.11.1/1.0.2/scala-continuations-plugin_2.11.1-1.0.2.jar;D:/MultiMC/libraries/org/scala-lang/plugins/scala-continuations-library_2.11/1.0.2/scala-continuations-library_2.11-1.0.2.jar;D:/MultiMC/libraries/org/scala-lang/scala-compiler/2.11.1/scala-compiler-2.11.1.jar;D:/MultiMC/libraries/org/scala-lang/scala-actors-migration_2.11/1.1.0/scala-actors-migration_2.11-1.1.0.jar;D:/MultiMC/libraries/com/typesafe/config/1.2.1/config-1.2.1.jar;D:/MultiMC/libraries/com/typesafe/akka/akka-actor_2.11/2.3.3/akka-actor_2.11-2.3.3.jar;D:/MultiMC/libraries/org/ow2/asm/asm-all/5.0.3/asm-all-5.0.3.jar;D:/MultiMC/libraries/net/minecraft/launchwrapper/1.12/launchwrapper-1.12.jar;D:/MultiMC/libraries/net/minecraftforge/forge/1.7.10-10.13.4.1614-1.7.10/forge-1.7.10-10.13.4.1614-1.7.10-universal.jar;D:/MultiMC/libraries/com/mojang/minecraft/1.7.10/minecraft-1.7.10-client.jar org.multimc.EntryPoint"
+    8.321 W QCoreApplication::postEvent: Unexpected null receiver
+   11.716 D Component list save performed now for "НоваяЭра: UltraHardcore"
+   30.012 D [Analytics] "Query string = v=1&tid=UA-87731965-2&cid=745243ba-b287-4d40-8917-cebefaf89b9d&t=screenview&ul=ru-ru&vp=838x563&sr=1920x1080&aip=1&cd=Main Window&an=MultiMC5&av=0.6.1-1177&cd1=1.8.0_161&cd2=64&cd3=64&cd4=64&cd5=Windows&cd6=10.0&cm1=512&cm2=6016&cm3=16329&qt=29801"
+   30.171 D [Analytics] "Message sent"
+   60.049 D Task "NetJob(Status JSON)" started
+   60.050 D Downloading  "http://status.mojang.com/check"
+   60.196 D Download succeeded: "http://status.mojang.com/check"
+   60.196 D Task "NetJob(Status JSON)" succeeded
+   60.196 D Finished loading status JSON.
+   60.196 D Status loading succeeded.
+  120.044 D Task "NetJob(Status JSON)" started
+  120.044 D Downloading  "http://status.mojang.com/check"
+  120.198 D Download succeeded: "http://status.mojang.com/check"
+  120.198 D Task "NetJob(Status JSON)" succeeded
+  120.198 D Finished loading status JSON.
+  120.198 D Status loading succeeded.
+  180.052 D Task "NetJob(Status JSON)" started
+  180.052 D Downloading  "http://status.mojang.com/check"
+  180.200 D Download succeeded: "http://status.mojang.com/check"
+  180.200 D Task "NetJob(Status JSON)" succeeded
+  180.200 D Finished loading status JSON.
+  180.200 D Status loading succeeded.
+  240.046 D Task "NetJob(Status JSON)" started
+  240.046 D Downloading  "http://status.mojang.com/check"
+  240.185 D Download succeeded: "http://status.mojang.com/check"
+  240.185 D Task "NetJob(Status JSON)" succeeded
+  240.185 D Finished loading status JSON.
+  240.185 D Status loading succeeded.
+  300.044 D Task "NetJob(Status JSON)" started
+  300.044 D Downloading  "http://status.mojang.com/check"
+  300.189 D Download succeeded: "http://status.mojang.com/check"
+  300.189 D Task "NetJob(Status JSON)" succeeded
+  300.189 D Finished loading status JSON.
+  300.189 D Status loading succeeded.
+  360.048 D Task "NetJob(Status JSON)" started
+  360.049 D Downloading  "http://status.mojang.com/check"
+  360.189 D Download succeeded: "http://status.mojang.com/check"
+  360.189 D Task "NetJob(Status JSON)" succeeded
+  360.189 D Finished loading status JSON.
+  360.189 D Status loading succeeded.
+  369.991 D Task "LauncherPartLaunch(0x60074f4)" succeeded
+  369.997 D Writing account list to "accounts.json"
+  369.997 D Building JSON data structure.
+  369.997 D Building account array.
+  369.997 D Writing account list to file.
+  369.997 D Saved account list to "accounts.json"
+  369.998 W Account "slava.basser@mail.ru" is no longer in use.
+  370.029 D Task "LaunchTask(0x6129128)" succeeded
+  370.030 D Task "LaunchController(0x6129088)" succeeded
