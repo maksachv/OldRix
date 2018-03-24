@@ -1,0 +1,36 @@
+{
+    "+traits": [
+        "legacyLaunch",
+        "texturepacks"
+    ],
+    "assetIndex": {
+        "id": "legacy",
+        "sha1": "c0fd82e8ce9fbc93119e40d96d5a4e62cfa3f729",
+        "size": 134284,
+        "totalSize": 111220701,
+        "url": "https://launchermeta.mojang.com/mc/assets/legacy/c0fd82e8ce9fbc93119e40d96d5a4e62cfa3f729/legacy.json"
+    },
+    "formatVersion": 1,
+    "mainJar": {
+        "downloads": {
+            "artifact": {
+                "sha1": "53ed4b9d5c358ecfff2d8b846b4427b888287028",
+                "size": 5005735,
+                "url": "https://launcher.mojang.com/mc/game/1.4.7/client/53ed4b9d5c358ecfff2d8b846b4427b888287028/client.jar"
+            }
+        },
+        "name": "com.mojang:minecraft:1.4.7:client"
+    },
+    "name": "Minecraft",
+    "order": -2,
+    "releaseTime": "2012-12-28T00:00:00+02:00",
+    "requires": [
+        {
+            "suggests": "2.9.0",
+            "uid": "org.lwjgl"
+        }
+    ],
+    "type": "release",
+    "uid": "net.minecraft",
+    "version": "1.4.7"
+}
