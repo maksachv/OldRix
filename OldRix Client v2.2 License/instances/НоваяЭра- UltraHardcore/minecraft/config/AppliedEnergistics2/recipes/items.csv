@@ -1129,6 +1129,7 @@ Forestry:fluid.juice, Fruit Juice
 Forestry:fluid.milk, Milk
 Forestry:fluid.seedoil, Seed Oil
 Forestry:fluid.short.mead, Short Mead
+Forestry:fluid.mead, Mead
 Forestry:apiculture:0, Apiary
 Forestry:apiculture:2, Bee House
 Forestry:apicultureChest:0, Apiarist's Chest
@@ -3715,7 +3716,7 @@ extracells:vibrantchamberfluid, Fluid Vibration Chamber
 ExtraUtilities:chestMini, Mini-Chest
 ExtraUtilities:chestFull, Slightly Larger Chest
 ExtraUtilities:enderCollector, Ender Collector
-ExtraUtilities:endConstructor:0, QED (Quantum Entity Device)
+ExtraUtilities:endConstructor:0, QED (Quantum Emission Decompiler)
 ExtraUtilities:endConstructor:2, Ender-Flux Crystal
 ExtraUtilities:endMarker, Ender-Marker
 ExtraUtilities:curtains, Blackout Curtains
@@ -11553,7 +11554,14 @@ Forestry:canSeedOil, Seed Oil Can
 Forestry:waxCapsuleSeedOil, Seed Oil Capsule
 Forestry:refractorySeedOil, Seed Oil Capsule
 Forestry:bucketSeedOil, Seed Oil Bucket
+Forestry:canShortMead, Short Mead Can
+Forestry:waxCapsuleShortMead, Short Mead Capsule
+Forestry:refractoryShortMead, Short Mead Capsule
 Forestry:bucketShortMead, Short Mead Bucket
+Forestry:canMead, Mead Can
+Forestry:waxCapsuleMead, Mead Capsule
+Forestry:refractoryMead, Mead Capsule
+Forestry:bucketMead, Mead Bucket
 Forestry:canWater, Water Can
 Forestry:waxCapsuleWater, Water Capsule
 Forestry:refractoryWater, Water Capsule
@@ -19356,6 +19364,7 @@ ThermalDynamics:cover:0, Fruit Juice Cover
 ThermalDynamics:cover:0, Milk Cover
 ThermalDynamics:cover:0, Seed Oil Cover
 ThermalDynamics:cover:0, Short Mead Cover
+ThermalDynamics:cover:0, Mead Cover
 ThermalDynamics:cover:0, Candle Stump Cover
 ThermalDynamics:cover:0, Mushroom Cover
 ThermalDynamics:cover:0, Mushroom Cover
