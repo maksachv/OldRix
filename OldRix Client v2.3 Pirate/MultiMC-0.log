@@ -1,0 +1,116 @@
+    0.005 D MultiMC 5, (c) 2013-2015 MultiMC Contributors
+    0.005 D Version                    :  "5 Modify by hackphoenix.com"
+    0.005 D Git commit                 :  ""
+    0.005 D Git refspec                :  ""
+    0.006 D Work dir before adjustment :  "D:/OldRix/OldRix Client v2.3 Pirate"
+    0.006 D Work dir after adjustment  :  "D:/OldRix/OldRix Client v2.3 Pirate"
+    0.006 D Adjusted by                :  "Command line D:/OldRix/OldRix Client v2.3 Pirate"
+    0.006 D Binary path                :  "D:/OldRix/OldRix Client v2.3 Pirate"
+    0.006 D Application root path      :  "D:/OldRix/OldRix Client v2.3 Pirate"
+    0.008 D Detected default console font: "Courier" , substitutions: ""
+    0.009 D FTB Launcher paths: "C:/Users/maksach.v/AppData/Roaming/ftblauncher" and "C:/Users/maksach.v/AppData/Local/ftblauncher"
+    0.009 D Attempting to read "C:/Users/maksach.v/AppData/Roaming/ftblauncher/ftblaunch.cfg"
+    0.009 W Couldn't open "C:/Users/maksach.v/AppData/Roaming/ftblauncher/ftblaunch.cfg" : "\u0421\u0438\u0441\u0442\u0435\u043C\u0435 \u043D\u0435 \u0443\u0434\u0430\u0435\u0442\u0441\u044F \u043D\u0430\u0439\u0442\u0438 \u0443\u043A\u0430\u0437\u0430\u043D\u043D\u044B\u0439 \u043F\u0443\u0442\u044C."
+    0.009 W This is perfectly normal if you don't have FTB installed
+    0.010 D Your language is "ru"
+    0.010 D Loading MMC Language File for ru ...
+    0.018 W libpng warning: iCCP: known incorrect sRGB profile
+    0.027 D Started watching  "D:/OldRix/OldRix Client v2.3 Pirate/icons"
+    0.028 D Instance path              :  "instances"
+    0.028 D Loading Instances...
+    0.029 D Loading MultiMC instance from  "instances/\u041D\u043E\u0432\u0430\u044F\u042D\u0440\u0430- UltraHardcore"
+    0.030 D Loaded instance  "\u041D\u043E\u0432\u0430\u044F\u042D\u0440\u0430- UltraHardcore"  from  "D:/OldRix/OldRix Client v2.3 Pirate/instances/\u041D\u043E\u0432\u0430\u044F\u042D\u0440\u0430- UltraHardcore"
+    0.030 D Loading MultiMC instance from  "instances/\u041D\u043E\u0432\u0430\u044F\u042D\u0440\u0430- UltraTech"
+    0.031 D Loaded instance  "\u041D\u043E\u0432\u0430\u044F\u042D\u0440\u0430- UltraTech"  from  "D:/OldRix/OldRix Client v2.3 Pirate/instances/\u041D\u043E\u0432\u0430\u044F\u042D\u0440\u0430- UltraTech"
+    0.031 D Loading accounts...
+    0.031 C "Failed to read the account list file (accounts.json)."
+    0.032 D Detecting proxy settings...
+    0.032 D Using no proxy is an option!
+    0.032 D Downloading Translations Index...
+    0.032 D "Translations Index"  started.
+    0.059 D "Status JSON"  started.
+    0.063 D Loading builtin version list.
+    0.064 W Blacklisted legacy version ignored:  "rd-160052"
+    0.065 D Loading local version list.
+    0.065 D Loaded version "1.10.2" from local version list.
+    0.065 D Loaded version "1.7.10" from local version list.
+    0.565 D Reloading news.
+    0.565 D "News RSS Feed"  started.
+    0.565 D "GoUpdate Repository Index"  started.
+    1.280 D "GoUpdate Repository Index" succeeded.
+    1.280 D Task succeeded
+    1.430 D "Translations Index" succeeded.
+    1.430 D Task succeeded
+    1.430 D Got translations index!
+    1.432 D "Translations"  started.
+    1.432 C Error getting URL: "https://www.hackphoenix.com/feed/" Network error:  QNetworkReply::NetworkError(ProtocolFailure)
+    1.432 D "Status JSON" succeeded.
+    1.432 D Task succeeded
+    1.432 D Finished loading status JSON.
+    1.433 D Status loading succeeded.
+    1.461 C "Failed to load LWJGL list. XML error: tag mismatch at line 6"
+    1.664 D "Translations" succeeded.
+    1.664 D Task succeeded
+    1.664 D Got translations!
+    1.760 D Loading remote version list.
+    1.760 D Loaded version "18w11a" from remote version list.
+    1.760 D Loaded version "18w10d" from remote version list.
+    1.760 D Loaded version "18w09a" from remote version list.
+    1.761 D Loaded version "18w08b" from remote version list.
+    1.761 D Loaded version "18w07c" from remote version list.
+    1.761 D Loaded version "18w06a" from remote version list.
+    1.761 D Loaded version "18w05a" from remote version list.
+    1.761 D Loaded version "18w03b" from remote version list.
+    1.761 D Loaded version "18w02a" from remote version list.
+    1.761 D Loaded version "18w01a" from remote version list.
+    1.761 D Loaded version "17w50a" from remote version list.
+    1.761 D Loaded version "17w49b" from remote version list.
+    1.761 D Loaded version "17w48a" from remote version list.
+    1.762 D Loaded version "17w47b" from remote version list.
+    1.762 D Loaded version "17w46a" from remote version list.
+    1.762 D Loaded version "17w45b" from remote version list.
+    1.762 D Loaded version "17w43b" from remote version list.
+    1.762 D Loaded version "1.12.2" from remote version list.
+    1.762 D Loaded version "1.12.1" from remote version list.
+    1.762 D Loaded version "1.12" from remote version list.
+    1.762 D Loaded version "1.11.2" from remote version list.
+    1.762 D Loaded version "1.11.1" from remote version list.
+    1.762 D Loaded version "1.11" from remote version list.
+    1.762 D Loaded version "1.10.2" from remote version list.
+    1.763 D Loaded version "1.10.1" from remote version list.
+    1.763 D Loaded version "1.10" from remote version list.
+    1.763 D Loaded version "1.9.4" from remote version list.
+    1.763 D Loaded version "1.9.3" from remote version list.
+    1.763 D Loaded version "1.9.2" from remote version list.
+    1.763 D Loaded version "1.9.1" from remote version list.
+    1.763 D Loaded version "1.9" from remote version list.
+    1.763 D Loaded version "1.8.9" from remote version list.
+    1.763 D Loaded version "1.8.8" from remote version list.
+    1.763 D Loaded version "1.8.7" from remote version list.
+    1.763 D Loaded version "1.8.6" from remote version list.
+    1.764 D Loaded version "1.8.5" from remote version list.
+    1.764 D Loaded version "1.8.4" from remote version list.
+    1.764 D Loaded version "1.8.3" from remote version list.
+    1.764 D Loaded version "1.8.2" from remote version list.
+    1.764 D Loaded version "1.8.1" from remote version list.
+    1.764 D Loaded version "1.8" from remote version list.
+    1.764 D Loaded version "1.7.10" from remote version list.
+    1.764 D Loaded version "1.7.9" from remote version list.
+    1.764 D Loaded version "1.7.8" from remote version list.
+    1.764 D Loaded version "1.7.7" from remote version list.
+    1.764 D Loaded version "1.7.6" from remote version list.
+    1.765 D Loaded version "1.7.5" from remote version list.
+    1.765 D Loaded version "1.7.4" from remote version list.
+    1.765 D Loaded version "1.7.3" from remote version list.
+    1.765 D Loaded version "1.7.2" from remote version list.
+    1.765 D Loaded version "1.6.4" from remote version list.
+    1.765 D Loaded version "1.6.2" from remote version list.
+    1.765 D Loaded version "1.6.1" from remote version list.
+    1.766 W Blacklisted legacy version ignored:  "rd-160052"
+    1.767 D Task succeeded
+    1.769 C Error getting URL: "https://www.hackphoenix.com/feed/" Network error:  QNetworkReply::NetworkError(ProtocolFailure)
+    2.063 C Error getting URL: "https://www.hackphoenix.com/feed/" Network error:  QNetworkReply::NetworkError(ProtocolFailure)
+    2.378 C Error getting URL: "https://www.hackphoenix.com/feed/" Network error:  QNetworkReply::NetworkError(ProtocolFailure)
+    2.379 C "News RSS Feed" failed.
+    2.379 C Task failed:  "Job 'News RSS Feed' failed "
+    2.379 D Failed to load news: "\u041D\u0435 \u0443\u0434\u0430\u043B\u043E\u0441\u044C \u0437\u0430\u0433\u0440\u0443\u0437\u0438\u0442\u044C RSS-\u043B\u0435\u043D\u0442\u0443 \u043D\u043E\u0432\u043E\u0441\u0442\u0435\u0439:\nJob 'News RSS Feed' failed "
