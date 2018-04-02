@@ -1,0 +1,908 @@
+    0.005 D MultiMC 5, (c) 2013-2015 MultiMC Contributors
+    0.005 D Version                    :  "5 Modify by hackphoenix.com"
+    0.005 D Git commit                 :  ""
+    0.005 D Git refspec                :  ""
+    0.005 D Work dir before adjustment :  "D:/OldRix/OldRix Client v2.3 Pirate"
+    0.006 D Work dir after adjustment  :  "D:/OldRix/OldRix Client v2.3 Pirate"
+    0.006 D Adjusted by                :  "Command line D:/OldRix/OldRix Client v2.3 Pirate"
+    0.006 D Binary path                :  "D:/OldRix/OldRix Client v2.3 Pirate"
+    0.006 D Application root path      :  "D:/OldRix/OldRix Client v2.3 Pirate"
+    0.010 D Detected default console font: "Courier" , substitutions: ""
+    0.010 D FTB Launcher paths: "C:/Users/maksach.v/AppData/Roaming/ftblauncher" and "C:/Users/maksach.v/AppData/Local/ftblauncher"
+    0.010 D Attempting to read "C:/Users/maksach.v/AppData/Roaming/ftblauncher/ftblaunch.cfg"
+    0.010 W Couldn't open "C:/Users/maksach.v/AppData/Roaming/ftblauncher/ftblaunch.cfg" : "\u0421\u0438\u0441\u0442\u0435\u043C\u0435 \u043D\u0435 \u0443\u0434\u0430\u0435\u0442\u0441\u044F \u043D\u0430\u0439\u0442\u0438 \u0443\u043A\u0430\u0437\u0430\u043D\u043D\u044B\u0439 \u043F\u0443\u0442\u044C."
+    0.011 W This is perfectly normal if you don't have FTB installed
+    0.012 D Your language is "ru"
+    0.013 D Loading MMC Language File for ru ...
+    0.156 W libpng warning: iCCP: known incorrect sRGB profile
+    0.166 D Started watching  "D:/OldRix/OldRix Client v2.3 Pirate/icons"
+    0.167 D Instance path              :  "instances"
+    0.168 D Loading Instances...
+    0.169 D Loading MultiMC instance from  "instances/\u041D\u043E\u0432\u0430\u044F\u042D\u0440\u0430- UltraHardcore"
+    0.171 D Loaded instance  "\u041D\u043E\u0432\u0430\u044F\u042D\u0440\u0430- UltraHardcore"  from  "D:/OldRix/OldRix Client v2.3 Pirate/instances/\u041D\u043E\u0432\u0430\u044F\u042D\u0440\u0430- UltraHardcore"
+    0.171 D Loading MultiMC instance from  "instances/\u041D\u043E\u0432\u0430\u044F\u042D\u0440\u0430- UltraTech"
+    0.174 D Loaded instance  "\u041D\u043E\u0432\u0430\u044F\u042D\u0440\u0430- UltraTech"  from  "D:/OldRix/OldRix Client v2.3 Pirate/instances/\u041D\u043E\u0432\u0430\u044F\u042D\u0440\u0430- UltraTech"
+    0.174 D Loading accounts...
+    0.174 C "Failed to read the account list file (accounts.json)."
+    0.174 D Detecting proxy settings...
+    0.174 D Using no proxy is an option!
+    0.174 D Downloading Translations Index...
+    0.174 D "Translations Index"  started.
+    0.216 D "Status JSON"  started.
+    0.238 D Loading builtin version list.
+    0.240 W Blacklisted legacy version ignored:  "rd-160052"
+    0.241 D Loading local version list.
+    0.241 D Loaded version "1.10.2" from local version list.
+    0.241 D Loaded version "1.7.10" from local version list.
+    0.845 D Reloading news.
+    0.845 D "News RSS Feed"  started.
+    0.845 D "GoUpdate Repository Index"  started.
+    1.509 D Loading remote version list.
+    1.509 D Loaded version "18w11a" from remote version list.
+    1.509 D Loaded version "18w10d" from remote version list.
+    1.509 D Loaded version "18w09a" from remote version list.
+    1.509 D Loaded version "18w08b" from remote version list.
+    1.509 D Loaded version "18w07c" from remote version list.
+    1.509 D Loaded version "18w06a" from remote version list.
+    1.509 D Loaded version "18w05a" from remote version list.
+    1.510 D Loaded version "18w03b" from remote version list.
+    1.510 D Loaded version "18w02a" from remote version list.
+    1.510 D Loaded version "18w01a" from remote version list.
+    1.510 D Loaded version "17w50a" from remote version list.
+    1.510 D Loaded version "17w49b" from remote version list.
+    1.510 D Loaded version "17w48a" from remote version list.
+    1.510 D Loaded version "17w47b" from remote version list.
+    1.510 D Loaded version "17w46a" from remote version list.
+    1.510 D Loaded version "17w45b" from remote version list.
+    1.510 D Loaded version "17w43b" from remote version list.
+    1.510 D Loaded version "1.12.2" from remote version list.
+    1.510 D Loaded version "1.12.1" from remote version list.
+    1.510 D Loaded version "1.12" from remote version list.
+    1.510 D Loaded version "1.11.2" from remote version list.
+    1.510 D Loaded version "1.11.1" from remote version list.
+    1.511 D Loaded version "1.11" from remote version list.
+    1.511 D Loaded version "1.10.2" from remote version list.
+    1.511 D Loaded version "1.10.1" from remote version list.
+    1.511 D Loaded version "1.10" from remote version list.
+    1.511 D Loaded version "1.9.4" from remote version list.
+    1.511 D Loaded version "1.9.3" from remote version list.
+    1.511 D Loaded version "1.9.2" from remote version list.
+    1.511 D Loaded version "1.9.1" from remote version list.
+    1.511 D Loaded version "1.9" from remote version list.
+    1.511 D Loaded version "1.8.9" from remote version list.
+    1.511 D Loaded version "1.8.8" from remote version list.
+    1.511 D Loaded version "1.8.7" from remote version list.
+    1.511 D Loaded version "1.8.6" from remote version list.
+    1.511 D Loaded version "1.8.5" from remote version list.
+    1.511 D Loaded version "1.8.4" from remote version list.
+    1.511 D Loaded version "1.8.3" from remote version list.
+    1.511 D Loaded version "1.8.2" from remote version list.
+    1.512 D Loaded version "1.8.1" from remote version list.
+    1.512 D Loaded version "1.8" from remote version list.
+    1.512 D Loaded version "1.7.10" from remote version list.
+    1.512 D Loaded version "1.7.9" from remote version list.
+    1.512 D Loaded version "1.7.8" from remote version list.
+    1.512 D Loaded version "1.7.7" from remote version list.
+    1.512 D Loaded version "1.7.6" from remote version list.
+    1.512 D Loaded version "1.7.5" from remote version list.
+    1.512 D Loaded version "1.7.4" from remote version list.
+    1.513 D Loaded version "1.7.3" from remote version list.
+    1.513 D Loaded version "1.7.2" from remote version list.
+    1.513 D Loaded version "1.6.4" from remote version list.
+    1.513 D Loaded version "1.6.2" from remote version list.
+    1.513 D Loaded version "1.6.1" from remote version list.
+    1.513 W Blacklisted legacy version ignored:  "rd-160052"
+    1.514 D Task succeeded
+    1.617 D "GoUpdate Repository Index" succeeded.
+    1.617 D Task succeeded
+    1.648 D "Translations Index" succeeded.
+    1.649 D Task succeeded
+    1.649 D Got translations index!
+    1.649 D "Translations"  started.
+    1.734 D "Status JSON" succeeded.
+    1.735 D Task succeeded
+    1.735 D Finished loading status JSON.
+    1.735 D Status loading succeeded.
+    1.812 C "Failed to load LWJGL list. XML error: tag mismatch at line 6"
+    1.878 C Error getting URL: "https://www.hackphoenix.com/feed/" Network error:  QNetworkReply::NetworkError(ProtocolFailure)
+    2.344 D "Translations" succeeded.
+    2.344 D Task succeeded
+    2.344 D Got translations!
+    2.345 C Error getting URL: "https://www.hackphoenix.com/feed/" Network error:  QNetworkReply::NetworkError(ProtocolFailure)
+    2.657 C Error getting URL: "https://www.hackphoenix.com/feed/" Network error:  QNetworkReply::NetworkError(ProtocolFailure)
+    2.979 C Error getting URL: "https://www.hackphoenix.com/feed/" Network error:  QNetworkReply::NetworkError(ProtocolFailure)
+    2.979 C "News RSS Feed" failed.
+    2.979 C Task failed:  "Job 'News RSS Feed' failed "
+    2.979 D Failed to load news: "\u041D\u0435 \u0443\u0434\u0430\u043B\u043E\u0441\u044C \u0437\u0430\u0433\u0440\u0443\u0437\u0438\u0442\u044C RSS-\u043B\u0435\u043D\u0442\u0443 \u043D\u043E\u0432\u043E\u0441\u0442\u0435\u0439:\nJob 'News RSS Feed' failed "
+   16.115 D Processing authentication response.
+   16.115 D Getting client token.
+   16.115 D Getting access token.
+   16.115 D Loading profile list.
+   16.116 D Setting current profile.
+   16.116 D Finished reading authentication response.
+   16.116 D Task succeeded
+   16.122 D Writing account list to "accounts.json"
+   16.122 D Building JSON data structure.
+   16.122 D Building account array.
+   16.122 D Writing account list to file.
+   16.123 D Saved account list to "accounts.json"
+   16.142 D Writing account list to "accounts.json"
+   16.143 D Building JSON data structure.
+   16.143 D Building account array.
+   16.143 D Writing account list to file.
+   16.144 D Saved account list to "accounts.json"
+   16.144 D "Player skins: test"  started.
+   16.364 D "Player skins: test" succeeded.
+   16.364 D Task succeeded
+   17.165 D Paged dialog close requested
+   17.166 D Loading MultiMC instance from  "instances/\u041D\u043E\u0432\u0430\u044F\u042D\u0440\u0430- UltraHardcore"
+   17.166 D Loaded instance  "\u041D\u043E\u0432\u0430\u044F\u042D\u0440\u0430- UltraHardcore"  from  "D:/OldRix/OldRix Client v2.3 Pirate/instances/\u041D\u043E\u0432\u0430\u044F\u042D\u0440\u0430- UltraHardcore"
+   17.166 D Loading MultiMC instance from  "instances/\u041D\u043E\u0432\u0430\u044F\u042D\u0440\u0430- UltraTech"
+   17.167 D Loaded instance  "\u041D\u043E\u0432\u0430\u044F\u042D\u0440\u0430- UltraTech"  from  "D:/OldRix/OldRix Client v2.3 Pirate/instances/\u041D\u043E\u0432\u0430\u044F\u042D\u0440\u0430- UltraTech"
+   17.169 D Paged dialog close approved
+   17.169 D Paged dialog geometry saved
+   18.444 D Processing authentication response.
+   18.444 D Getting new access token.
+   18.444 D Finished reading refresh response.
+   18.444 D Task succeeded
+   18.445 D Writing account list to "accounts.json"
+   18.445 D Building JSON data structure.
+   18.445 D Building account array.
+   18.445 D Writing account list to file.
+   18.445 D Saved account list to "accounts.json"
+   19.165 W Order file doesn't exist. Ignoring.
+   19.166 D Reading "net.minecraftforge.json"
+   19.209 W Order file doesn't exist. Ignoring.
+   19.209 D Reading "net.minecraftforge.json"
+   20.091 W QWidget::setLayout: Attempting to set QLayout "" on ConsoleWindow "", which already has a layout
+   20.184 D Task succeeded
+   20.185 D Task succeeded
+   20.187 D "Running java checker: C:/ProgramData/Oracle/Java/javapath/java.exe-jar D:/OldRix/OldRix Client v2.3 Pirate/jars/JavaCheck.jar"
+   20.497 D STDOUT "os.arch=x86\njava.version=1.8.0_161\n"
+   20.497 W STDERR ""
+   20.497 D Java checker finished with status  0  exit code  0
+   20.497 D Java checker succeeded.
+   20.530 D Task succeeded
+   20.531 D "Version index"  started.
+   20.561 D "Version index" succeeded.
+   20.561 D Task succeeded
+   20.605 D Task succeeded
+   20.607 D "\u041D\u043E\u0432\u0430\u044F\u042D\u0440\u0430- UltraHardcore" : downloading libraries
+   20.607 W Order file doesn't exist. Ignoring.
+   20.607 D Reading "net.minecraftforge.json"
+   20.613 D "Libraries for instance \xCD\xEE\xE2\xE0\xFF\xDD\xF0\xE0- UltraHardcore"  started.
+   24.031 D Downloading  "http://files.minecraftforge.net/mirror-brand.list"
+   24.314 D Updating URL for  "org/scala-lang/scala-xml_2.11/1.0.2/scala-xml_2.11-1.0.2.jar"
+   24.314 D Possible:  "Forge"  :  "http://files.minecraftforge.net/maven/"
+   24.328 D Downloading  "http://files.minecraftforge.net/maven/org/scala-lang/scala-xml_2.11/1.0.2/scala-xml_2.11-1.0.2.jar.pack.xz"
+   24.328 D Updating URL for  "org/scala-lang/scala-swing_2.11/1.0.1/scala-swing_2.11-1.0.1.jar"
+   24.328 D Possible:  "Forge"  :  "http://files.minecraftforge.net/maven/"
+   24.329 D Downloading  "http://files.minecraftforge.net/maven/org/scala-lang/scala-swing_2.11/1.0.1/scala-swing_2.11-1.0.1.jar.pack.xz"
+   24.330 D Updating URL for  "org/scala-lang/scala-reflect/2.11.1/scala-reflect-2.11.1.jar"
+   24.330 D Possible:  "Forge"  :  "http://files.minecraftforge.net/maven/"
+   24.331 D Downloading  "http://files.minecraftforge.net/maven/org/scala-lang/scala-reflect/2.11.1/scala-reflect-2.11.1.jar.pack.xz"
+   24.331 D Updating URL for  "org/scala-lang/scala-parser-combinators_2.11/1.0.1/scala-parser-combinators_2.11-1.0.1.jar"
+   24.331 D Possible:  "Forge"  :  "http://files.minecraftforge.net/maven/"
+   24.333 D Downloading  "http://files.minecraftforge.net/maven/org/scala-lang/scala-parser-combinators_2.11/1.0.1/scala-parser-combinators_2.11-1.0.1.jar.pack.xz"
+   24.334 D Updating URL for  "org/scala-lang/scala-library/2.11.1/scala-library-2.11.1.jar"
+   24.334 D Possible:  "Forge"  :  "http://files.minecraftforge.net/maven/"
+   24.334 D Downloading  "http://files.minecraftforge.net/maven/org/scala-lang/scala-library/2.11.1/scala-library-2.11.1.jar.pack.xz"
+   24.335 D Updating URL for  "org/scala-lang/plugins/scala-continuations-plugin_2.11.1/1.0.2/scala-continuations-plugin_2.11.1-1.0.2.jar"
+   24.335 D Possible:  "Forge"  :  "http://files.minecraftforge.net/maven/"
+   24.337 D Downloading  "http://files.minecraftforge.net/maven/org/scala-lang/plugins/scala-continuations-plugin_2.11.1/1.0.2/scala-continuations-plugin_2.11.1-1.0.2.jar.pack.xz"
+   24.337 D Updating URL for  "org/scala-lang/plugins/scala-continuations-library_2.11/1.0.2/scala-continuations-library_2.11-1.0.2.jar"
+   24.337 D Possible:  "Forge"  :  "http://files.minecraftforge.net/maven/"
+   24.338 D Downloading  "http://files.minecraftforge.net/maven/org/scala-lang/plugins/scala-continuations-library_2.11/1.0.2/scala-continuations-library_2.11-1.0.2.jar.pack.xz"
+   24.339 D Updating URL for  "org/scala-lang/scala-compiler/2.11.1/scala-compiler-2.11.1.jar"
+   24.339 D Possible:  "Forge"  :  "http://files.minecraftforge.net/maven/"
+   24.340 D Downloading  "http://files.minecraftforge.net/maven/org/scala-lang/scala-compiler/2.11.1/scala-compiler-2.11.1.jar.pack.xz"
+   24.340 D Updating URL for  "org/scala-lang/scala-actors-migration_2.11/1.1.0/scala-actors-migration_2.11-1.1.0.jar"
+   24.340 D Possible:  "Forge"  :  "http://files.minecraftforge.net/maven/"
+   24.341 D Downloading  "http://files.minecraftforge.net/maven/org/scala-lang/scala-actors-migration_2.11/1.1.0/scala-actors-migration_2.11-1.1.0.jar.pack.xz"
+   24.341 D Updating URL for  "com/typesafe/config/1.2.1/config-1.2.1.jar"
+   24.342 D Possible:  "Forge"  :  "http://files.minecraftforge.net/maven/"
+   24.343 D Downloading  "http://files.minecraftforge.net/maven/com/typesafe/config/1.2.1/config-1.2.1.jar.pack.xz"
+   24.343 D Updating URL for  "com/typesafe/akka/akka-actor_2.11/2.3.3/akka-actor_2.11-2.3.3.jar"
+   24.343 D Possible:  "Forge"  :  "http://files.minecraftforge.net/maven/"
+   24.345 D Downloading  "http://files.minecraftforge.net/maven/com/typesafe/akka/akka-actor_2.11/2.3.3/akka-actor_2.11-2.3.3.jar.pack.xz"
+   29.902 D "Libraries for instance \u041D\u043E\u0432\u0430\u044F\u042D\u0440\u0430- UltraHardcore" succeeded.
+   29.903 D Task succeeded
+   29.904 D "\u041D\u043E\u0432\u0430\u044F\u042D\u0440\u0430- UltraHardcore" : Starting asset index download
+   29.904 D "Asset index for \xCD\xEE\xE2\xE0\xFF\xDD\xF0\xE0- UltraHardcore"  started.
+   32.185 D "Libraries for instance \u041D\u043E\u0432\u0430\u044F\u042D\u0440\u0430- UltraHardcore" succeeded.
+   32.216 D "Asset index for \u041D\u043E\u0432\u0430\u044F\u042D\u0440\u0430- UltraHardcore" succeeded.
+   32.216 D Task succeeded
+   32.216 D "\u041D\u043E\u0432\u0430\u044F\u042D\u0440\u0430- UltraHardcore" : Finished asset index download
+   32.308 D Task succeeded
+   32.308 D Task succeeded
+   32.734 D reconstructAssets "assets" "assets/indexes" "assets/objects" "assets/virtual" "assets/virtual/1.7.10"
+   32.741 D Env:  "USERDOMAIN_ROAMINGPROFILE" "DESKTOP-638BJSG"
+   32.741 D Env:  "PROCESSOR_REVISION" "3a09"
+   32.741 D Env:  "SystemRoot" "C:\\WINDOWS"
+   32.741 D Env:  "Path" "C:\\ProgramData\\Oracle\\Java\\javapath;C:\\WINDOWS\\system32;C:\\WINDOWS;C:\\WINDOWS\\System32\\Wbem;C:\\WINDOWS\\System32\\WindowsPowerShell\\v1.0\\;D:\\PuTTY\\;C:\\Program Files\\Java\\jdk1.8.0_161\\bin;D:\\gradle\\bin;C:\\Users\\maksach.v\\AppData\\Local\\Microsoft\\WindowsApps;C:\\Users\\maksach.v\\AppData\\Local\\GitHubDesktop\\bin"
+   32.741 D Env:  "OneDrive" "C:\\Users\\maksach.v\\OneDrive"
+   32.741 D Env:  "USERNAME" "maksach.v"
+   32.741 D Env:  "CommonProgramFiles(x86)" "C:\\Program Files (x86)\\Common Files"
+   32.741 D Env:  "TEMP" "C:\\Users\\maksach.v\\AppData\\Local\\Temp"
+   32.741 D Env:  "COMPUTERNAME" "DESKTOP-638BJSG"
+   32.741 D Env:  "ALLUSERSPROFILE" "C:\\ProgramData"
+   32.741 D Env:  "ComSpec" "C:\\WINDOWS\\system32\\cmd.exe"
+   32.741 D Env:  "LOGONSERVER" "\\\\DESKTOP-638BJSG"
+   32.741 D Env:  "PROCESSOR_ARCHITEW6432" "AMD64"
+   32.741 D Env: ignoring "JAVA_HOME" "C:\\Program Files\\Java\\jdk1.8.0_161"
+   32.741 D Env:  "LOCALAPPDATA" "C:\\Users\\maksach.v\\AppData\\Local"
+   32.741 D Env:  "FPS_BROWSER_USER_PROFILE_STRING" "Default"
+   32.741 D Env:  "ProgramW6432" "C:\\Program Files"
+   32.741 D Env:  "FPS_BROWSER_APP_PROFILE_STRING" "Internet Explorer"
+   32.741 D Env:  "=::" "::\\"
+   32.741 D Env:  "USERPROFILE" "C:\\Users\\maksach.v"
+   32.741 D Env:  "ProgramData" "C:\\ProgramData"
+   32.741 D Env:  "GRADLE_HOME" "D:\\gradle"
+   32.741 D Env:  "PATHEXT" ".COM;.EXE;.BAT;.CMD;.VBS;.VBE;.JS;.JSE;.WSF;.WSH;.MSC"
+   32.741 D Env:  "PROCESSOR_ARCHITECTURE" "x86"
+   32.741 D Env:  "APPDATA" "C:\\Users\\maksach.v\\AppData\\Roaming"
+   32.741 D Env:  "PROCESSOR_IDENTIFIER" "Intel64 Family 6 Model 58 Stepping 9, GenuineIntel"
+   32.741 D Env:  "OS" "Windows_NT"
+   32.741 D Env:  "TMP" "C:\\Users\\maksach.v\\AppData\\Local\\Temp"
+   32.742 D Env:  "NUMBER_OF_PROCESSORS" "4"
+   32.742 D Env:  "PSModulePath" "C:\\Program Files\\WindowsPowerShell\\Modules;C:\\WINDOWS\\system32\\WindowsPowerShell\\v1.0\\Modules"
+   32.742 D Env:  "SESSIONNAME" "Console"
+   32.742 D Env:  "PUBLIC" "C:\\Users\\Public"
+   32.742 D Env:  "USERDOMAIN" "DESKTOP-638BJSG"
+   32.742 D Env:  "HOMEDRIVE" "C:"
+   32.742 D Env:  "PROCESSOR_LEVEL" "6"
+   32.742 D Env:  "windir" "C:\\WINDOWS"
+   32.742 D Env:  "SystemDrive" "C:"
+   32.742 D Env:  "CommonProgramFiles" "C:\\Program Files (x86)\\Common Files"
+   32.742 D Env:  "ProgramFiles(x86)" "C:\\Program Files (x86)"
+   32.742 D Env:  "ProgramFiles" "C:\\Program Files (x86)"
+   32.742 D Env:  "HOMEPATH" "\\Users\\maksach.v"
+   32.742 D Env:  "CommonProgramW6432" "C:\\Program Files\\Common Files"
+   32.875 C Task failed:  "Game crashed."
+   32.915 C Task failed:  "Game crashed."
+   36.216 D "Libraries for instance \u041D\u043E\u0432\u0430\u044F\u042D\u0440\u0430- UltraHardcore" succeeded.
+   57.742 D Task succeeded
+   57.763 D Failed to stop watching  "D:/OldRix/OldRix Client v2.3 Pirate/instances/\u041D\u043E\u0432\u0430\u044F\u042D\u0440\u0430- UltraHardcore/minecraft/saves"
+   57.763 D Failed to stop watching  "D:/OldRix/OldRix Client v2.3 Pirate/instances/\u041D\u043E\u0432\u0430\u044F\u042D\u0440\u0430- UltraHardcore/minecraft/texturepacks"
+   57.763 D Failed to stop watching  "D:/OldRix/OldRix Client v2.3 Pirate/instances/\u041D\u043E\u0432\u0430\u044F\u042D\u0440\u0430- UltraHardcore/minecraft/resourcepacks"
+   57.763 D Failed to stop watching  "D:/OldRix/OldRix Client v2.3 Pirate/instances/\u041D\u043E\u0432\u0430\u044F\u042D\u0440\u0430- UltraHardcore/minecraft/coremods"
+   57.763 D Failed to stop watching  "D:/OldRix/OldRix Client v2.3 Pirate/instances/\u041D\u043E\u0432\u0430\u044F\u042D\u0440\u0430- UltraHardcore/minecraft/mods"
+   60.203 D "Status JSON"  started.
+   60.348 D "Status JSON" succeeded.
+   60.348 D Task succeeded
+   60.348 D Finished loading status JSON.
+   60.349 D Status loading succeeded.
+   61.292 D Probing the following Java paths: 
+   61.292 D   "C:/Program Files/Java/jre7/bin/javaw.exe"
+   61.292 D   "C:/Program Files/Java/jre6/bin/javaw.exe"
+   61.292 D   "C:/Program Files/Java/jdk1.8.0_161/bin/javaw.exe"
+   61.292 D   "C:/Program Files (x86)/Java/jre7/bin/javaw.exe"
+   61.292 D   "C:/Program Files (x86)/Java/jre6/bin/javaw.exe"
+   61.292 D   "java"
+   61.292 D "Java detection"  started.
+   61.292 D "Running java checker: C:/Program Files/Java/jre7/bin/javaw.exe-jar D:/OldRix/OldRix Client v2.3 Pirate/jars/JavaCheck.jar"
+   61.294 D Java checker has failed to start.
+   61.294 D "Java detection" progress: 1 / 6
+   61.294 D "Running java checker: C:/Program Files/Java/jre6/bin/javaw.exe-jar D:/OldRix/OldRix Client v2.3 Pirate/jars/JavaCheck.jar"
+   61.295 D Java checker has failed to start.
+   61.295 D "Java detection" progress: 2 / 6
+   61.295 D "Running java checker: C:/Program Files/Java/jdk1.8.0_161/bin/javaw.exe-jar D:/OldRix/OldRix Client v2.3 Pirate/jars/JavaCheck.jar"
+   61.321 D "Running java checker: C:/Program Files (x86)/Java/jre7/bin/javaw.exe-jar D:/OldRix/OldRix Client v2.3 Pirate/jars/JavaCheck.jar"
+   61.321 D Java checker has failed to start.
+   61.321 D "Java detection" progress: 3 / 6
+   61.321 D "Running java checker: C:/Program Files (x86)/Java/jre6/bin/javaw.exe-jar D:/OldRix/OldRix Client v2.3 Pirate/jars/JavaCheck.jar"
+   61.322 D Java checker has failed to start.
+   61.322 D "Java detection" progress: 4 / 6
+   61.322 D "Running java checker: java-jar D:/OldRix/OldRix Client v2.3 Pirate/jars/JavaCheck.jar"
+   61.439 D STDOUT "os.arch=x86\njava.version=1.8.0_161\n"
+   61.439 W STDERR ""
+   61.439 D Java checker finished with status  0  exit code  0
+   61.439 D Java checker succeeded.
+   61.439 D "Java detection" progress: 5 / 6
+   62.529 D STDOUT "os.arch=amd64\njava.version=1.8.0_161\n"
+   62.530 W STDERR ""
+   62.530 D Java checker finished with status  0  exit code  0
+   62.530 D Java checker succeeded.
+   62.530 D "Java detection" progress: 6 / 6
+   62.530 D Found the following valid Java installations:
+   62.530 D   "1.8.0_161" "64" "C:/Program Files/Java/jdk1.8.0_161/bin/javaw.exe"
+   62.530 D   "1.8.0_161" "32" "java"
+   62.530 D Task succeeded
+   66.649 D "Running java checker: C:/Program Files/Java/jdk1.8.0_161/bin/javaw.exe-jar D:/OldRix/OldRix Client v2.3 Pirate/jars/JavaCheck.jar"
+   66.763 D STDOUT "os.arch=amd64\njava.version=1.8.0_161\n"
+   66.763 W STDERR ""
+   66.763 D Java checker finished with status  0  exit code  0
+   66.763 D Java checker succeeded.
+   66.763 D "Running java checker: C:/Program Files/Java/jdk1.8.0_161/bin/javaw.exe-Xms512m -Xmx2048m -jar D:/OldRix/OldRix Client v2.3 Pirate/jars/JavaCheck.jar"
+   66.876 D STDOUT "os.arch=amd64\njava.version=1.8.0_161\n"
+   66.876 W STDERR ""
+   66.876 D Java checker finished with status  0  exit code  0
+   66.876 D Java checker succeeded.
+   68.321 D Paged dialog close requested
+   68.321 D Loading MultiMC instance from  "instances/\u041D\u043E\u0432\u0430\u044F\u042D\u0440\u0430- UltraHardcore"
+   68.322 D Loaded instance  "\u041D\u043E\u0432\u0430\u044F\u042D\u0440\u0430- UltraHardcore"  from  "D:/OldRix/OldRix Client v2.3 Pirate/instances/\u041D\u043E\u0432\u0430\u044F\u042D\u0440\u0430- UltraHardcore"
+   68.322 D Loading MultiMC instance from  "instances/\u041D\u043E\u0432\u0430\u044F\u042D\u0440\u0430- UltraTech"
+   68.323 D Loaded instance  "\u041D\u043E\u0432\u0430\u044F\u042D\u0440\u0430- UltraTech"  from  "D:/OldRix/OldRix Client v2.3 Pirate/instances/\u041D\u043E\u0432\u0430\u044F\u042D\u0440\u0430- UltraTech"
+   68.325 D Paged dialog close approved
+   68.325 D Paged dialog geometry saved
+   69.343 D Processing authentication response.
+   69.343 D Getting new access token.
+   69.343 D Finished reading refresh response.
+   69.344 D Task succeeded
+   69.345 D Writing account list to "accounts.json"
+   69.345 D Building JSON data structure.
+   69.345 D Building account array.
+   69.345 D Writing account list to file.
+   69.346 D Saved account list to "accounts.json"
+   70.025 W Order file doesn't exist. Ignoring.
+   70.025 D Reading "net.minecraftforge.json"
+   70.040 W Order file doesn't exist. Ignoring.
+   70.041 D Reading "net.minecraftforge.json"
+   70.547 W QWidget::setLayout: Attempting to set QLayout "" on ConsoleWindow "", which already has a layout
+   70.588 D Task succeeded
+   70.588 D Task succeeded
+   70.589 D "Running java checker: C:/Program Files/Java/jdk1.8.0_161/bin/javaw.exe-jar D:/OldRix/OldRix Client v2.3 Pirate/jars/JavaCheck.jar"
+   70.707 D STDOUT "os.arch=amd64\njava.version=1.8.0_161\n"
+   70.707 W STDERR ""
+   70.707 D Java checker finished with status  0  exit code  0
+   70.707 D Java checker succeeded.
+   70.757 D Task succeeded
+   70.757 D Instance either provides a version file or doesn't need an update.
+   70.757 D "\u041D\u043E\u0432\u0430\u044F\u042D\u0440\u0430- UltraHardcore" : downloading libraries
+   70.758 W Order file doesn't exist. Ignoring.
+   70.758 D Reading "net.minecraftforge.json"
+   70.761 D "Libraries for instance \xCD\xEE\xE2\xE0\xFF\xDD\xF0\xE0- UltraHardcore"  started.
+   70.767 D "Libraries for instance \u041D\u043E\u0432\u0430\u044F\u042D\u0440\u0430- UltraHardcore" succeeded.
+   70.767 D Task succeeded
+   70.768 D "\u041D\u043E\u0432\u0430\u044F\u042D\u0440\u0430- UltraHardcore" : Starting asset index download
+   70.768 D "Asset index for \xCD\xEE\xE2\xE0\xFF\xDD\xF0\xE0- UltraHardcore"  started.
+   71.056 D "Asset index for \u041D\u043E\u0432\u0430\u044F\u042D\u0440\u0430- UltraHardcore" succeeded.
+   71.057 D Task succeeded
+   71.057 D "\u041D\u043E\u0432\u0430\u044F\u042D\u0440\u0430- UltraHardcore" : Finished asset index download
+   71.093 D Task succeeded
+   71.093 D Task succeeded
+   71.488 D reconstructAssets "assets" "assets/indexes" "assets/objects" "assets/virtual" "assets/virtual/1.7.10"
+   71.493 D Env:  "USERDOMAIN_ROAMINGPROFILE" "DESKTOP-638BJSG"
+   71.493 D Env:  "PROCESSOR_REVISION" "3a09"
+   71.493 D Env:  "SystemRoot" "C:\\WINDOWS"
+   71.494 D Env:  "Path" "C:\\ProgramData\\Oracle\\Java\\javapath;C:\\WINDOWS\\system32;C:\\WINDOWS;C:\\WINDOWS\\System32\\Wbem;C:\\WINDOWS\\System32\\WindowsPowerShell\\v1.0\\;D:\\PuTTY\\;C:\\Program Files\\Java\\jdk1.8.0_161\\bin;D:\\gradle\\bin;C:\\Users\\maksach.v\\AppData\\Local\\Microsoft\\WindowsApps;C:\\Users\\maksach.v\\AppData\\Local\\GitHubDesktop\\bin"
+   71.494 D Env:  "OneDrive" "C:\\Users\\maksach.v\\OneDrive"
+   71.494 D Env:  "USERNAME" "maksach.v"
+   71.494 D Env:  "CommonProgramFiles(x86)" "C:\\Program Files (x86)\\Common Files"
+   71.494 D Env:  "TEMP" "C:\\Users\\maksach.v\\AppData\\Local\\Temp"
+   71.494 D Env:  "COMPUTERNAME" "DESKTOP-638BJSG"
+   71.494 D Env:  "ALLUSERSPROFILE" "C:\\ProgramData"
+   71.494 D Env:  "ComSpec" "C:\\WINDOWS\\system32\\cmd.exe"
+   71.494 D Env:  "LOGONSERVER" "\\\\DESKTOP-638BJSG"
+   71.494 D Env:  "PROCESSOR_ARCHITEW6432" "AMD64"
+   71.494 D Env: ignoring "JAVA_HOME" "C:\\Program Files\\Java\\jdk1.8.0_161"
+   71.494 D Env:  "LOCALAPPDATA" "C:\\Users\\maksach.v\\AppData\\Local"
+   71.494 D Env:  "FPS_BROWSER_USER_PROFILE_STRING" "Default"
+   71.494 D Env:  "ProgramW6432" "C:\\Program Files"
+   71.494 D Env:  "FPS_BROWSER_APP_PROFILE_STRING" "Internet Explorer"
+   71.494 D Env:  "=::" "::\\"
+   71.494 D Env:  "USERPROFILE" "C:\\Users\\maksach.v"
+   71.494 D Env:  "ProgramData" "C:\\ProgramData"
+   71.494 D Env:  "GRADLE_HOME" "D:\\gradle"
+   71.494 D Env:  "PATHEXT" ".COM;.EXE;.BAT;.CMD;.VBS;.VBE;.JS;.JSE;.WSF;.WSH;.MSC"
+   71.494 D Env:  "PROCESSOR_ARCHITECTURE" "x86"
+   71.494 D Env:  "APPDATA" "C:\\Users\\maksach.v\\AppData\\Roaming"
+   71.494 D Env:  "PROCESSOR_IDENTIFIER" "Intel64 Family 6 Model 58 Stepping 9, GenuineIntel"
+   71.494 D Env:  "OS" "Windows_NT"
+   71.494 D Env:  "TMP" "C:\\Users\\maksach.v\\AppData\\Local\\Temp"
+   71.494 D Env:  "NUMBER_OF_PROCESSORS" "4"
+   71.494 D Env:  "PSModulePath" "C:\\Program Files\\WindowsPowerShell\\Modules;C:\\WINDOWS\\system32\\WindowsPowerShell\\v1.0\\Modules"
+   71.494 D Env:  "SESSIONNAME" "Console"
+   71.494 D Env:  "PUBLIC" "C:\\Users\\Public"
+   71.494 D Env:  "USERDOMAIN" "DESKTOP-638BJSG"
+   71.494 D Env:  "HOMEDRIVE" "C:"
+   71.494 D Env:  "PROCESSOR_LEVEL" "6"
+   71.494 D Env:  "windir" "C:\\WINDOWS"
+   71.494 D Env:  "SystemDrive" "C:"
+   71.494 D Env:  "CommonProgramFiles" "C:\\Program Files (x86)\\Common Files"
+   71.495 D Env:  "ProgramFiles(x86)" "C:\\Program Files (x86)"
+   71.495 D Env:  "ProgramFiles" "C:\\Program Files (x86)"
+   71.495 D Env:  "HOMEPATH" "\\Users\\maksach.v"
+   71.495 D Env:  "CommonProgramW6432" "C:\\Program Files\\Common Files"
+  109.759 C Task failed:  "Game crashed."
+  109.829 C Task failed:  "Game crashed."
+  120.210 D "Status JSON"  started.
+  120.353 D "Status JSON" succeeded.
+  120.353 D Task succeeded
+  120.353 D Finished loading status JSON.
+  120.354 D Status loading succeeded.
+  123.953 D Task succeeded
+  123.968 D Failed to stop watching  "D:/OldRix/OldRix Client v2.3 Pirate/instances/\u041D\u043E\u0432\u0430\u044F\u042D\u0440\u0430- UltraHardcore/minecraft/saves"
+  123.968 D Failed to stop watching  "D:/OldRix/OldRix Client v2.3 Pirate/instances/\u041D\u043E\u0432\u0430\u044F\u042D\u0440\u0430- UltraHardcore/minecraft/texturepacks"
+  123.968 D Failed to stop watching  "D:/OldRix/OldRix Client v2.3 Pirate/instances/\u041D\u043E\u0432\u0430\u044F\u042D\u0440\u0430- UltraHardcore/minecraft/resourcepacks"
+  123.968 D Failed to stop watching  "D:/OldRix/OldRix Client v2.3 Pirate/instances/\u041D\u043E\u0432\u0430\u044F\u042D\u0440\u0430- UltraHardcore/minecraft/coremods"
+  123.968 D Failed to stop watching  "D:/OldRix/OldRix Client v2.3 Pirate/instances/\u041D\u043E\u0432\u0430\u044F\u042D\u0440\u0430- UltraHardcore/minecraft/mods"
+  125.328 D Processing authentication response.
+  125.328 D Getting new access token.
+  125.328 D Finished reading refresh response.
+  125.328 D Task succeeded
+  125.328 D Writing account list to "accounts.json"
+  125.328 D Building JSON data structure.
+  125.328 D Building account array.
+  125.329 D Writing account list to file.
+  125.329 D Saved account list to "accounts.json"
+  126.076 W Order file doesn't exist. Ignoring.
+  126.076 D Reading "net.minecraftforge.json"
+  126.093 W Order file doesn't exist. Ignoring.
+  126.093 D Reading "net.minecraftforge.json"
+  126.653 W QWidget::setLayout: Attempting to set QLayout "" on ConsoleWindow "", which already has a layout
+  126.694 D Task succeeded
+  126.695 D Task succeeded
+  126.696 D Task succeeded
+  126.697 D Instance either provides a version file or doesn't need an update.
+  126.697 D "\u041D\u043E\u0432\u0430\u044F\u042D\u0440\u0430- UltraHardcore" : downloading libraries
+  126.697 W Order file doesn't exist. Ignoring.
+  126.697 D Reading "net.minecraftforge.json"
+  126.701 D "Libraries for instance \xCD\xEE\xE2\xE0\xFF\xDD\xF0\xE0- UltraHardcore"  started.
+  126.720 D "Libraries for instance \u041D\u043E\u0432\u0430\u044F\u042D\u0440\u0430- UltraHardcore" succeeded.
+  126.720 D Task succeeded
+  126.721 D "\u041D\u043E\u0432\u0430\u044F\u042D\u0440\u0430- UltraHardcore" : Starting asset index download
+  126.721 D "Asset index for \xCD\xEE\xE2\xE0\xFF\xDD\xF0\xE0- UltraHardcore"  started.
+  127.121 D "Asset index for \u041D\u043E\u0432\u0430\u044F\u042D\u0440\u0430- UltraHardcore" succeeded.
+  127.122 D Task succeeded
+  127.122 D "\u041D\u043E\u0432\u0430\u044F\u042D\u0440\u0430- UltraHardcore" : Finished asset index download
+  127.152 D Task succeeded
+  127.152 D Task succeeded
+  127.599 D reconstructAssets "assets" "assets/indexes" "assets/objects" "assets/virtual" "assets/virtual/1.7.10"
+  127.605 D Env:  "USERDOMAIN_ROAMINGPROFILE" "DESKTOP-638BJSG"
+  127.605 D Env:  "PROCESSOR_REVISION" "3a09"
+  127.605 D Env:  "SystemRoot" "C:\\WINDOWS"
+  127.605 D Env:  "Path" "C:\\ProgramData\\Oracle\\Java\\javapath;C:\\WINDOWS\\system32;C:\\WINDOWS;C:\\WINDOWS\\System32\\Wbem;C:\\WINDOWS\\System32\\WindowsPowerShell\\v1.0\\;D:\\PuTTY\\;C:\\Program Files\\Java\\jdk1.8.0_161\\bin;D:\\gradle\\bin;C:\\Users\\maksach.v\\AppData\\Local\\Microsoft\\WindowsApps;C:\\Users\\maksach.v\\AppData\\Local\\GitHubDesktop\\bin"
+  127.605 D Env:  "OneDrive" "C:\\Users\\maksach.v\\OneDrive"
+  127.605 D Env:  "USERNAME" "maksach.v"
+  127.605 D Env:  "CommonProgramFiles(x86)" "C:\\Program Files (x86)\\Common Files"
+  127.605 D Env:  "TEMP" "C:\\Users\\maksach.v\\AppData\\Local\\Temp"
+  127.605 D Env:  "COMPUTERNAME" "DESKTOP-638BJSG"
+  127.605 D Env:  "ALLUSERSPROFILE" "C:\\ProgramData"
+  127.605 D Env:  "ComSpec" "C:\\WINDOWS\\system32\\cmd.exe"
+  127.605 D Env:  "LOGONSERVER" "\\\\DESKTOP-638BJSG"
+  127.605 D Env:  "PROCESSOR_ARCHITEW6432" "AMD64"
+  127.605 D Env: ignoring "JAVA_HOME" "C:\\Program Files\\Java\\jdk1.8.0_161"
+  127.605 D Env:  "LOCALAPPDATA" "C:\\Users\\maksach.v\\AppData\\Local"
+  127.605 D Env:  "FPS_BROWSER_USER_PROFILE_STRING" "Default"
+  127.605 D Env:  "ProgramW6432" "C:\\Program Files"
+  127.605 D Env:  "FPS_BROWSER_APP_PROFILE_STRING" "Internet Explorer"
+  127.605 D Env:  "=::" "::\\"
+  127.605 D Env:  "USERPROFILE" "C:\\Users\\maksach.v"
+  127.605 D Env:  "ProgramData" "C:\\ProgramData"
+  127.606 D Env:  "GRADLE_HOME" "D:\\gradle"
+  127.606 D Env:  "PATHEXT" ".COM;.EXE;.BAT;.CMD;.VBS;.VBE;.JS;.JSE;.WSF;.WSH;.MSC"
+  127.606 D Env:  "PROCESSOR_ARCHITECTURE" "x86"
+  127.606 D Env:  "APPDATA" "C:\\Users\\maksach.v\\AppData\\Roaming"
+  127.606 D Env:  "PROCESSOR_IDENTIFIER" "Intel64 Family 6 Model 58 Stepping 9, GenuineIntel"
+  127.606 D Env:  "OS" "Windows_NT"
+  127.606 D Env:  "TMP" "C:\\Users\\maksach.v\\AppData\\Local\\Temp"
+  127.606 D Env:  "NUMBER_OF_PROCESSORS" "4"
+  127.606 D Env:  "PSModulePath" "C:\\Program Files\\WindowsPowerShell\\Modules;C:\\WINDOWS\\system32\\WindowsPowerShell\\v1.0\\Modules"
+  127.606 D Env:  "SESSIONNAME" "Console"
+  127.606 D Env:  "PUBLIC" "C:\\Users\\Public"
+  127.606 D Env:  "USERDOMAIN" "DESKTOP-638BJSG"
+  127.606 D Env:  "HOMEDRIVE" "C:"
+  127.606 D Env:  "PROCESSOR_LEVEL" "6"
+  127.606 D Env:  "windir" "C:\\WINDOWS"
+  127.606 D Env:  "SystemDrive" "C:"
+  127.606 D Env:  "CommonProgramFiles" "C:\\Program Files (x86)\\Common Files"
+  127.606 D Env:  "ProgramFiles(x86)" "C:\\Program Files (x86)"
+  127.606 D Env:  "ProgramFiles" "C:\\Program Files (x86)"
+  127.606 D Env:  "HOMEPATH" "\\Users\\maksach.v"
+  127.606 D Env:  "CommonProgramW6432" "C:\\Program Files\\Common Files"
+  180.207 D "Status JSON"  started.
+  180.347 D "Status JSON" succeeded.
+  180.347 D Task succeeded
+  180.347 D Finished loading status JSON.
+  180.347 D Status loading succeeded.
+  240.220 D "Status JSON"  started.
+  240.457 D "Status JSON" succeeded.
+  240.457 D Task succeeded
+  240.457 D Finished loading status JSON.
+  240.457 D Status loading succeeded.
+  300.207 D "Status JSON"  started.
+  300.349 D "Status JSON" succeeded.
+  300.349 D Task succeeded
+  300.349 D Finished loading status JSON.
+  300.349 D Status loading succeeded.
+  360.207 D "Status JSON"  started.
+  360.351 D "Status JSON" succeeded.
+  360.351 D Task succeeded
+  360.351 D Finished loading status JSON.
+  360.351 D Status loading succeeded.
+  420.206 D "Status JSON"  started.
+  420.344 D "Status JSON" succeeded.
+  420.344 D Task succeeded
+  420.344 D Finished loading status JSON.
+  420.344 D Status loading succeeded.
+  480.202 D "Status JSON"  started.
+  480.347 D "Status JSON" succeeded.
+  480.347 D Task succeeded
+  480.347 D Finished loading status JSON.
+  480.347 D Status loading succeeded.
+  540.204 D "Status JSON"  started.
+  540.345 D "Status JSON" succeeded.
+  540.345 D Task succeeded
+  540.345 D Finished loading status JSON.
+  540.345 D Status loading succeeded.
+  600.208 D "Status JSON"  started.
+  600.354 D "Status JSON" succeeded.
+  600.355 D Task succeeded
+  600.355 D Finished loading status JSON.
+  600.355 D Status loading succeeded.
+  660.207 D "Status JSON"  started.
+  660.347 D "Status JSON" succeeded.
+  660.347 D Task succeeded
+  660.347 D Finished loading status JSON.
+  660.347 D Status loading succeeded.
+  720.203 D "Status JSON"  started.
+  720.344 D "Status JSON" succeeded.
+  720.344 D Task succeeded
+  720.344 D Finished loading status JSON.
+  720.344 D Status loading succeeded.
+  780.208 D "Status JSON"  started.
+  780.347 D "Status JSON" succeeded.
+  780.347 D Task succeeded
+  780.347 D Finished loading status JSON.
+  780.348 D Status loading succeeded.
+  840.205 D "Status JSON"  started.
+  840.350 D "Status JSON" succeeded.
+  840.350 D Task succeeded
+  840.350 D Finished loading status JSON.
+  840.350 D Status loading succeeded.
+  900.205 D "Status JSON"  started.
+  900.351 D "Status JSON" succeeded.
+  900.351 D Task succeeded
+  900.351 D Finished loading status JSON.
+  900.351 D Status loading succeeded.
+  960.207 D "Status JSON"  started.
+  960.346 D "Status JSON" succeeded.
+  960.346 D Task succeeded
+  960.346 D Finished loading status JSON.
+  960.346 D Status loading succeeded.
+ 1020.204 D "Status JSON"  started.
+ 1020.343 D "Status JSON" succeeded.
+ 1020.343 D Task succeeded
+ 1020.343 D Finished loading status JSON.
+ 1020.343 D Status loading succeeded.
+ 1080.204 D "Status JSON"  started.
+ 1080.350 D "Status JSON" succeeded.
+ 1080.350 D Task succeeded
+ 1080.350 D Finished loading status JSON.
+ 1080.350 D Status loading succeeded.
+ 1140.205 D "Status JSON"  started.
+ 1140.352 D "Status JSON" succeeded.
+ 1140.352 D Task succeeded
+ 1140.352 D Finished loading status JSON.
+ 1140.352 D Status loading succeeded.
+ 1200.207 D "Status JSON"  started.
+ 1200.347 D "Status JSON" succeeded.
+ 1200.347 D Task succeeded
+ 1200.347 D Finished loading status JSON.
+ 1200.347 D Status loading succeeded.
+ 1260.205 D "Status JSON"  started.
+ 1260.348 D "Status JSON" succeeded.
+ 1260.349 D Task succeeded
+ 1260.349 D Finished loading status JSON.
+ 1260.349 D Status loading succeeded.
+ 1320.203 D "Status JSON"  started.
+ 1320.350 D "Status JSON" succeeded.
+ 1320.350 D Task succeeded
+ 1320.350 D Finished loading status JSON.
+ 1320.350 D Status loading succeeded.
+ 1380.208 D "Status JSON"  started.
+ 1380.352 D "Status JSON" succeeded.
+ 1380.352 D Task succeeded
+ 1380.352 D Finished loading status JSON.
+ 1380.352 D Status loading succeeded.
+ 1440.206 D "Status JSON"  started.
+ 1440.345 D "Status JSON" succeeded.
+ 1440.345 D Task succeeded
+ 1440.345 D Finished loading status JSON.
+ 1440.345 D Status loading succeeded.
+ 1500.206 D "Status JSON"  started.
+ 1500.353 D "Status JSON" succeeded.
+ 1500.353 D Task succeeded
+ 1500.353 D Finished loading status JSON.
+ 1500.354 D Status loading succeeded.
+ 1560.203 D "Status JSON"  started.
+ 1560.341 D "Status JSON" succeeded.
+ 1560.341 D Task succeeded
+ 1560.341 D Finished loading status JSON.
+ 1560.342 D Status loading succeeded.
+ 1620.211 D "Status JSON"  started.
+ 1620.357 D "Status JSON" succeeded.
+ 1620.357 D Task succeeded
+ 1620.357 D Finished loading status JSON.
+ 1620.357 D Status loading succeeded.
+ 1680.202 D "Status JSON"  started.
+ 1680.348 D "Status JSON" succeeded.
+ 1680.348 D Task succeeded
+ 1680.348 D Finished loading status JSON.
+ 1680.349 D Status loading succeeded.
+ 1740.205 D "Status JSON"  started.
+ 1740.351 D "Status JSON" succeeded.
+ 1740.351 D Task succeeded
+ 1740.351 D Finished loading status JSON.
+ 1740.351 D Status loading succeeded.
+ 1800.207 D "Status JSON"  started.
+ 1800.352 D "Status JSON" succeeded.
+ 1800.352 D Task succeeded
+ 1800.352 D Finished loading status JSON.
+ 1800.352 D Status loading succeeded.
+ 1860.205 D "Status JSON"  started.
+ 1860.348 D "Status JSON" succeeded.
+ 1860.348 D Task succeeded
+ 1860.349 D Finished loading status JSON.
+ 1860.349 D Status loading succeeded.
+ 1920.206 D "Status JSON"  started.
+ 1920.348 D "Status JSON" succeeded.
+ 1920.348 D Task succeeded
+ 1920.348 D Finished loading status JSON.
+ 1920.348 D Status loading succeeded.
+ 1980.206 D "Status JSON"  started.
+ 1980.352 D "Status JSON" succeeded.
+ 1980.352 D Task succeeded
+ 1980.352 D Finished loading status JSON.
+ 1980.352 D Status loading succeeded.
+ 2040.206 D "Status JSON"  started.
+ 2040.350 D "Status JSON" succeeded.
+ 2040.350 D Task succeeded
+ 2040.350 D Finished loading status JSON.
+ 2040.351 D Status loading succeeded.
+ 2100.207 D "Status JSON"  started.
+ 2100.357 D "Status JSON" succeeded.
+ 2100.358 D Task succeeded
+ 2100.358 D Finished loading status JSON.
+ 2100.358 D Status loading succeeded.
+ 2160.724 D "Status JSON"  started.
+ 2161.096 D "Status JSON" succeeded.
+ 2161.096 D Task succeeded
+ 2161.096 D Finished loading status JSON.
+ 2161.096 D Status loading succeeded.
+ 2220.204 D "Status JSON"  started.
+ 2220.349 D "Status JSON" succeeded.
+ 2220.349 D Task succeeded
+ 2220.349 D Finished loading status JSON.
+ 2220.349 D Status loading succeeded.
+ 2280.204 D "Status JSON"  started.
+ 2280.351 D "Status JSON" succeeded.
+ 2280.351 D Task succeeded
+ 2280.351 D Finished loading status JSON.
+ 2280.351 D Status loading succeeded.
+ 2340.204 D "Status JSON"  started.
+ 2340.354 D "Status JSON" succeeded.
+ 2340.354 D Task succeeded
+ 2340.354 D Finished loading status JSON.
+ 2340.354 D Status loading succeeded.
+ 2400.204 D "Status JSON"  started.
+ 2400.351 D "Status JSON" succeeded.
+ 2400.351 D Task succeeded
+ 2400.351 D Finished loading status JSON.
+ 2400.351 D Status loading succeeded.
+ 2460.203 D "Status JSON"  started.
+ 2460.347 D "Status JSON" succeeded.
+ 2460.347 D Task succeeded
+ 2460.347 D Finished loading status JSON.
+ 2460.347 D Status loading succeeded.
+ 2520.206 D "Status JSON"  started.
+ 2520.344 D "Status JSON" succeeded.
+ 2520.344 D Task succeeded
+ 2520.344 D Finished loading status JSON.
+ 2520.344 D Status loading succeeded.
+ 2580.204 D "Status JSON"  started.
+ 2580.348 D "Status JSON" succeeded.
+ 2580.348 D Task succeeded
+ 2580.348 D Finished loading status JSON.
+ 2580.348 D Status loading succeeded.
+ 2640.207 D "Status JSON"  started.
+ 2640.345 D "Status JSON" succeeded.
+ 2640.345 D Task succeeded
+ 2640.345 D Finished loading status JSON.
+ 2640.345 D Status loading succeeded.
+ 2700.207 D "Status JSON"  started.
+ 2700.353 D "Status JSON" succeeded.
+ 2700.353 D Task succeeded
+ 2700.353 D Finished loading status JSON.
+ 2700.353 D Status loading succeeded.
+ 2760.208 D "Status JSON"  started.
+ 2760.345 D "Status JSON" succeeded.
+ 2760.346 D Task succeeded
+ 2760.346 D Finished loading status JSON.
+ 2760.346 D Status loading succeeded.
+ 2820.205 D "Status JSON"  started.
+ 2820.343 D "Status JSON" succeeded.
+ 2820.344 D Task succeeded
+ 2820.344 D Finished loading status JSON.
+ 2820.344 D Status loading succeeded.
+ 2880.206 D "Status JSON"  started.
+ 2880.345 D "Status JSON" succeeded.
+ 2880.345 D Task succeeded
+ 2880.345 D Finished loading status JSON.
+ 2880.345 D Status loading succeeded.
+ 2940.210 D "Status JSON"  started.
+ 2940.348 D "Status JSON" succeeded.
+ 2940.348 D Task succeeded
+ 2940.348 D Finished loading status JSON.
+ 2940.348 D Status loading succeeded.
+ 3000.206 D "Status JSON"  started.
+ 3000.345 D "Status JSON" succeeded.
+ 3000.345 D Task succeeded
+ 3000.345 D Finished loading status JSON.
+ 3000.345 D Status loading succeeded.
+ 3060.205 D "Status JSON"  started.
+ 3060.346 D "Status JSON" succeeded.
+ 3060.346 D Task succeeded
+ 3060.346 D Finished loading status JSON.
+ 3060.346 D Status loading succeeded.
+ 3120.206 D "Status JSON"  started.
+ 3120.348 D "Status JSON" succeeded.
+ 3120.348 D Task succeeded
+ 3120.348 D Finished loading status JSON.
+ 3120.348 D Status loading succeeded.
+ 3180.206 D "Status JSON"  started.
+ 3180.352 D "Status JSON" succeeded.
+ 3180.352 D Task succeeded
+ 3180.352 D Finished loading status JSON.
+ 3180.352 D Status loading succeeded.
+ 3240.207 D "Status JSON"  started.
+ 3240.345 D "Status JSON" succeeded.
+ 3240.345 D Task succeeded
+ 3240.345 D Finished loading status JSON.
+ 3240.345 D Status loading succeeded.
+ 3300.209 D "Status JSON"  started.
+ 3300.348 D "Status JSON" succeeded.
+ 3300.349 D Task succeeded
+ 3300.349 D Finished loading status JSON.
+ 3300.349 D Status loading succeeded.
+ 3360.207 D "Status JSON"  started.
+ 3360.352 D "Status JSON" succeeded.
+ 3360.352 D Task succeeded
+ 3360.352 D Finished loading status JSON.
+ 3360.353 D Status loading succeeded.
+ 3420.207 D "Status JSON"  started.
+ 3420.351 D "Status JSON" succeeded.
+ 3420.351 D Task succeeded
+ 3420.351 D Finished loading status JSON.
+ 3420.351 D Status loading succeeded.
+ 3478.294 D Task succeeded
+ 3478.362 D Task succeeded
+ 3478.507 D Task succeeded
+ 3478.516 D Failed to stop watching  "D:/OldRix/OldRix Client v2.3 Pirate/instances/\u041D\u043E\u0432\u0430\u044F\u042D\u0440\u0430- UltraHardcore/minecraft/saves"
+ 3478.516 D Failed to stop watching  "D:/OldRix/OldRix Client v2.3 Pirate/instances/\u041D\u043E\u0432\u0430\u044F\u042D\u0440\u0430- UltraHardcore/minecraft/texturepacks"
+ 3478.516 D Failed to stop watching  "D:/OldRix/OldRix Client v2.3 Pirate/instances/\u041D\u043E\u0432\u0430\u044F\u042D\u0440\u0430- UltraHardcore/minecraft/resourcepacks"
+ 3478.516 D Failed to stop watching  "D:/OldRix/OldRix Client v2.3 Pirate/instances/\u041D\u043E\u0432\u0430\u044F\u042D\u0440\u0430- UltraHardcore/minecraft/coremods"
+ 3478.517 D Failed to stop watching  "D:/OldRix/OldRix Client v2.3 Pirate/instances/\u041D\u043E\u0432\u0430\u044F\u042D\u0440\u0430- UltraHardcore/minecraft/mods"
+ 3480.207 D "Status JSON"  started.
+ 3480.350 D "Status JSON" succeeded.
+ 3480.350 D Task succeeded
+ 3480.350 D Finished loading status JSON.
+ 3480.351 D Status loading succeeded.
+ 3480.412 D Processing authentication response.
+ 3480.412 D Getting new access token.
+ 3480.412 D Finished reading refresh response.
+ 3480.413 D Task succeeded
+ 3480.414 D Writing account list to "accounts.json"
+ 3480.414 D Building JSON data structure.
+ 3480.414 D Building account array.
+ 3480.414 D Writing account list to file.
+ 3480.415 D Saved account list to "accounts.json"
+ 3481.366 W Order file doesn't exist. Ignoring.
+ 3481.366 D Reading "net.minecraftforge.json"
+ 3481.372 W Order file doesn't exist. Ignoring.
+ 3481.372 D Reading "net.minecraftforge.json"
+ 3481.884 W QWidget::setLayout: Attempting to set QLayout "" on ConsoleWindow "", which already has a layout
+ 3481.934 D Task succeeded
+ 3481.934 D Task succeeded
+ 3481.935 D Task succeeded
+ 3481.936 D Instance either provides a version file or doesn't need an update.
+ 3481.936 D "\u041D\u043E\u0432\u0430\u044F\u042D\u0440\u0430- UltraHardcore" : downloading libraries
+ 3481.937 W Order file doesn't exist. Ignoring.
+ 3481.937 D Reading "net.minecraftforge.json"
+ 3481.940 D "Libraries for instance \xCD\xEE\xE2\xE0\xFF\xDD\xF0\xE0- UltraHardcore"  started.
+ 3481.958 D "Libraries for instance \u041D\u043E\u0432\u0430\u044F\u042D\u0440\u0430- UltraHardcore" succeeded.
+ 3481.958 D Task succeeded
+ 3481.959 D "\u041D\u043E\u0432\u0430\u044F\u042D\u0440\u0430- UltraHardcore" : Starting asset index download
+ 3481.959 D "Asset index for \xCD\xEE\xE2\xE0\xFF\xDD\xF0\xE0- UltraHardcore"  started.
+ 3482.289 D "Asset index for \u041D\u043E\u0432\u0430\u044F\u042D\u0440\u0430- UltraHardcore" succeeded.
+ 3482.289 D Task succeeded
+ 3482.289 D "\u041D\u043E\u0432\u0430\u044F\u042D\u0440\u0430- UltraHardcore" : Finished asset index download
+ 3482.322 D Task succeeded
+ 3482.322 D Task succeeded
+ 3482.769 D reconstructAssets "assets" "assets/indexes" "assets/objects" "assets/virtual" "assets/virtual/1.7.10"
+ 3482.774 D Env:  "USERDOMAIN_ROAMINGPROFILE" "DESKTOP-638BJSG"
+ 3482.774 D Env:  "PROCESSOR_REVISION" "3a09"
+ 3482.774 D Env:  "SystemRoot" "C:\\WINDOWS"
+ 3482.774 D Env:  "Path" "C:\\ProgramData\\Oracle\\Java\\javapath;C:\\WINDOWS\\system32;C:\\WINDOWS;C:\\WINDOWS\\System32\\Wbem;C:\\WINDOWS\\System32\\WindowsPowerShell\\v1.0\\;D:\\PuTTY\\;C:\\Program Files\\Java\\jdk1.8.0_161\\bin;D:\\gradle\\bin;C:\\Users\\maksach.v\\AppData\\Local\\Microsoft\\WindowsApps;C:\\Users\\maksach.v\\AppData\\Local\\GitHubDesktop\\bin"
+ 3482.774 D Env:  "OneDrive" "C:\\Users\\maksach.v\\OneDrive"
+ 3482.774 D Env:  "USERNAME" "maksach.v"
+ 3482.774 D Env:  "CommonProgramFiles(x86)" "C:\\Program Files (x86)\\Common Files"
+ 3482.774 D Env:  "TEMP" "C:\\Users\\maksach.v\\AppData\\Local\\Temp"
+ 3482.774 D Env:  "COMPUTERNAME" "DESKTOP-638BJSG"
+ 3482.774 D Env:  "ALLUSERSPROFILE" "C:\\ProgramData"
+ 3482.774 D Env:  "ComSpec" "C:\\WINDOWS\\system32\\cmd.exe"
+ 3482.774 D Env:  "LOGONSERVER" "\\\\DESKTOP-638BJSG"
+ 3482.774 D Env:  "PROCESSOR_ARCHITEW6432" "AMD64"
+ 3482.774 D Env: ignoring "JAVA_HOME" "C:\\Program Files\\Java\\jdk1.8.0_161"
+ 3482.774 D Env:  "LOCALAPPDATA" "C:\\Users\\maksach.v\\AppData\\Local"
+ 3482.774 D Env:  "FPS_BROWSER_USER_PROFILE_STRING" "Default"
+ 3482.774 D Env:  "ProgramW6432" "C:\\Program Files"
+ 3482.774 D Env:  "FPS_BROWSER_APP_PROFILE_STRING" "Internet Explorer"
+ 3482.775 D Env:  "=::" "::\\"
+ 3482.775 D Env:  "USERPROFILE" "C:\\Users\\maksach.v"
+ 3482.775 D Env:  "ProgramData" "C:\\ProgramData"
+ 3482.775 D Env:  "GRADLE_HOME" "D:\\gradle"
+ 3482.775 D Env:  "PATHEXT" ".COM;.EXE;.BAT;.CMD;.VBS;.VBE;.JS;.JSE;.WSF;.WSH;.MSC"
+ 3482.775 D Env:  "PROCESSOR_ARCHITECTURE" "x86"
+ 3482.775 D Env:  "APPDATA" "C:\\Users\\maksach.v\\AppData\\Roaming"
+ 3482.775 D Env:  "PROCESSOR_IDENTIFIER" "Intel64 Family 6 Model 58 Stepping 9, GenuineIntel"
+ 3482.775 D Env:  "OS" "Windows_NT"
+ 3482.775 D Env:  "TMP" "C:\\Users\\maksach.v\\AppData\\Local\\Temp"
+ 3482.775 D Env:  "NUMBER_OF_PROCESSORS" "4"
+ 3482.775 D Env:  "PSModulePath" "C:\\Program Files\\WindowsPowerShell\\Modules;C:\\WINDOWS\\system32\\WindowsPowerShell\\v1.0\\Modules"
+ 3482.775 D Env:  "SESSIONNAME" "Console"
+ 3482.775 D Env:  "PUBLIC" "C:\\Users\\Public"
+ 3482.775 D Env:  "USERDOMAIN" "DESKTOP-638BJSG"
+ 3482.775 D Env:  "HOMEDRIVE" "C:"
+ 3482.775 D Env:  "PROCESSOR_LEVEL" "6"
+ 3482.775 D Env:  "windir" "C:\\WINDOWS"
+ 3482.775 D Env:  "SystemDrive" "C:"
+ 3482.775 D Env:  "CommonProgramFiles" "C:\\Program Files (x86)\\Common Files"
+ 3482.775 D Env:  "ProgramFiles(x86)" "C:\\Program Files (x86)"
+ 3482.775 D Env:  "ProgramFiles" "C:\\Program Files (x86)"
+ 3482.775 D Env:  "HOMEPATH" "\\Users\\maksach.v"
+ 3482.775 D Env:  "CommonProgramW6432" "C:\\Program Files\\Common Files"
+ 3540.208 D "Status JSON"  started.
+ 3540.346 D "Status JSON" succeeded.
+ 3540.346 D Task succeeded
+ 3540.347 D Finished loading status JSON.
+ 3540.347 D Status loading succeeded.
+ 3600.204 D "Status JSON"  started.
+ 3600.342 D "Status JSON" succeeded.
+ 3600.342 D Task succeeded
+ 3600.342 D Finished loading status JSON.
+ 3600.343 D Status loading succeeded.
+ 3660.206 D "Status JSON"  started.
+ 3660.345 D "Status JSON" succeeded.
+ 3660.345 D Task succeeded
+ 3660.345 D Finished loading status JSON.
+ 3660.345 D Status loading succeeded.
+ 3720.203 D "Status JSON"  started.
+ 3720.341 D "Status JSON" succeeded.
+ 3720.341 D Task succeeded
+ 3720.341 D Finished loading status JSON.
+ 3720.341 D Status loading succeeded.
+ 3780.211 D "Status JSON"  started.
+ 3780.350 D "Status JSON" succeeded.
+ 3780.350 D Task succeeded
+ 3780.350 D Finished loading status JSON.
+ 3780.350 D Status loading succeeded.
+ 3840.211 D "Status JSON"  started.
+ 3840.349 D "Status JSON" succeeded.
+ 3840.349 D Task succeeded
+ 3840.350 D Finished loading status JSON.
+ 3840.350 D Status loading succeeded.
+ 3900.207 D "Status JSON"  started.
+ 3900.348 D "Status JSON" succeeded.
+ 3900.348 D Task succeeded
+ 3900.348 D Finished loading status JSON.
+ 3900.348 D Status loading succeeded.
+ 3960.207 D "Status JSON"  started.
+ 3960.354 D "Status JSON" succeeded.
+ 3960.354 D Task succeeded
+ 3960.354 D Finished loading status JSON.
+ 3960.354 D Status loading succeeded.
+ 4020.207 D "Status JSON"  started.
+ 4020.347 D "Status JSON" succeeded.
+ 4020.347 D Task succeeded
+ 4020.347 D Finished loading status JSON.
+ 4020.347 D Status loading succeeded.
+ 4054.266 D Task succeeded
+ 4054.328 D Task succeeded
+ 4054.485 D Task succeeded
+ 4054.491 D Failed to stop watching  "D:/OldRix/OldRix Client v2.3 Pirate/instances/\u041D\u043E\u0432\u0430\u044F\u042D\u0440\u0430- UltraHardcore/minecraft/saves"
+ 4054.492 D Failed to stop watching  "D:/OldRix/OldRix Client v2.3 Pirate/instances/\u041D\u043E\u0432\u0430\u044F\u042D\u0440\u0430- UltraHardcore/minecraft/texturepacks"
+ 4054.492 D Failed to stop watching  "D:/OldRix/OldRix Client v2.3 Pirate/instances/\u041D\u043E\u0432\u0430\u044F\u042D\u0440\u0430- UltraHardcore/minecraft/resourcepacks"
+ 4054.492 D Failed to stop watching  "D:/OldRix/OldRix Client v2.3 Pirate/instances/\u041D\u043E\u0432\u0430\u044F\u042D\u0440\u0430- UltraHardcore/minecraft/coremods"
+ 4054.492 D Failed to stop watching  "D:/OldRix/OldRix Client v2.3 Pirate/instances/\u041D\u043E\u0432\u0430\u044F\u042D\u0440\u0430- UltraHardcore/minecraft/mods"

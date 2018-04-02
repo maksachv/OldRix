@@ -1,0 +1,229 @@
+    0.065 D MultiMC 5, (c) 2013-2015 MultiMC Contributors
+    0.066 D Version                    :  "5 Modify by hackphoenix.com"
+    0.066 D Git commit                 :  ""
+    0.066 D Git refspec                :  ""
+    0.066 D Work dir before adjustment :  "D:/OldRix/OldRix Client v2.5 Pirate"
+    0.066 D Work dir after adjustment  :  "D:/OldRix/OldRix Client v2.5 Pirate"
+    0.066 D Adjusted by                :  "Command line D:/OldRix/OldRix Client v2.5 Pirate"
+    0.066 D Binary path                :  "D:/OldRix/OldRix Client v2.5 Pirate"
+    0.067 D Application root path      :  "D:/OldRix/OldRix Client v2.5 Pirate"
+    0.105 D Detected default console font: "Courier" , substitutions: ""
+    0.105 D FTB Launcher paths: "C:/Users/maksach.v/AppData/Roaming/ftblauncher" and "C:/Users/maksach.v/AppData/Local/ftblauncher"
+    0.106 D Attempting to read "C:/Users/maksach.v/AppData/Roaming/ftblauncher/ftblaunch.cfg"
+    0.106 W Couldn't open "C:/Users/maksach.v/AppData/Roaming/ftblauncher/ftblaunch.cfg" : "\u0421\u0438\u0441\u0442\u0435\u043C\u0435 \u043D\u0435 \u0443\u0434\u0430\u0435\u0442\u0441\u044F \u043D\u0430\u0439\u0442\u0438 \u0443\u043A\u0430\u0437\u0430\u043D\u043D\u044B\u0439 \u043F\u0443\u0442\u044C."
+    0.106 W This is perfectly normal if you don't have FTB installed
+    0.108 D Your language is "ru"
+    0.118 D Loading MMC Language File for ru ...
+    0.290 W libpng warning: iCCP: known incorrect sRGB profile
+    0.308 D Started watching  "D:/OldRix/OldRix Client v2.5 Pirate/icons"
+    0.325 D Instance path              :  "instances"
+    0.326 D Loading Instances...
+    0.328 D Loading MultiMC instance from  "instances/\u041D\u043E\u0432\u0430\u044F\u042D\u0440\u0430- UltraHardcore"
+    0.332 D Loaded instance  "\u041D\u043E\u0432\u0430\u044F\u042D\u0440\u0430- UltraHardcore"  from  "D:/OldRix/OldRix Client v2.5 Pirate/instances/\u041D\u043E\u0432\u0430\u044F\u042D\u0440\u0430- UltraHardcore"
+    0.332 D Loading MultiMC instance from  "instances/\u041D\u043E\u0432\u0430\u044F\u042D\u0440\u0430- UltraTech"
+    0.335 D Loaded instance  "\u041D\u043E\u0432\u0430\u044F\u042D\u0440\u0430- UltraTech"  from  "D:/OldRix/OldRix Client v2.5 Pirate/instances/\u041D\u043E\u0432\u0430\u044F\u042D\u0440\u0430- UltraTech"
+    0.335 D Loading accounts...
+    0.352 D Detecting proxy settings...
+    0.352 D Using no proxy is an option!
+    0.353 D Downloading Translations Index...
+    0.353 D "Translations Index"  started.
+    0.453 D "Status JSON"  started.
+    0.507 D "Startup player skins download"  started.
+    0.508 D Loading builtin version list.
+    0.509 W Blacklisted legacy version ignored:  "rd-160052"
+    0.520 D Loading local version list.
+    0.520 D Loaded version "1.10.2" from local version list.
+    0.520 D Loaded version "1.7.10" from local version list.
+    1.136 D Reloading news.
+    1.136 D "News RSS Feed"  started.
+    1.136 D "GoUpdate Repository Index"  started.
+    2.469 D Loading remote version list.
+    2.469 D Loaded version "18w11a" from remote version list.
+    2.469 D Loaded version "18w10d" from remote version list.
+    2.469 D Loaded version "18w09a" from remote version list.
+    2.469 D Loaded version "18w08b" from remote version list.
+    2.469 D Loaded version "18w07c" from remote version list.
+    2.469 D Loaded version "18w06a" from remote version list.
+    2.469 D Loaded version "18w05a" from remote version list.
+    2.469 D Loaded version "18w03b" from remote version list.
+    2.469 D Loaded version "18w02a" from remote version list.
+    2.469 D Loaded version "18w01a" from remote version list.
+    2.469 D Loaded version "17w50a" from remote version list.
+    2.469 D Loaded version "17w49b" from remote version list.
+    2.470 D Loaded version "17w48a" from remote version list.
+    2.470 D Loaded version "17w47b" from remote version list.
+    2.470 D Loaded version "17w46a" from remote version list.
+    2.470 D Loaded version "17w45b" from remote version list.
+    2.470 D Loaded version "17w43b" from remote version list.
+    2.470 D Loaded version "1.12.2" from remote version list.
+    2.470 D Loaded version "1.12.1" from remote version list.
+    2.470 D Loaded version "1.12" from remote version list.
+    2.470 D Loaded version "1.11.2" from remote version list.
+    2.470 D Loaded version "1.11.1" from remote version list.
+    2.470 D Loaded version "1.11" from remote version list.
+    2.470 D Loaded version "1.10.2" from remote version list.
+    2.470 D Loaded version "1.10.1" from remote version list.
+    2.470 D Loaded version "1.10" from remote version list.
+    2.470 D Loaded version "1.9.4" from remote version list.
+    2.470 D Loaded version "1.9.3" from remote version list.
+    2.470 D Loaded version "1.9.2" from remote version list.
+    2.470 D Loaded version "1.9.1" from remote version list.
+    2.470 D Loaded version "1.9" from remote version list.
+    2.470 D Loaded version "1.8.9" from remote version list.
+    2.470 D Loaded version "1.8.8" from remote version list.
+    2.471 D Loaded version "1.8.7" from remote version list.
+    2.471 D Loaded version "1.8.6" from remote version list.
+    2.471 D Loaded version "1.8.5" from remote version list.
+    2.471 D Loaded version "1.8.4" from remote version list.
+    2.471 D Loaded version "1.8.3" from remote version list.
+    2.471 D Loaded version "1.8.2" from remote version list.
+    2.471 D Loaded version "1.8.1" from remote version list.
+    2.471 D Loaded version "1.8" from remote version list.
+    2.471 D Loaded version "1.7.10" from remote version list.
+    2.471 D Loaded version "1.7.9" from remote version list.
+    2.471 D Loaded version "1.7.8" from remote version list.
+    2.471 D Loaded version "1.7.7" from remote version list.
+    2.471 D Loaded version "1.7.6" from remote version list.
+    2.471 D Loaded version "1.7.5" from remote version list.
+    2.471 D Loaded version "1.7.4" from remote version list.
+    2.471 D Loaded version "1.7.3" from remote version list.
+    2.471 D Loaded version "1.7.2" from remote version list.
+    2.471 D Loaded version "1.6.4" from remote version list.
+    2.471 D Loaded version "1.6.2" from remote version list.
+    2.471 D Loaded version "1.6.1" from remote version list.
+    2.472 W Blacklisted legacy version ignored:  "rd-160052"
+    2.472 D Task succeeded
+    2.622 D "Startup player skins download" succeeded.
+    2.622 D Task succeeded
+    2.624 D "GoUpdate Repository Index" succeeded.
+    2.624 D Task succeeded
+    2.638 D "Translations Index" succeeded.
+    2.638 D Task succeeded
+    2.638 D Got translations index!
+    2.640 D "Translations"  started.
+    2.719 C "Failed to load LWJGL list. XML error: tag mismatch at line 6"
+    2.723 D "Status JSON" succeeded.
+    2.723 D Task succeeded
+    2.723 D Finished loading status JSON.
+    2.723 D Status loading succeeded.
+    2.800 C Error getting URL: "https://www.hackphoenix.com/feed/" Network error:  QNetworkReply::NetworkError(ProtocolFailure)
+    2.835 D "Translations" succeeded.
+    2.835 D Task succeeded
+    2.835 D Got translations!
+    3.109 C Error getting URL: "https://www.hackphoenix.com/feed/" Network error:  QNetworkReply::NetworkError(ProtocolFailure)
+    3.444 C Error getting URL: "https://www.hackphoenix.com/feed/" Network error:  QNetworkReply::NetworkError(ProtocolFailure)
+    3.727 C Error getting URL: "https://www.hackphoenix.com/feed/" Network error:  QNetworkReply::NetworkError(ProtocolFailure)
+    3.727 C "News RSS Feed" failed.
+    3.727 C Task failed:  "Job 'News RSS Feed' failed "
+    3.727 D Failed to load news: "\u041D\u0435 \u0443\u0434\u0430\u043B\u043E\u0441\u044C \u0437\u0430\u0433\u0440\u0443\u0437\u0438\u0442\u044C RSS-\u043B\u0435\u043D\u0442\u0443 \u043D\u043E\u0432\u043E\u0441\u0442\u0435\u0439:\nJob 'News RSS Feed' failed "
+    4.066 D Processing authentication response.
+    4.066 C Task failed:  "\u0421\u0435\u0440\u0432\u0435\u0440 \u0430\u0432\u0442\u043E\u0440\u0438\u0437\u0430\u0446\u0438\u0438 \u043D\u0435 \u043E\u0442\u043F\u0440\u0430\u0432\u0438\u043B \u043A\u043B\u044E\u0447 \u043A\u043B\u0438\u0435\u043D\u0442\u0430."
+    4.067 D Writing account list to "accounts.json"
+    4.067 D Building JSON data structure.
+    4.067 D Building account array.
+    4.067 D Writing account list to file.
+    4.067 D Saved account list to "accounts.json"
+   10.092 D Processing authentication response.
+   10.093 D Getting client token.
+   10.093 D Getting access token.
+   10.093 D Loading profile list.
+   10.093 D Setting current profile.
+   10.093 D Finished reading authentication response.
+   10.094 D Task succeeded
+   10.094 D Writing account list to "accounts.json"
+   10.095 D Building JSON data structure.
+   10.095 D Building account array.
+   10.095 D Writing account list to file.
+   10.096 D Saved account list to "accounts.json"
+   11.076 W Order file doesn't exist. Ignoring.
+   11.076 D Reading "net.minecraftforge.json"
+   11.123 W Order file doesn't exist. Ignoring.
+   11.124 D Reading "net.minecraftforge.json"
+   11.730 W QWidget::setLayout: Attempting to set QLayout "" on ConsoleWindow "", which already has a layout
+   11.795 D Task succeeded
+   11.796 D Task succeeded
+   11.797 D Task succeeded
+   11.798 D "Version index"  started.
+   11.860 D "Version index" succeeded.
+   11.860 D Task succeeded
+   11.900 D Task succeeded
+   11.900 D "\u041D\u043E\u0432\u0430\u044F\u042D\u0440\u0430- UltraHardcore" : downloading libraries
+   11.901 W Order file doesn't exist. Ignoring.
+   11.901 D Reading "net.minecraftforge.json"
+   11.906 D "Libraries for instance \xCD\xEE\xE2\xE0\xFF\xDD\xF0\xE0- UltraHardcore"  started.
+   11.909 D "Libraries for instance \u041D\u043E\u0432\u0430\u044F\u042D\u0440\u0430- UltraHardcore" succeeded.
+   11.909 D Task succeeded
+   11.910 D "\u041D\u043E\u0432\u0430\u044F\u042D\u0440\u0430- UltraHardcore" : Starting asset index download
+   11.910 D "Asset index for \xCD\xEE\xE2\xE0\xFF\xDD\xF0\xE0- UltraHardcore"  started.
+   12.209 D "Asset index for \u041D\u043E\u0432\u0430\u044F\u042D\u0440\u0430- UltraHardcore" succeeded.
+   12.209 D Task succeeded
+   12.209 D "\u041D\u043E\u0432\u0430\u044F\u042D\u0440\u0430- UltraHardcore" : Finished asset index download
+   12.257 D Task succeeded
+   12.257 D Task succeeded
+   12.734 D reconstructAssets "assets" "assets/indexes" "assets/objects" "assets/virtual" "assets/virtual/1.7.10"
+   12.740 D Env:  "ALLUSERSPROFILE" "C:\\ProgramData"
+   12.740 D Env:  "SystemRoot" "C:\\WINDOWS"
+   12.740 D Env:  "ProgramW6432" "C:\\Program Files"
+   12.740 D Env:  "PROCESSOR_IDENTIFIER" "Intel64 Family 6 Model 58 Stepping 9, GenuineIntel"
+   12.740 D Env:  "TMP" "C:\\Users\\maksach.v\\AppData\\Local\\Temp"
+   12.740 D Env:  "SESSIONNAME" "Console"
+   12.740 D Env:  "CommonProgramW6432" "C:\\Program Files\\Common Files"
+   12.740 D Env:  "NUMBER_OF_PROCESSORS" "4"
+   12.740 D Env:  "PUBLIC" "C:\\Users\\Public"
+   12.740 D Env:  "HOMEPATH" "\\Users\\maksach.v"
+   12.740 D Env:  "CommonProgramFiles(x86)" "C:\\Program Files (x86)\\Common Files"
+   12.740 D Env:  "ProgramData" "C:\\ProgramData"
+   12.740 D Env:  "USERNAME" "maksach.v"
+   12.740 D Env:  "__COMPAT_LAYER" "DetectorsWin8"
+   12.740 D Env: ignoring "JAVA_HOME" "C:\\Program Files\\Java\\jdk1.8.0_161"
+   12.740 D Env:  "LOCALAPPDATA" "C:\\Users\\maksach.v\\AppData\\Local"
+   12.740 D Env:  "USERDOMAIN" "DESKTOP-638BJSG"
+   12.740 D Env:  "FPS_BROWSER_APP_PROFILE_STRING" "Internet Explorer"
+   12.740 D Env:  "PROCESSOR_ARCHITEW6432" "AMD64"
+   12.740 D Env:  "COMPUTERNAME" "DESKTOP-638BJSG"
+   12.741 D Env:  "GRADLE_HOME" "D:\\gradle"
+   12.741 D Env:  "PATHEXT" ".COM;.EXE;.BAT;.CMD;.VBS;.VBE;.JS;.JSE;.WSF;.WSH;.MSC"
+   12.741 D Env:  "PSModulePath" "C:\\Program Files\\WindowsPowerShell\\Modules;C:\\WINDOWS\\system32\\WindowsPowerShell\\v1.0\\Modules"
+   12.741 D Env:  "USERPROFILE" "C:\\Users\\maksach.v"
+   12.741 D Env:  "Path" "C:\\ProgramData\\Oracle\\Java\\javapath;C:\\WINDOWS\\system32;C:\\WINDOWS;C:\\WINDOWS\\System32\\Wbem;C:\\WINDOWS\\System32\\WindowsPowerShell\\v1.0\\;D:\\PuTTY\\;C:\\Program Files\\Java\\jdk1.8.0_161\\bin;D:\\gradle\\bin;C:\\Users\\maksach.v\\AppData\\Local\\Microsoft\\WindowsApps;C:\\Users\\maksach.v\\AppData\\Local\\GitHubDesktop\\bin"
+   12.741 D Env:  "ComSpec" "C:\\WINDOWS\\system32\\cmd.exe"
+   12.741 D Env:  "USERDOMAIN_ROAMINGPROFILE" "DESKTOP-638BJSG"
+   12.741 D Env:  "APPDATA" "C:\\Users\\maksach.v\\AppData\\Roaming"
+   12.741 D Env:  "SystemDrive" "C:"
+   12.741 D Env:  "TEMP" "C:\\Users\\maksach.v\\AppData\\Local\\Temp"
+   12.741 D Env:  "HOMEDRIVE" "C:"
+   12.741 D Env:  "OS" "Windows_NT"
+   12.741 D Env:  "=::" "::\\"
+   12.741 D Env:  "PROCESSOR_REVISION" "3a09"
+   12.741 D Env:  "PROCESSOR_LEVEL" "6"
+   12.741 D Env:  "ProgramFiles" "C:\\Program Files (x86)"
+   12.741 D Env:  "CommonProgramFiles" "C:\\Program Files (x86)\\Common Files"
+   12.741 D Env:  "LOGONSERVER" "\\\\DESKTOP-638BJSG"
+   12.741 D Env:  "ProgramFiles(x86)" "C:\\Program Files (x86)"
+   12.741 D Env:  "windir" "C:\\WINDOWS"
+   12.741 D Env:  "PROCESSOR_ARCHITECTURE" "x86"
+   12.741 D Env:  "FPS_BROWSER_USER_PROFILE_STRING" "Default"
+   12.741 D Env:  "OneDrive" "C:\\Users\\maksach.v\\OneDrive"
+   60.448 D "Status JSON"  started.
+   60.593 D "Status JSON" succeeded.
+   60.593 D Task succeeded
+   60.593 D Finished loading status JSON.
+   60.593 D Status loading succeeded.
+  120.455 D "Status JSON"  started.
+  120.604 D "Status JSON" succeeded.
+  120.604 D Task succeeded
+  120.604 D Finished loading status JSON.
+  120.604 D Status loading succeeded.
+  180.452 D "Status JSON"  started.
+  180.599 D "Status JSON" succeeded.
+  180.599 D Task succeeded
+  180.599 D Finished loading status JSON.
+  180.599 D Status loading succeeded.
+  183.766 D Task succeeded
+  183.832 D Task succeeded
+  183.989 D Task succeeded
+  183.995 D Failed to stop watching  "D:/OldRix/OldRix Client v2.5 Pirate/instances/\u041D\u043E\u0432\u0430\u044F\u042D\u0440\u0430- UltraHardcore/minecraft/saves"
+  183.995 D Failed to stop watching  "D:/OldRix/OldRix Client v2.5 Pirate/instances/\u041D\u043E\u0432\u0430\u044F\u042D\u0440\u0430- UltraHardcore/minecraft/texturepacks"
+  183.995 D Failed to stop watching  "D:/OldRix/OldRix Client v2.5 Pirate/instances/\u041D\u043E\u0432\u0430\u044F\u042D\u0440\u0430- UltraHardcore/minecraft/resourcepacks"
+  183.996 D Failed to stop watching  "D:/OldRix/OldRix Client v2.5 Pirate/instances/\u041D\u043E\u0432\u0430\u044F\u042D\u0440\u0430- UltraHardcore/minecraft/coremods"
+  183.996 D Failed to stop watching  "D:/OldRix/OldRix Client v2.5 Pirate/instances/\u041D\u043E\u0432\u0430\u044F\u042D\u0440\u0430- UltraHardcore/minecraft/mods"

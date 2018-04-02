@@ -1,0 +1,122 @@
+    0.007 D <> Log initialized.
+    0.007 D MultiMC 5, (c) 2013-2017 MultiMC Contributors
+    0.007 D Version                    :  "0.6.1-1177"
+    0.007 D Git commit                 :  "595d1571802b7d7ec1128a92a653f2ed7bdabb3c"
+    0.007 D Git refspec                :  "refs/heads/stable"
+    0.008 D Work dir before adjustment :  "D:/OldRix/OldRix Client v3.0 License"
+    0.008 D Work dir after adjustment  :  "D:/OldRix/OldRix Client v3.0 License"
+    0.008 D Adjusted by                :  "Fallback to binary path D:/OldRix/OldRix Client v3.0 License"
+    0.008 D Binary path                :  "D:/OldRix/OldRix Client v3.0 License"
+    0.008 D Application root path      :  "D:/OldRix/OldRix Client v3.0 License"
+    0.008 D <> Paths set.
+    0.010 D Detected default console font: "Courier" , substitutions: ""
+    0.012 D <> Settings loaded.
+    0.012 D Loading Application Language File for ru ...
+    0.012 D Your language is "ru"
+    0.012 D <> Translations loaded.
+    0.012 D <> Updater started.
+    0.014 D Started watching  "D:/OldRix/OldRix Client v3.0 License/icons"
+    0.015 D <> Instance icons intialized.
+    0.015 D <> Icon themes initialized.
+    0.015 D ""
+    0.015 D Loading theme "custom"
+    0.016 D <> Widget themes initialized.
+    0.016 D Instance path              :  "instances"
+    0.017 D Loading Instances...
+    0.017 D Found instance ID "НоваяЭра- UltraHardcore"
+    0.017 D Found instance ID "НоваяЭра- UltraTech"
+    0.018 D Loaded instance  "НоваяЭра: UltraHardcore"  from  "D:/OldRix/OldRix Client v3.0 License/instances/НоваяЭра- UltraHardcore"
+    0.019 D Loaded instance  "НоваяЭра: UltraTech"  from  "D:/OldRix/OldRix Client v3.0 License/instances/НоваяЭра- UltraTech"
+    0.019 D <> Instances loaded.
+    0.019 D Loading accounts...
+    0.019 C "Failed to read the account list file (accounts.json)."
+    0.020 D <> Accounts loaded.
+    0.020 D <> Cache initialized.
+    0.020 D Detecting proxy settings...
+    0.020 D Using no proxy is an option!
+    0.020 D <> Proxy settings done.
+    0.021 D Downloading Translations Index...
+    0.021 D Task "NetJob(Translations Index)" started
+    0.023 D <> Icon theme set.
+    0.023 D <> Application theme set.
+    0.023 D <> Initialized analytics with tid "UA-87731965-2"
+    0.056 W QMetaObject::connectSlotsByName: No matching signal for on_actionInstanceSettings_triggered()
+    0.062 D Task "NetJob(Status JSON)" started
+    0.076 D Reloading news.
+    0.076 D Task "NetJob(News RSS Feed)" started
+    0.076 D Checking for updates.
+    0.076 D Channel list isn't loaded yet. Loading channel list and deferring update check.
+    0.076 D Loading the channel list.
+    0.076 D Task "NetJob(Update System Channel List)" started
+    0.076 D Task "NetJob(Checking for notifications)" started
+    0.148 D Viewport size "858x563"
+    0.148 D RAM size is 16329 MB
+    0.148 D [Analytics] "ScreenView: Main Window"
+    0.148 D <> Main window shown.
+    0.149 D Task "NetJob(Translations Index)" succeeded
+    0.149 D Got translations index!
+    0.150 D Task "NetJob(Translation for ru)" started
+    0.150 D Download cache hit  "http://files.multimc.org/translations/index"
+    0.151 D Downloading  "http://status.mojang.com/check"
+    0.667 D Downloading  "http://multimc.org/rss.xml"
+    0.667 D Downloading  "http://files.multimc.org/update/win32/channels.json"
+    0.668 D Downloading  "http://files.multimc.org/notifications.json"
+    0.700 D Downloading  "http://files.multimc.org/translations/ru.qm"
+    1.343 D Location header: QUrl("https://multimc.org/rss.xml")
+    1.343 D Following redirect to  "https://multimc.org/rss.xml"
+    1.343 D Downloading  "https://multimc.org/rss.xml"
+    1.343 D Download redirected: "https://multimc.org/rss.xml"
+    1.554 D Download succeeded: "http://files.multimc.org/notifications.json"
+    1.586 D Task "NetJob(Checking for notifications)" succeeded
+    1.586 D Download succeeded: "http://status.mojang.com/check"
+    1.586 D Task "NetJob(Status JSON)" succeeded
+    1.586 D Finished loading status JSON.
+    1.586 D Status loading succeeded.
+    1.636 D Download succeeded: "http://files.multimc.org/update/win32/channels.json"
+    1.636 D Task "NetJob(Update System Channel List)" succeeded
+    1.636 D Successfully loaded UpdateChecker channel list.
+    1.636 D Checking for updates.
+    1.636 D m_repoUrl =  "http://files.multimc.org/update/win32/stable/"
+    1.636 D Task "NetJob(GoUpdate Repository Index)" started
+    1.636 D Downloading  "http://files.multimc.org/update/win32/stable/index.json"
+    1.675 D Download succeeded: "http://files.multimc.org/translations/ru.qm"
+    1.675 D Task "NetJob(Translation for ru)" succeeded
+    1.675 D Got translation: "ru"
+    1.675 D Loading Application Language File for ru ...
+    1.760 D Download succeeded: "http://files.multimc.org/update/win32/stable/index.json"
+    1.760 D Task "NetJob(GoUpdate Repository Index)" succeeded
+    1.760 D Finished downloading repo index. Checking for new versions.
+    1.760 D Processing repository version list.
+    1.777 D Download succeeded: "https://multimc.org/rss.xml"
+    1.777 D Task "NetJob(News RSS Feed)" succeeded
+    1.777 D Finished loading RSS feed.
+    1.778 D Loaded news entry "MultiMC 0.6.1 released!"
+    1.778 D Loaded news entry "MultiMC 0.6.0 released!"
+    1.779 D Loaded news entry "Introducing the Archive"
+    1.779 D Loaded news entry "MultiMC 0.5.1 - Bugfixes"
+    1.779 D Loaded news entry "MultiMC 0.5.0 - Running multiple instances at the same time!"
+    1.779 D Loaded news entry "Update to 0.4.11 - OSX 10.7 fix and workaround for Minecraft 1.9 compatibility"
+    1.779 D Loaded news entry "Update to 0.4.10 - Another wifi fix"
+    1.779 D Loaded news entry "Update to 0.4.9 - the Windows wifi fix"
+    1.779 D Loaded news entry "Update to 0.4.8"
+    1.779 D Loaded news entry "Update to 0.4.7, what 0.4.6 should have been."
+    1.780 D Loaded news entry "Update to 0.4.6, Bug fixes and improvements!"
+    1.780 D Loaded news entry "Update to 0.4.5, Translations, Themes, and Technic"
+    1.780 D Loaded news entry "Version 0.4 out - Jar mods, UI changes, and more!"
+    1.780 D Loaded news entry "Introducing QuickMods - A better way to install mods"
+    1.780 D Loaded news entry "Support us on Patreon!"
+    1.780 D Loaded news entry "Heartbleed Vulnerability Update (fixed!)"
+    1.780 D Loaded news entry "Announcing MultiMC 6"
+    1.780 D Loaded news entry "MultiMC 5 - 0.3 update"
+    1.780 D Loaded news entry "First official MultiMC 5 release!"
+    1.781 D Loaded news entry "MultiMC Status Update"
+    1.781 D News loading succeeded.
+    1.897 D Selected index 0 channel id "stable"
+   10.037 D Paged dialog close requested
+   10.037 D Analytics enabled by user.
+   10.037 D Paged dialog close approved
+   10.037 D Paged dialog geometry saved
+   10.054 D Found instance ID "НоваяЭра- UltraHardcore"
+   10.054 D Found instance ID "НоваяЭра- UltraTech"
+   10.054 D Should keep and soft-reload "НоваяЭра- UltraHardcore"
+   10.054 D Should keep and soft-reload "НоваяЭра- UltraTech"

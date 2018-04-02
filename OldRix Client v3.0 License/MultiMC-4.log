@@ -1,0 +1,1230 @@
+    0.024 D <> Log initialized.
+    0.024 D MultiMC 5, (c) 2013-2017 MultiMC Contributors
+    0.024 D Version                    :  "0.6.1-1177"
+    0.024 D Git commit                 :  "595d1571802b7d7ec1128a92a653f2ed7bdabb3c"
+    0.024 D Git refspec                :  "refs/heads/stable"
+    0.025 D Work dir before adjustment :  "D:/MultiMC"
+    0.025 D Work dir after adjustment  :  "D:/MultiMC"
+    0.025 D Adjusted by                :  "Fallback to binary path D:/MultiMC"
+    0.025 D Binary path                :  "D:/MultiMC"
+    0.025 D Application root path      :  "D:/MultiMC"
+    0.025 D <> Paths set.
+    0.028 D Detected default console font: "Courier" , substitutions: ""
+    0.029 D <> Settings loaded.
+    0.031 D Loading Application Language File for ru ...
+    0.031 D Your language is "ru"
+    0.031 D <> Translations loaded.
+    0.031 D <> Updater started.
+    0.033 D Started watching  "D:/MultiMC/icons"
+    0.034 D <> Instance icons intialized.
+    0.035 D <> Icon themes initialized.
+    0.035 D ""
+    0.035 D Loading theme "custom"
+    0.038 D <> Widget themes initialized.
+    0.038 D Instance path              :  "instances"
+    0.039 D Loading Instances...
+    0.039 D Found instance ID "НоваяЭра- UltraHardcore"
+    0.039 D Found instance ID "НоваяЭра- UltraTech"
+    0.042 D Loaded instance  "НоваяЭра: UltraHardcore"  from  "D:/MultiMC/instances/НоваяЭра- UltraHardcore"
+    0.044 D Loaded instance  "НоваяЭра: UltraTech"  from  "D:/MultiMC/instances/НоваяЭра- UltraTech"
+    0.044 D <> Instances loaded.
+    0.044 D Loading accounts...
+    0.044 D <> Accounts loaded.
+    0.049 D <> Cache initialized.
+    0.049 D Detecting proxy settings...
+    0.049 D Using no proxy is an option!
+    0.049 D <> Proxy settings done.
+    0.049 D Downloading Translations Index...
+    0.049 D Task "NetJob(Translations Index)" started
+    0.051 D <> Icon theme set.
+    0.051 D <> Application theme set.
+    0.051 D <> Initialized analytics with tid "UA-87731965-2"
+    0.085 W QMetaObject::connectSlotsByName: No matching signal for on_actionInstanceSettings_triggered()
+    0.090 D Task "NetJob(Status JSON)" started
+    0.107 D Task "NetJob(Startup player skins download)" started
+    0.108 D Reloading news.
+    0.108 D Task "NetJob(News RSS Feed)" started
+    0.108 D Checking for updates.
+    0.108 D Channel list isn't loaded yet. Loading channel list and deferring update check.
+    0.108 D Loading the channel list.
+    0.108 D Task "NetJob(Update System Channel List)" started
+    0.108 D Task "NetJob(Checking for notifications)" started
+    0.318 D Viewport size "694x563"
+    0.319 D RAM size is 16329 MB
+    0.319 D [Analytics] "ScreenView: Main Window"
+    0.319 D <> Main window shown.
+    0.319 D Task "NetJob(Translations Index)" succeeded
+    0.319 D Got translations index!
+    0.319 D Task "NetJob(Translation for ru)" started
+    0.319 D Download cache hit  "http://files.multimc.org/translations/index"
+    0.322 D Downloading  "http://status.mojang.com/check"
+    0.872 D Downloading  "https://crafatar.com/skins/c09a8e7ac2f4498081635b91bb86273d.png"
+    0.872 D Downloading  "http://multimc.org/rss.xml"
+    0.872 D Downloading  "http://files.multimc.org/update/win32/channels.json"
+    0.873 D Downloading  "http://files.multimc.org/notifications.json"
+    0.907 D Downloading  "http://files.multimc.org/translations/ru.qm"
+    1.004 D Download succeeded: "http://files.multimc.org/translations/ru.qm"
+    1.004 D Task "NetJob(Translation for ru)" succeeded
+    1.004 D Got translation: "ru"
+    1.004 D Loading Application Language File for ru ...
+    1.067 D Location header: QUrl("https://multimc.org/rss.xml")
+    1.067 D Following redirect to  "https://multimc.org/rss.xml"
+    1.067 D Downloading  "https://multimc.org/rss.xml"
+    1.068 D Download redirected: "https://multimc.org/rss.xml"
+    1.093 D Download succeeded: "http://files.multimc.org/notifications.json"
+    1.200 D Task "NetJob(Checking for notifications)" succeeded
+    1.201 D Download succeeded: "http://status.mojang.com/check"
+    1.202 D Task "NetJob(Status JSON)" succeeded
+    1.202 D Finished loading status JSON.
+    1.202 D Status loading succeeded.
+    1.272 D Download succeeded: "http://files.multimc.org/update/win32/channels.json"
+    1.272 D Task "NetJob(Update System Channel List)" succeeded
+    1.272 D Successfully loaded UpdateChecker channel list.
+    1.272 D Checking for updates.
+    1.272 D m_repoUrl =  "http://files.multimc.org/update/win32/stable/"
+    1.272 D Task "NetJob(GoUpdate Repository Index)" started
+    1.273 D Downloading  "http://files.multimc.org/update/win32/stable/index.json"
+    1.295 D Download succeeded: "https://crafatar.com/skins/c09a8e7ac2f4498081635b91bb86273d.png"
+    1.295 D Task "NetJob(Startup player skins download)" succeeded
+    1.393 D Download succeeded: "http://files.multimc.org/update/win32/stable/index.json"
+    1.393 D Task "NetJob(GoUpdate Repository Index)" succeeded
+    1.393 D Finished downloading repo index. Checking for new versions.
+    1.393 D Processing repository version list.
+    1.466 D Download succeeded: "https://multimc.org/rss.xml"
+    1.466 D Task "NetJob(News RSS Feed)" succeeded
+    1.466 D Finished loading RSS feed.
+    1.468 D Loaded news entry "MultiMC 0.6.1 released!"
+    1.468 D Loaded news entry "MultiMC 0.6.0 released!"
+    1.468 D Loaded news entry "Introducing the Archive"
+    1.468 D Loaded news entry "MultiMC 0.5.1 - Bugfixes"
+    1.468 D Loaded news entry "MultiMC 0.5.0 - Running multiple instances at the same time!"
+    1.468 D Loaded news entry "Update to 0.4.11 - OSX 10.7 fix and workaround for Minecraft 1.9 compatibility"
+    1.468 D Loaded news entry "Update to 0.4.10 - Another wifi fix"
+    1.468 D Loaded news entry "Update to 0.4.9 - the Windows wifi fix"
+    1.469 D Loaded news entry "Update to 0.4.8"
+    1.469 D Loaded news entry "Update to 0.4.7, what 0.4.6 should have been."
+    1.469 D Loaded news entry "Update to 0.4.6, Bug fixes and improvements!"
+    1.469 D Loaded news entry "Update to 0.4.5, Translations, Themes, and Technic"
+    1.469 D Loaded news entry "Version 0.4 out - Jar mods, UI changes, and more!"
+    1.469 D Loaded news entry "Introducing QuickMods - A better way to install mods"
+    1.469 D Loaded news entry "Support us on Patreon!"
+    1.469 D Loaded news entry "Heartbleed Vulnerability Update (fixed!)"
+    1.470 D Loaded news entry "Announcing MultiMC 6"
+    1.470 D Loaded news entry "MultiMC 5 - 0.3 update"
+    1.470 D Loaded news entry "First official MultiMC 5 release!"
+    1.470 D Loaded news entry "MultiMC Status Update"
+    1.470 D News loading succeeded.
+    4.968 D Task "LaunchController(0x5ff4350)" started
+    4.969 D Task "RefreshTask(0x8523bf0)" started
+    5.419 D Processing authentication response.
+    5.419 D Getting new access token.
+    5.419 D Finished reading refresh response.
+    5.419 D Task "RefreshTask(0x8523bf0)" succeeded
+    5.420 D Writing account list to "accounts.json"
+    5.420 D Building JSON data structure.
+    5.420 D Building account array.
+    5.420 D Writing account list to file.
+    5.420 D Saved account list to "accounts.json"
+    8.439 D Task "LaunchTask(0x5ea5948)" started
+    8.439 D Task "TextPrint(0x5e9b4ec)" started
+    8.440 D Task "TextPrint(0x5e9b4ec)" succeeded
+    8.440 D Task "TextPrint(0x5e9adac)" started
+    8.440 D Task "TextPrint(0x5e9adac)" succeeded
+    8.440 D Task "CheckJava(0x5ff41d0)" started
+    8.442 D Env: ignoring "JAVA_HOME" "C:\\Program Files\\Java\\jdk1.8.0_161"
+    8.442 D "Running java checker: C:/ProgramData/Oracle/Java/javapath/javaw.exe-jar D:/MultiMC/jars/JavaCheck.jar"
+    8.635 D STDOUT "os.arch=x86\njava.version=1.8.0_161\n"
+    8.635 W STDERR ""
+    8.635 D Java checker finished with status  QProcess::ExitStatus(NormalExit)  exit code  0
+    8.635 D Java checker succeeded.
+    8.902 D Task "CheckJava(0x5ff41d0)" succeeded
+    8.902 D Task "ClaimAccount(0x5fba924)" started
+    8.902 D Writing account list to "accounts.json"
+    8.903 D Building JSON data structure.
+    8.903 D Building account array.
+    8.903 D Writing account list to file.
+    8.904 D Saved account list to "accounts.json"
+    8.904 W Account "slava.basser@mail.ru" is now in use.
+    8.904 D Task "ClaimAccount(0x5fba924)" succeeded
+    8.904 D Task "Update(0x5fbaa44)" started
+    8.906 D Task "OneSixUpdate(0x5e9b3e0)" started
+    8.909 D Task "ComponentUpdateTask(0x5fb97c8)" started
+    8.909 D Loading components
+    8.926 D Task "NetJob(Скачиваем index.json файла(ов) обновления.)" started
+    8.926 D Remote loading is being run for metadata index
+    8.929 D Task "NetJob(Скачиваем org.lwjgl/2.9.1.json файла(ов) обновления.)" started
+    8.930 D Remote loading is being run for "LWJGL 2"
+    8.947 D Task "NetJob(Скачиваем net.minecraft/1.7.10.json файла(ов) обновления.)" started
+    8.947 D Remote loading is being run for "Minecraft"
+    8.950 D Task "FoldersTask(0x5fb9c14)" started
+    8.951 D Task "FoldersTask(0x5fb9c14)" succeeded
+    8.963 D Downloading  "https://v1.meta.multimc.org/index.json"
+    8.964 D Downloading  "https://v1.meta.multimc.org/org.lwjgl/2.9.1.json"
+    8.966 D Downloading  "https://v1.meta.multimc.org/net.minecraft/1.7.10.json"
+    9.235 D Download succeeded: "https://v1.meta.multimc.org/index.json"
+    9.235 D Task "NetJob(Скачиваем index.json файла(ов) обновления.)" succeeded
+    9.235 D Remote task 0 succeeded
+    9.284 D Download succeeded: "https://v1.meta.multimc.org/org.lwjgl/2.9.1.json"
+    9.284 D Task "NetJob(Скачиваем org.lwjgl/2.9.1.json файла(ов) обновления.)" succeeded
+    9.284 D Remote task 1 succeeded
+    9.284 D Component list save is scheduled for "НоваяЭра: UltraHardcore"
+    9.343 D Download succeeded: "https://v1.meta.multimc.org/net.minecraft/1.7.10.json"
+    9.343 D Task "NetJob(Скачиваем net.minecraft/1.7.10.json файла(ов) обновления.)" succeeded
+    9.343 D Remote task 2 succeeded
+    9.343 D Resolving dependencies
+    9.343 D "Req: net.minecraft == 1.7.10" Is met.
+    9.343 D "Req: org.lwjgl" Is met.
+    9.344 D Task "ComponentUpdateTask(0x5fb97c8)" succeeded
+    9.344 D Component list update/resolve task succeeded for "НоваяЭра: UltraHardcore"
+    9.344 D Task "LibrariesTask(0x5e9b7ec)" started
+    9.344 D "НоваяЭра: UltraHardcore" : downloading libraries
+    9.344 D Applying "org.lwjgl" GOOD
+    9.344 D Applying "net.minecraft" GOOD
+    9.345 D Applying "net.minecraftforge" GOOD
+    9.347 D Task "NetJob(Библиотеки для сборки НоваяЭра: UltraHardcore)" started
+    9.347 D Task "NetJob(Библиотеки для сборки НоваяЭра: UltraHardcore)" succeeded
+    9.347 D Task "LibrariesTask(0x5e9b7ec)" succeeded
+    9.347 D Task "FMLLibrariesTask(0x856df94)" started
+    9.348 D Task "FMLLibrariesTask(0x856df94)" succeeded
+    9.348 D Task "AssetUpdateTask(0x5e9b8ac)" started
+    9.349 D Asset index SHA1: "f90ca2878ba3141d32d949ea7f665855dd073c65"
+    9.349 D "НоваяЭра: UltraHardcore" : Starting asset index download
+    9.349 D Task "NetJob(Индекс ресурса для НоваяЭра: UltraHardcore)" started
+    9.350 D Downloading  "https://launchermeta.mojang.com/mc/assets/1.7.10/f90ca2878ba3141d32d949ea7f665855dd073c65/1.7.10.json"
+    9.612 D Download succeeded: "https://launchermeta.mojang.com/mc/assets/1.7.10/f90ca2878ba3141d32d949ea7f665855dd073c65/1.7.10.json"
+    9.613 D Task "NetJob(Индекс ресурса для НоваяЭра: UltraHardcore)" succeeded
+    9.613 D "НоваяЭра: UltraHardcore" : Finished asset index download
+    9.648 D Task "AssetUpdateTask(0x5e9b8ac)" succeeded
+    9.649 D Task "OneSixUpdate(0x5e9b3e0)" succeeded
+    9.649 D Task "Update(0x5fbaa44)" succeeded
+    9.651 D Task "ModMinecraftJar(0x855a614)" started
+    9.651 D Task "ModMinecraftJar(0x855a614)" succeeded
+    9.651 D Task "PrintInstanceInfo(0x5e9b1ec)" started
+   10.418 D reconstructAssets "assets" "assets/indexes" "assets/objects" "assets/virtual" "assets/virtual/1.7.10"
+   10.421 D Task "PrintInstanceInfo(0x5e9b1ec)" succeeded
+   10.421 D Task "CreateServerResourcePacksFolder(0x855a6bc)" started
+   10.422 D Task "CreateServerResourcePacksFolder(0x855a6bc)" succeeded
+   10.422 D Task "ExtractNatives(0x855a93c)" started
+   10.667 D Task "ExtractNatives(0x855a93c)" succeeded
+   10.667 D Task "LauncherPartLaunch(0x5ed3104)" started
+   10.667 D reconstructAssets "assets" "assets/indexes" "assets/objects" "assets/virtual" "assets/virtual/1.7.10"
+   10.672 D Env: ignoring "JAVA_HOME" "C:\\Program Files\\Java\\jdk1.8.0_161"
+   10.672 D "-XX:HeapDumpPath=MojangTricksIntelDriversForPerformance_javaw.exe_minecraft.exe.heapdump -Xms512m -Xmx6016m -Duser.language=en -Djava.library.path=D:/MultiMC/instances/НоваяЭра- UltraHardcore/natives -cp D:/MultiMC/jars/NewLaunch.jar;D:/MultiMC/libraries/net/java/jinput/jinput/2.0.5/jinput-2.0.5.jar;D:/MultiMC/libraries/net/java/jutils/jutils/1.0.0/jutils-1.0.0.jar;D:/MultiMC/libraries/org/lwjgl/lwjgl/lwjgl/2.9.1/lwjgl-2.9.1.jar;D:/MultiMC/libraries/org/lwjgl/lwjgl/lwjgl_util/2.9.1/lwjgl_util-2.9.1.jar;D:/MultiMC/libraries/com/mojang/netty/1.6/netty-1.6.jar;D:/MultiMC/libraries/com/mojang/realms/1.3.5/realms-1.3.5.jar;D:/MultiMC/libraries/org/apache/commons/commons-compress/1.8.1/commons-compress-1.8.1.jar;D:/MultiMC/libraries/org/apache/httpcomponents/httpclient/4.3.3/httpclient-4.3.3.jar;D:/MultiMC/libraries/commons-logging/commons-logging/1.1.3/commons-logging-1.1.3.jar;D:/MultiMC/libraries/org/apache/httpcomponents/httpcore/4.3.2/httpcore-4.3.2.jar;D:/MultiMC/libraries/java3d/vecmath/1.3.1/vecmath-1.3.1.jar;D:/MultiMC/libraries/net/sf/trove4j/trove4j/3.0.3/trove4j-3.0.3.jar;D:/MultiMC/libraries/com/ibm/icu/icu4j-core-mojang/51.2/icu4j-core-mojang-51.2.jar;D:/MultiMC/libraries/net/sf/jopt-simple/jopt-simple/4.5/jopt-simple-4.5.jar;D:/MultiMC/libraries/com/paulscode/codecjorbis/20101023/codecjorbis-20101023.jar;D:/MultiMC/libraries/com/paulscode/codecwav/20101023/codecwav-20101023.jar;D:/MultiMC/libraries/com/paulscode/libraryjavasound/20101123/libraryjavasound-20101123.jar;D:/MultiMC/libraries/com/paulscode/librarylwjglopenal/20100824/librarylwjglopenal-20100824.jar;D:/MultiMC/libraries/com/paulscode/soundsystem/20120107/soundsystem-20120107.jar;D:/MultiMC/libraries/io/netty/netty-all/4.0.10.Final/netty-all-4.0.10.Final.jar;D:/MultiMC/libraries/com/google/guava/guava/17.0/guava-17.0.jar;D:/MultiMC/libraries/org/apache/commons/commons-lang3/3.3.2/commons-lang3-3.3.2.jar;D:/MultiMC/libraries/commons-io/commons-io/2.4/commons-io-2.4.jar;D:/MultiMC/libraries/commons-codec/commons-codec/1.9/commons-codec-1.9.jar;D:/MultiMC/libraries/com/google/code/gson/gson/2.2.4/gson-2.2.4.jar;D:/MultiMC/libraries/com/mojang/authlib/1.5.21/authlib-1.5.21.jar;D:/MultiMC/libraries/org/apache/logging/log4j/log4j-api/2.0-beta9/log4j-api-2.0-beta9.jar;D:/MultiMC/libraries/org/apache/logging/log4j/log4j-core/2.0-beta9/log4j-core-2.0-beta9.jar;D:/MultiMC/libraries/tv/twitch/twitch/5.16/twitch-5.16.jar;D:/MultiMC/libraries/lzma/lzma/0.0.1/lzma-0.0.1.jar;D:/MultiMC/libraries/org/scala-lang/scala-xml_2.11/1.0.2/scala-xml_2.11-1.0.2.jar;D:/MultiMC/libraries/org/scala-lang/scala-swing_2.11/1.0.1/scala-swing_2.11-1.0.1.jar;D:/MultiMC/libraries/org/scala-lang/scala-reflect/2.11.1/scala-reflect-2.11.1.jar;D:/MultiMC/libraries/org/scala-lang/scala-parser-combinators_2.11/1.0.1/scala-parser-combinators_2.11-1.0.1.jar;D:/MultiMC/libraries/org/scala-lang/scala-library/2.11.1/scala-library-2.11.1.jar;D:/MultiMC/libraries/org/scala-lang/plugins/scala-continuations-plugin_2.11.1/1.0.2/scala-continuations-plugin_2.11.1-1.0.2.jar;D:/MultiMC/libraries/org/scala-lang/plugins/scala-continuations-library_2.11/1.0.2/scala-continuations-library_2.11-1.0.2.jar;D:/MultiMC/libraries/org/scala-lang/scala-compiler/2.11.1/scala-compiler-2.11.1.jar;D:/MultiMC/libraries/org/scala-lang/scala-actors-migration_2.11/1.1.0/scala-actors-migration_2.11-1.1.0.jar;D:/MultiMC/libraries/com/typesafe/config/1.2.1/config-1.2.1.jar;D:/MultiMC/libraries/com/typesafe/akka/akka-actor_2.11/2.3.3/akka-actor_2.11-2.3.3.jar;D:/MultiMC/libraries/org/ow2/asm/asm-all/5.0.3/asm-all-5.0.3.jar;D:/MultiMC/libraries/net/minecraft/launchwrapper/1.12/launchwrapper-1.12.jar;D:/MultiMC/libraries/net/minecraftforge/forge/1.7.10-10.13.4.1614-1.7.10/forge-1.7.10-10.13.4.1614-1.7.10-universal.jar;D:/MultiMC/libraries/com/mojang/minecraft/1.7.10/minecraft-1.7.10-client.jar org.multimc.EntryPoint"
+   10.925 W QCoreApplication::postEvent: Unexpected null receiver
+   13.190 C Task "LauncherPartLaunch(0x5ed3104)" failed:  "Game crashed."
+   13.196 D Writing account list to "accounts.json"
+   13.196 D Building JSON data structure.
+   13.196 D Building account array.
+   13.196 D Writing account list to file.
+   13.196 D Saved account list to "accounts.json"
+   13.197 W Account "slava.basser@mail.ru" is no longer in use.
+   13.428 C Task "LaunchTask(0x5ea5948)" failed:  "Game crashed."
+   13.454 D Component list save performed now for "НоваяЭра: UltraHardcore"
+   13.546 D Task "ComponentUpdateTask(0x602a3d8)" started
+   13.546 D Loading components
+   13.546 D Index is already loaded
+   13.546 D Component list save is scheduled for "НоваяЭра: UltraHardcore"
+   13.547 D Resolving dependencies
+   13.547 D "Req: net.minecraft == 1.7.10" Is met.
+   13.547 D "Req: org.lwjgl" Is met.
+   13.547 D Task "ComponentUpdateTask(0x602a3d8)" succeeded
+   13.547 D Component list update/resolve task succeeded for "НоваяЭра: UltraHardcore"
+   13.552 D Task "NetJob(Скачиваем org.lwjgl/index.json файла(ов) обновления.)" started
+   14.038 D Applying "org.lwjgl" GOOD
+   14.038 D Applying "net.minecraft" GOOD
+   14.039 D Applying "net.minecraftforge" GOOD
+   14.106 C Task "LaunchController(0x5ff4350)" failed:  "Game crashed."
+   14.116 D Downloading  "https://v1.meta.multimc.org/org.lwjgl/index.json"
+   14.271 D Download succeeded: "https://v1.meta.multimc.org/org.lwjgl/index.json"
+   14.272 D Task "NetJob(Скачиваем org.lwjgl/index.json файла(ов) обновления.)" succeeded
+   18.538 D Component list save performed now for "НоваяЭра: UltraHardcore"
+   18.727 D Selected index 0 channel id "stable"
+   20.633 D Task "JavaListLoadTask(0x881d430)" started
+   20.634 D Probing the following Java paths: 
+   20.634 D   "C:/Program Files/Java/jre8/bin/javaw.exe"
+   20.634 D   "C:/Program Files/Java/jre7/bin/javaw.exe"
+   20.634 D   "C:/Program Files/Java/jre6/bin/javaw.exe"
+   20.634 D   "C:/Program Files/Java/jdk1.8.0_161/bin/javaw.exe"
+   20.634 D   "C:/Program Files (x86)/Java/jre8/bin/javaw.exe"
+   20.634 D   "C:/Program Files (x86)/Java/jre7/bin/javaw.exe"
+   20.634 D   "C:/Program Files (x86)/Java/jre6/bin/javaw.exe"
+   20.634 D   "javaw"
+   20.634 D Task "JavaCheckerJob(0x881d778)" started
+   20.634 D "Java detection"  started.
+   20.634 D Env: ignoring "JAVA_HOME" "C:\\Program Files\\Java\\jdk1.8.0_161"
+   20.634 D "Running java checker: C:/Program Files/Java/jre8/bin/javaw.exe-jar D:/MultiMC/jars/JavaCheck.jar"
+   20.635 D Java checker has failed to start.
+   20.635 D "Java detection" progress: 1 / 8
+   20.635 D Env: ignoring "JAVA_HOME" "C:\\Program Files\\Java\\jdk1.8.0_161"
+   20.635 D "Running java checker: C:/Program Files/Java/jre7/bin/javaw.exe-jar D:/MultiMC/jars/JavaCheck.jar"
+   20.635 D Java checker has failed to start.
+   20.635 D "Java detection" progress: 2 / 8
+   20.635 D Env: ignoring "JAVA_HOME" "C:\\Program Files\\Java\\jdk1.8.0_161"
+   20.635 D "Running java checker: C:/Program Files/Java/jre6/bin/javaw.exe-jar D:/MultiMC/jars/JavaCheck.jar"
+   20.636 D Java checker has failed to start.
+   20.636 D "Java detection" progress: 3 / 8
+   20.636 D Env: ignoring "JAVA_HOME" "C:\\Program Files\\Java\\jdk1.8.0_161"
+   20.636 D "Running java checker: C:/Program Files/Java/jdk1.8.0_161/bin/javaw.exe-jar D:/MultiMC/jars/JavaCheck.jar"
+   20.657 D Env: ignoring "JAVA_HOME" "C:\\Program Files\\Java\\jdk1.8.0_161"
+   20.657 D "Running java checker: C:/Program Files (x86)/Java/jre8/bin/javaw.exe-jar D:/MultiMC/jars/JavaCheck.jar"
+   20.658 D Java checker has failed to start.
+   20.658 D "Java detection" progress: 4 / 8
+   20.658 D Env: ignoring "JAVA_HOME" "C:\\Program Files\\Java\\jdk1.8.0_161"
+   20.658 D "Running java checker: C:/Program Files (x86)/Java/jre7/bin/javaw.exe-jar D:/MultiMC/jars/JavaCheck.jar"
+   20.658 D Java checker has failed to start.
+   20.658 D "Java detection" progress: 5 / 8
+   20.659 D Env: ignoring "JAVA_HOME" "C:\\Program Files\\Java\\jdk1.8.0_161"
+   20.659 D "Running java checker: C:/Program Files (x86)/Java/jre6/bin/javaw.exe-jar D:/MultiMC/jars/JavaCheck.jar"
+   20.659 D Java checker has failed to start.
+   20.659 D "Java detection" progress: 6 / 8
+   20.659 D Env: ignoring "JAVA_HOME" "C:\\Program Files\\Java\\jdk1.8.0_161"
+   20.659 D "Running java checker: javaw-jar D:/MultiMC/jars/JavaCheck.jar"
+   20.782 D STDOUT "os.arch=x86\njava.version=1.8.0_161\n"
+   20.782 W STDERR ""
+   20.782 D Java checker finished with status  QProcess::ExitStatus(NormalExit)  exit code  0
+   20.782 D Java checker succeeded.
+   20.782 D "Java detection" progress: 7 / 8
+   21.289 D STDOUT "os.arch=amd64\njava.version=1.8.0_161\n"
+   21.289 W STDERR ""
+   21.289 D Java checker finished with status  QProcess::ExitStatus(NormalExit)  exit code  0
+   21.289 D Java checker succeeded.
+   21.289 D "Java detection" progress: 8 / 8
+   21.290 D Task "JavaCheckerJob(0x881d778)" succeeded
+   21.290 D Found the following valid Java installations:
+   21.290 D   "1.8.0_161" "64" "C:/Program Files/Java/jdk1.8.0_161/bin/javaw.exe"
+   21.290 D   "1.8.0_161" "32" "javaw"
+   21.290 D Task "JavaListLoadTask(0x881d430)" succeeded
+   23.952 D Paged dialog close requested
+   23.952 D Analytics enabled by user.
+   23.953 D Paged dialog close approved
+   23.953 D Paged dialog geometry saved
+   24.030 D Found instance ID "НоваяЭра- UltraHardcore"
+   24.030 D Found instance ID "НоваяЭра- UltraTech"
+   24.030 D Should keep and soft-reload "НоваяЭра- UltraHardcore"
+   24.030 D Should keep and soft-reload "НоваяЭра- UltraTech"
+   24.601 D Task "LaunchController(0x85f0dd0)" started
+   24.602 D Task "RefreshTask(0x873d700)" started
+   24.813 D Processing authentication response.
+   24.813 D Getting new access token.
+   24.813 D Finished reading refresh response.
+   24.814 D Task "RefreshTask(0x873d700)" succeeded
+   24.814 D Writing account list to "accounts.json"
+   24.814 D Building JSON data structure.
+   24.814 D Building account array.
+   24.814 D Writing account list to file.
+   24.815 D Saved account list to "accounts.json"
+   27.820 D Task "LaunchTask(0x85f0f10)" started
+   27.913 D Task "TextPrint(0x864060c)" started
+   27.914 D Task "TextPrint(0x864060c)" succeeded
+   27.914 D Task "TextPrint(0x864074c)" started
+   27.914 D Task "TextPrint(0x864074c)" succeeded
+   27.914 D Task "CheckJava(0x85f1240)" started
+   27.915 D Env: ignoring "JAVA_HOME" "C:\\Program Files\\Java\\jdk1.8.0_161"
+   27.915 D "Running java checker: C:/Program Files/Java/jdk1.8.0_161/bin/javaw.exe-jar D:/MultiMC/jars/JavaCheck.jar"
+   28.059 D STDOUT "os.arch=amd64\njava.version=1.8.0_161\n"
+   28.059 W STDERR ""
+   28.059 D Java checker finished with status  QProcess::ExitStatus(NormalExit)  exit code  0
+   28.060 D Java checker succeeded.
+   28.313 D Task "CheckJava(0x85f1240)" succeeded
+   28.313 D Task "ClaimAccount(0x87b3eec)" started
+   28.313 D Writing account list to "accounts.json"
+   28.313 D Building JSON data structure.
+   28.313 D Building account array.
+   28.313 D Writing account list to file.
+   28.314 D Saved account list to "accounts.json"
+   28.314 W Account "slava.basser@mail.ru" is now in use.
+   28.314 D Task "ClaimAccount(0x87b3eec)" succeeded
+   28.314 D Task "Update(0x87b3fc4)" started
+   28.315 D Task "OneSixUpdate(0x8640c00)" started
+   28.315 D Task "ComponentUpdateTask(0x86a7838)" started
+   28.315 D Loading components
+   28.315 D Index is already loaded
+   28.315 D Component list save is scheduled for "НоваяЭра: UltraHardcore"
+   28.316 D Resolving dependencies
+   28.316 D "Req: net.minecraft == 1.7.10" Is met.
+   28.316 D "Req: org.lwjgl" Is met.
+   28.316 D Task "ComponentUpdateTask(0x86a7838)" succeeded
+   28.316 D Component list update/resolve task succeeded for "НоваяЭра: UltraHardcore"
+   28.316 D Task "FoldersTask(0x8918144)" started
+   28.316 D Task "FoldersTask(0x8918144)" succeeded
+   28.316 D Task "LibrariesTask(0x864084c)" started
+   28.316 D "НоваяЭра: UltraHardcore" : downloading libraries
+   28.316 D Applying "org.lwjgl" GOOD
+   28.316 D Applying "net.minecraft" GOOD
+   28.316 D Applying "net.minecraftforge" GOOD
+   28.319 D Task "NetJob(Библиотеки для сборки НоваяЭра: UltraHardcore)" started
+   28.325 D Task "NetJob(Библиотеки для сборки НоваяЭра: UltraHardcore)" succeeded
+   28.325 D Task "LibrariesTask(0x864084c)" succeeded
+   28.325 D Task "FMLLibrariesTask(0x87b4b4c)" started
+   28.325 D Task "FMLLibrariesTask(0x87b4b4c)" succeeded
+   28.325 D Task "AssetUpdateTask(0x8640b0c)" started
+   28.326 D Asset index SHA1: "f90ca2878ba3141d32d949ea7f665855dd073c65"
+   28.326 D "НоваяЭра: UltraHardcore" : Starting asset index download
+   28.326 D Task "NetJob(Индекс ресурса для НоваяЭра: UltraHardcore)" started
+   28.329 D Downloading  "https://launchermeta.mojang.com/mc/assets/1.7.10/f90ca2878ba3141d32d949ea7f665855dd073c65/1.7.10.json"
+   28.376 D Download succeeded: "https://launchermeta.mojang.com/mc/assets/1.7.10/f90ca2878ba3141d32d949ea7f665855dd073c65/1.7.10.json"
+   28.376 D Task "NetJob(Индекс ресурса для НоваяЭра: UltraHardcore)" succeeded
+   28.376 D "НоваяЭра: UltraHardcore" : Finished asset index download
+   28.395 D Task "AssetUpdateTask(0x8640b0c)" succeeded
+   28.395 D Task "OneSixUpdate(0x8640c00)" succeeded
+   28.395 D Task "Update(0x87b3fc4)" succeeded
+   28.397 D Task "ModMinecraftJar(0x891872c)" started
+   28.397 D Task "ModMinecraftJar(0x891872c)" succeeded
+   28.397 D Task "PrintInstanceInfo(0x864080c)" started
+   29.050 D reconstructAssets "assets" "assets/indexes" "assets/objects" "assets/virtual" "assets/virtual/1.7.10"
+   29.053 D Task "PrintInstanceInfo(0x864080c)" succeeded
+   29.053 D Task "CreateServerResourcePacksFolder(0x8918aac)" started
+   29.053 D Task "CreateServerResourcePacksFolder(0x8918aac)" succeeded
+   29.053 D Task "ExtractNatives(0x8918f7c)" started
+   29.230 D Task "ExtractNatives(0x8918f7c)" succeeded
+   29.230 D Task "LauncherPartLaunch(0x87a936c)" started
+   29.231 D reconstructAssets "assets" "assets/indexes" "assets/objects" "assets/virtual" "assets/virtual/1.7.10"
+   29.234 D Env: ignoring "JAVA_HOME" "C:\\Program Files\\Java\\jdk1.8.0_161"
+   29.234 D "-XX:HeapDumpPath=MojangTricksIntelDriversForPerformance_javaw.exe_minecraft.exe.heapdump -Xms512m -Xmx6016m -Duser.language=en -Djava.library.path=D:/MultiMC/instances/НоваяЭра- UltraHardcore/natives -cp D:/MultiMC/jars/NewLaunch.jar;D:/MultiMC/libraries/net/java/jinput/jinput/2.0.5/jinput-2.0.5.jar;D:/MultiMC/libraries/net/java/jutils/jutils/1.0.0/jutils-1.0.0.jar;D:/MultiMC/libraries/org/lwjgl/lwjgl/lwjgl/2.9.1/lwjgl-2.9.1.jar;D:/MultiMC/libraries/org/lwjgl/lwjgl/lwjgl_util/2.9.1/lwjgl_util-2.9.1.jar;D:/MultiMC/libraries/com/mojang/netty/1.6/netty-1.6.jar;D:/MultiMC/libraries/com/mojang/realms/1.3.5/realms-1.3.5.jar;D:/MultiMC/libraries/org/apache/commons/commons-compress/1.8.1/commons-compress-1.8.1.jar;D:/MultiMC/libraries/org/apache/httpcomponents/httpclient/4.3.3/httpclient-4.3.3.jar;D:/MultiMC/libraries/commons-logging/commons-logging/1.1.3/commons-logging-1.1.3.jar;D:/MultiMC/libraries/org/apache/httpcomponents/httpcore/4.3.2/httpcore-4.3.2.jar;D:/MultiMC/libraries/java3d/vecmath/1.3.1/vecmath-1.3.1.jar;D:/MultiMC/libraries/net/sf/trove4j/trove4j/3.0.3/trove4j-3.0.3.jar;D:/MultiMC/libraries/com/ibm/icu/icu4j-core-mojang/51.2/icu4j-core-mojang-51.2.jar;D:/MultiMC/libraries/net/sf/jopt-simple/jopt-simple/4.5/jopt-simple-4.5.jar;D:/MultiMC/libraries/com/paulscode/codecjorbis/20101023/codecjorbis-20101023.jar;D:/MultiMC/libraries/com/paulscode/codecwav/20101023/codecwav-20101023.jar;D:/MultiMC/libraries/com/paulscode/libraryjavasound/20101123/libraryjavasound-20101123.jar;D:/MultiMC/libraries/com/paulscode/librarylwjglopenal/20100824/librarylwjglopenal-20100824.jar;D:/MultiMC/libraries/com/paulscode/soundsystem/20120107/soundsystem-20120107.jar;D:/MultiMC/libraries/io/netty/netty-all/4.0.10.Final/netty-all-4.0.10.Final.jar;D:/MultiMC/libraries/com/google/guava/guava/17.0/guava-17.0.jar;D:/MultiMC/libraries/org/apache/commons/commons-lang3/3.3.2/commons-lang3-3.3.2.jar;D:/MultiMC/libraries/commons-io/commons-io/2.4/commons-io-2.4.jar;D:/MultiMC/libraries/commons-codec/commons-codec/1.9/commons-codec-1.9.jar;D:/MultiMC/libraries/com/google/code/gson/gson/2.2.4/gson-2.2.4.jar;D:/MultiMC/libraries/com/mojang/authlib/1.5.21/authlib-1.5.21.jar;D:/MultiMC/libraries/org/apache/logging/log4j/log4j-api/2.0-beta9/log4j-api-2.0-beta9.jar;D:/MultiMC/libraries/org/apache/logging/log4j/log4j-core/2.0-beta9/log4j-core-2.0-beta9.jar;D:/MultiMC/libraries/tv/twitch/twitch/5.16/twitch-5.16.jar;D:/MultiMC/libraries/lzma/lzma/0.0.1/lzma-0.0.1.jar;D:/MultiMC/libraries/org/scala-lang/scala-xml_2.11/1.0.2/scala-xml_2.11-1.0.2.jar;D:/MultiMC/libraries/org/scala-lang/scala-swing_2.11/1.0.1/scala-swing_2.11-1.0.1.jar;D:/MultiMC/libraries/org/scala-lang/scala-reflect/2.11.1/scala-reflect-2.11.1.jar;D:/MultiMC/libraries/org/scala-lang/scala-parser-combinators_2.11/1.0.1/scala-parser-combinators_2.11-1.0.1.jar;D:/MultiMC/libraries/org/scala-lang/scala-library/2.11.1/scala-library-2.11.1.jar;D:/MultiMC/libraries/org/scala-lang/plugins/scala-continuations-plugin_2.11.1/1.0.2/scala-continuations-plugin_2.11.1-1.0.2.jar;D:/MultiMC/libraries/org/scala-lang/plugins/scala-continuations-library_2.11/1.0.2/scala-continuations-library_2.11-1.0.2.jar;D:/MultiMC/libraries/org/scala-lang/scala-compiler/2.11.1/scala-compiler-2.11.1.jar;D:/MultiMC/libraries/org/scala-lang/scala-actors-migration_2.11/1.1.0/scala-actors-migration_2.11-1.1.0.jar;D:/MultiMC/libraries/com/typesafe/config/1.2.1/config-1.2.1.jar;D:/MultiMC/libraries/com/typesafe/akka/akka-actor_2.11/2.3.3/akka-actor_2.11-2.3.3.jar;D:/MultiMC/libraries/org/ow2/asm/asm-all/5.0.3/asm-all-5.0.3.jar;D:/MultiMC/libraries/net/minecraft/launchwrapper/1.12/launchwrapper-1.12.jar;D:/MultiMC/libraries/net/minecraftforge/forge/1.7.10-10.13.4.1614-1.7.10/forge-1.7.10-10.13.4.1614-1.7.10-universal.jar;D:/MultiMC/libraries/com/mojang/minecraft/1.7.10/minecraft-1.7.10-client.jar org.multimc.EntryPoint"
+   29.437 W QCoreApplication::postEvent: Unexpected null receiver
+   30.041 D [Analytics] "Query string = v=1&tid=UA-87731965-2&cid=745243ba-b287-4d40-8917-cebefaf89b9d&t=screenview&ul=ru-ru&vp=694x563&sr=1920x1080&aip=1&cd=Main Window&an=MultiMC5&av=0.6.1-1177&cd1=1.8.0_161&cd2=64&cd3=64&cd4=64&cd5=Windows&cd6=10.0&cm1=512&cm2=6016&cm3=16329&qt=29722"
+   30.196 D [Analytics] "Message sent"
+   33.306 D Component list save performed now for "НоваяЭра: UltraHardcore"
+   60.091 D Task "NetJob(Status JSON)" started
+   60.091 D Downloading  "http://status.mojang.com/check"
+   60.234 D Download succeeded: "http://status.mojang.com/check"
+   60.234 D Task "NetJob(Status JSON)" succeeded
+   60.234 D Finished loading status JSON.
+   60.234 D Status loading succeeded.
+  120.084 D Task "NetJob(Status JSON)" started
+  120.084 D Downloading  "http://status.mojang.com/check"
+  120.227 D Download succeeded: "http://status.mojang.com/check"
+  120.227 D Task "NetJob(Status JSON)" succeeded
+  120.228 D Finished loading status JSON.
+  120.228 D Status loading succeeded.
+  180.092 D Task "NetJob(Status JSON)" started
+  180.092 D Downloading  "http://status.mojang.com/check"
+  180.230 D Download succeeded: "http://status.mojang.com/check"
+  180.230 D Task "NetJob(Status JSON)" succeeded
+  180.230 D Finished loading status JSON.
+  180.230 D Status loading succeeded.
+  240.093 D Task "NetJob(Status JSON)" started
+  240.093 D Downloading  "http://status.mojang.com/check"
+  240.240 D Download succeeded: "http://status.mojang.com/check"
+  240.241 D Task "NetJob(Status JSON)" succeeded
+  240.241 D Finished loading status JSON.
+  240.241 D Status loading succeeded.
+  300.084 D Task "NetJob(Status JSON)" started
+  300.084 D Downloading  "http://status.mojang.com/check"
+  300.225 D Download succeeded: "http://status.mojang.com/check"
+  300.225 D Task "NetJob(Status JSON)" succeeded
+  300.225 D Finished loading status JSON.
+  300.225 D Status loading succeeded.
+  360.084 D Task "NetJob(Status JSON)" started
+  360.084 D Downloading  "http://status.mojang.com/check"
+  360.221 D Download succeeded: "http://status.mojang.com/check"
+  360.221 D Task "NetJob(Status JSON)" succeeded
+  360.221 D Finished loading status JSON.
+  360.221 D Status loading succeeded.
+  420.096 D Task "NetJob(Status JSON)" started
+  420.096 D Downloading  "http://status.mojang.com/check"
+  420.242 D Download succeeded: "http://status.mojang.com/check"
+  420.242 D Task "NetJob(Status JSON)" succeeded
+  420.242 D Finished loading status JSON.
+  420.242 D Status loading succeeded.
+  480.084 D Task "NetJob(Status JSON)" started
+  480.085 D Downloading  "http://status.mojang.com/check"
+  480.230 D Download succeeded: "http://status.mojang.com/check"
+  480.230 D Task "NetJob(Status JSON)" succeeded
+  480.230 D Finished loading status JSON.
+  480.230 D Status loading succeeded.
+  540.088 D Task "NetJob(Status JSON)" started
+  540.088 D Downloading  "http://status.mojang.com/check"
+  540.235 D Download succeeded: "http://status.mojang.com/check"
+  540.235 D Task "NetJob(Status JSON)" succeeded
+  540.235 D Finished loading status JSON.
+  540.235 D Status loading succeeded.
+  600.085 D Task "NetJob(Status JSON)" started
+  600.085 D Downloading  "http://status.mojang.com/check"
+  600.228 D Download succeeded: "http://status.mojang.com/check"
+  600.228 D Task "NetJob(Status JSON)" succeeded
+  600.228 D Finished loading status JSON.
+  600.228 D Status loading succeeded.
+  660.098 D Task "NetJob(Status JSON)" started
+  660.099 D Downloading  "http://status.mojang.com/check"
+  660.236 D Download succeeded: "http://status.mojang.com/check"
+  660.236 D Task "NetJob(Status JSON)" succeeded
+  660.236 D Finished loading status JSON.
+  660.236 D Status loading succeeded.
+  720.084 D Task "NetJob(Status JSON)" started
+  720.085 D Downloading  "http://status.mojang.com/check"
+  720.226 D Download succeeded: "http://status.mojang.com/check"
+  720.226 D Task "NetJob(Status JSON)" succeeded
+  720.226 D Finished loading status JSON.
+  720.226 D Status loading succeeded.
+  780.090 D Task "NetJob(Status JSON)" started
+  780.090 D Downloading  "http://status.mojang.com/check"
+  780.228 D Download succeeded: "http://status.mojang.com/check"
+  780.228 D Task "NetJob(Status JSON)" succeeded
+  780.228 D Finished loading status JSON.
+  780.228 D Status loading succeeded.
+  840.095 D Task "NetJob(Status JSON)" started
+  840.095 D Downloading  "http://status.mojang.com/check"
+  840.242 D Download succeeded: "http://status.mojang.com/check"
+  840.242 D Task "NetJob(Status JSON)" succeeded
+  840.242 D Finished loading status JSON.
+  840.242 D Status loading succeeded.
+  900.086 D Task "NetJob(Status JSON)" started
+  900.087 D Downloading  "http://status.mojang.com/check"
+  900.234 D Download succeeded: "http://status.mojang.com/check"
+  900.234 D Task "NetJob(Status JSON)" succeeded
+  900.234 D Finished loading status JSON.
+  900.234 D Status loading succeeded.
+  960.084 D Task "NetJob(Status JSON)" started
+  960.084 D Downloading  "http://status.mojang.com/check"
+  960.229 D Download succeeded: "http://status.mojang.com/check"
+  960.229 D Task "NetJob(Status JSON)" succeeded
+  960.229 D Finished loading status JSON.
+  960.229 D Status loading succeeded.
+ 1020.099 D Task "NetJob(Status JSON)" started
+ 1020.099 D Downloading  "http://status.mojang.com/check"
+ 1020.235 D Download succeeded: "http://status.mojang.com/check"
+ 1020.235 D Task "NetJob(Status JSON)" succeeded
+ 1020.235 D Finished loading status JSON.
+ 1020.235 D Status loading succeeded.
+ 1080.084 D Task "NetJob(Status JSON)" started
+ 1080.084 D Downloading  "http://status.mojang.com/check"
+ 1080.221 D Download succeeded: "http://status.mojang.com/check"
+ 1080.222 D Task "NetJob(Status JSON)" succeeded
+ 1080.222 D Finished loading status JSON.
+ 1080.222 D Status loading succeeded.
+ 1140.098 D Task "NetJob(Status JSON)" started
+ 1140.098 D Downloading  "http://status.mojang.com/check"
+ 1140.240 D Download succeeded: "http://status.mojang.com/check"
+ 1140.240 D Task "NetJob(Status JSON)" succeeded
+ 1140.240 D Finished loading status JSON.
+ 1140.240 D Status loading succeeded.
+ 1200.092 D Task "NetJob(Status JSON)" started
+ 1200.092 D Downloading  "http://status.mojang.com/check"
+ 1200.250 D Download succeeded: "http://status.mojang.com/check"
+ 1200.250 D Task "NetJob(Status JSON)" succeeded
+ 1200.250 D Finished loading status JSON.
+ 1200.250 D Status loading succeeded.
+ 1260.084 D Task "NetJob(Status JSON)" started
+ 1260.084 D Downloading  "http://status.mojang.com/check"
+ 1260.221 D Download succeeded: "http://status.mojang.com/check"
+ 1260.221 D Task "NetJob(Status JSON)" succeeded
+ 1260.221 D Finished loading status JSON.
+ 1260.221 D Status loading succeeded.
+ 1320.088 D Task "NetJob(Status JSON)" started
+ 1320.089 D Downloading  "http://status.mojang.com/check"
+ 1320.233 D Download succeeded: "http://status.mojang.com/check"
+ 1320.233 D Task "NetJob(Status JSON)" succeeded
+ 1320.233 D Finished loading status JSON.
+ 1320.233 D Status loading succeeded.
+ 1380.089 D Task "NetJob(Status JSON)" started
+ 1380.089 D Downloading  "http://status.mojang.com/check"
+ 1380.225 D Download succeeded: "http://status.mojang.com/check"
+ 1380.225 D Task "NetJob(Status JSON)" succeeded
+ 1380.225 D Finished loading status JSON.
+ 1380.226 D Status loading succeeded.
+ 1440.088 D Task "NetJob(Status JSON)" started
+ 1440.088 D Downloading  "http://status.mojang.com/check"
+ 1440.224 D Download succeeded: "http://status.mojang.com/check"
+ 1440.225 D Task "NetJob(Status JSON)" succeeded
+ 1440.225 D Finished loading status JSON.
+ 1440.225 D Status loading succeeded.
+ 1500.084 D Task "NetJob(Status JSON)" started
+ 1500.084 D Downloading  "http://status.mojang.com/check"
+ 1500.220 D Download succeeded: "http://status.mojang.com/check"
+ 1500.220 D Task "NetJob(Status JSON)" succeeded
+ 1500.220 D Finished loading status JSON.
+ 1500.221 D Status loading succeeded.
+ 1560.099 D Task "NetJob(Status JSON)" started
+ 1560.099 D Downloading  "http://status.mojang.com/check"
+ 1560.239 D Download succeeded: "http://status.mojang.com/check"
+ 1560.239 D Task "NetJob(Status JSON)" succeeded
+ 1560.239 D Finished loading status JSON.
+ 1560.239 D Status loading succeeded.
+ 1620.090 D Task "NetJob(Status JSON)" started
+ 1620.090 D Downloading  "http://status.mojang.com/check"
+ 1620.231 D Download succeeded: "http://status.mojang.com/check"
+ 1620.231 D Task "NetJob(Status JSON)" succeeded
+ 1620.231 D Finished loading status JSON.
+ 1620.231 D Status loading succeeded.
+ 1680.092 D Task "NetJob(Status JSON)" started
+ 1680.092 D Downloading  "http://status.mojang.com/check"
+ 1680.232 D Download succeeded: "http://status.mojang.com/check"
+ 1680.232 D Task "NetJob(Status JSON)" succeeded
+ 1680.232 D Finished loading status JSON.
+ 1680.233 D Status loading succeeded.
+ 1740.086 D Task "NetJob(Status JSON)" started
+ 1740.086 D Downloading  "http://status.mojang.com/check"
+ 1740.236 D Download succeeded: "http://status.mojang.com/check"
+ 1740.236 D Task "NetJob(Status JSON)" succeeded
+ 1740.236 D Finished loading status JSON.
+ 1740.236 D Status loading succeeded.
+ 1800.084 D Task "NetJob(Status JSON)" started
+ 1800.084 D Downloading  "http://status.mojang.com/check"
+ 1800.226 D Download succeeded: "http://status.mojang.com/check"
+ 1800.226 D Task "NetJob(Status JSON)" succeeded
+ 1800.226 D Finished loading status JSON.
+ 1800.227 D Status loading succeeded.
+ 1860.096 D Task "NetJob(Status JSON)" started
+ 1860.096 D Downloading  "http://status.mojang.com/check"
+ 1860.235 D Download succeeded: "http://status.mojang.com/check"
+ 1860.236 D Task "NetJob(Status JSON)" succeeded
+ 1860.236 D Finished loading status JSON.
+ 1860.236 D Status loading succeeded.
+ 1920.096 D Task "NetJob(Status JSON)" started
+ 1920.096 D Downloading  "http://status.mojang.com/check"
+ 1920.237 D Download succeeded: "http://status.mojang.com/check"
+ 1920.237 D Task "NetJob(Status JSON)" succeeded
+ 1920.237 D Finished loading status JSON.
+ 1920.237 D Status loading succeeded.
+ 1980.087 D Task "NetJob(Status JSON)" started
+ 1980.087 D Downloading  "http://status.mojang.com/check"
+ 1980.230 D Download succeeded: "http://status.mojang.com/check"
+ 1980.230 D Task "NetJob(Status JSON)" succeeded
+ 1980.230 D Finished loading status JSON.
+ 1980.230 D Status loading succeeded.
+ 2040.084 D Task "NetJob(Status JSON)" started
+ 2040.084 D Downloading  "http://status.mojang.com/check"
+ 2040.230 D Download succeeded: "http://status.mojang.com/check"
+ 2040.230 D Task "NetJob(Status JSON)" succeeded
+ 2040.231 D Finished loading status JSON.
+ 2040.231 D Status loading succeeded.
+ 2100.088 D Task "NetJob(Status JSON)" started
+ 2100.088 D Downloading  "http://status.mojang.com/check"
+ 2100.225 D Download succeeded: "http://status.mojang.com/check"
+ 2100.225 D Task "NetJob(Status JSON)" succeeded
+ 2100.225 D Finished loading status JSON.
+ 2100.225 D Status loading succeeded.
+ 2160.093 D Task "NetJob(Status JSON)" started
+ 2160.094 D Downloading  "http://status.mojang.com/check"
+ 2160.240 D Download succeeded: "http://status.mojang.com/check"
+ 2160.240 D Task "NetJob(Status JSON)" succeeded
+ 2160.240 D Finished loading status JSON.
+ 2160.240 D Status loading succeeded.
+ 2220.093 D Task "NetJob(Status JSON)" started
+ 2220.094 D Downloading  "http://status.mojang.com/check"
+ 2220.230 D Download succeeded: "http://status.mojang.com/check"
+ 2220.231 D Task "NetJob(Status JSON)" succeeded
+ 2220.231 D Finished loading status JSON.
+ 2220.231 D Status loading succeeded.
+ 2280.091 D Task "NetJob(Status JSON)" started
+ 2280.091 D Downloading  "http://status.mojang.com/check"
+ 2280.228 D Download succeeded: "http://status.mojang.com/check"
+ 2280.228 D Task "NetJob(Status JSON)" succeeded
+ 2280.228 D Finished loading status JSON.
+ 2280.228 D Status loading succeeded.
+ 2340.089 D Task "NetJob(Status JSON)" started
+ 2340.089 D Downloading  "http://status.mojang.com/check"
+ 2340.225 D Download succeeded: "http://status.mojang.com/check"
+ 2340.225 D Task "NetJob(Status JSON)" succeeded
+ 2340.225 D Finished loading status JSON.
+ 2340.225 D Status loading succeeded.
+ 2400.089 D Task "NetJob(Status JSON)" started
+ 2400.089 D Downloading  "http://status.mojang.com/check"
+ 2400.226 D Download succeeded: "http://status.mojang.com/check"
+ 2400.226 D Task "NetJob(Status JSON)" succeeded
+ 2400.226 D Finished loading status JSON.
+ 2400.226 D Status loading succeeded.
+ 2460.084 D Task "NetJob(Status JSON)" started
+ 2460.085 D Downloading  "http://status.mojang.com/check"
+ 2460.225 D Download succeeded: "http://status.mojang.com/check"
+ 2460.225 D Task "NetJob(Status JSON)" succeeded
+ 2460.225 D Finished loading status JSON.
+ 2460.225 D Status loading succeeded.
+ 2520.091 D Task "NetJob(Status JSON)" started
+ 2520.092 D Downloading  "http://status.mojang.com/check"
+ 2520.239 D Download succeeded: "http://status.mojang.com/check"
+ 2520.239 D Task "NetJob(Status JSON)" succeeded
+ 2520.239 D Finished loading status JSON.
+ 2520.239 D Status loading succeeded.
+ 2580.093 D Task "NetJob(Status JSON)" started
+ 2580.093 D Downloading  "http://status.mojang.com/check"
+ 2580.229 D Download succeeded: "http://status.mojang.com/check"
+ 2580.229 D Task "NetJob(Status JSON)" succeeded
+ 2580.229 D Finished loading status JSON.
+ 2580.230 D Status loading succeeded.
+ 2640.089 D Task "NetJob(Status JSON)" started
+ 2640.089 D Downloading  "http://status.mojang.com/check"
+ 2640.230 D Download succeeded: "http://status.mojang.com/check"
+ 2640.230 D Task "NetJob(Status JSON)" succeeded
+ 2640.230 D Finished loading status JSON.
+ 2640.230 D Status loading succeeded.
+ 2700.097 D Task "NetJob(Status JSON)" started
+ 2700.097 D Downloading  "http://status.mojang.com/check"
+ 2700.236 D Download succeeded: "http://status.mojang.com/check"
+ 2700.236 D Task "NetJob(Status JSON)" succeeded
+ 2700.236 D Finished loading status JSON.
+ 2700.236 D Status loading succeeded.
+ 2760.094 D Task "NetJob(Status JSON)" started
+ 2760.094 D Downloading  "http://status.mojang.com/check"
+ 2760.236 D Download succeeded: "http://status.mojang.com/check"
+ 2760.237 D Task "NetJob(Status JSON)" succeeded
+ 2760.237 D Finished loading status JSON.
+ 2760.237 D Status loading succeeded.
+ 2820.096 D Task "NetJob(Status JSON)" started
+ 2820.096 D Downloading  "http://status.mojang.com/check"
+ 2820.233 D Download succeeded: "http://status.mojang.com/check"
+ 2820.233 D Task "NetJob(Status JSON)" succeeded
+ 2820.233 D Finished loading status JSON.
+ 2820.233 D Status loading succeeded.
+ 2880.089 D Task "NetJob(Status JSON)" started
+ 2880.089 D Downloading  "http://status.mojang.com/check"
+ 2880.230 D Download succeeded: "http://status.mojang.com/check"
+ 2880.230 D Task "NetJob(Status JSON)" succeeded
+ 2880.230 D Finished loading status JSON.
+ 2880.230 D Status loading succeeded.
+ 2940.099 D Task "NetJob(Status JSON)" started
+ 2940.099 D Downloading  "http://status.mojang.com/check"
+ 2940.243 D Download succeeded: "http://status.mojang.com/check"
+ 2940.243 D Task "NetJob(Status JSON)" succeeded
+ 2940.243 D Finished loading status JSON.
+ 2940.243 D Status loading succeeded.
+ 3000.104 D Task "NetJob(Status JSON)" started
+ 3000.104 D Downloading  "http://status.mojang.com/check"
+ 3000.245 D Download succeeded: "http://status.mojang.com/check"
+ 3000.245 D Task "NetJob(Status JSON)" succeeded
+ 3000.245 D Finished loading status JSON.
+ 3000.245 D Status loading succeeded.
+ 3060.109 D Task "NetJob(Status JSON)" started
+ 3060.109 D Downloading  "http://status.mojang.com/check"
+ 3060.253 D Download succeeded: "http://status.mojang.com/check"
+ 3060.253 D Task "NetJob(Status JSON)" succeeded
+ 3060.253 D Finished loading status JSON.
+ 3060.253 D Status loading succeeded.
+ 3120.101 D Task "NetJob(Status JSON)" started
+ 3120.101 D Downloading  "http://status.mojang.com/check"
+ 3120.242 D Download succeeded: "http://status.mojang.com/check"
+ 3120.242 D Task "NetJob(Status JSON)" succeeded
+ 3120.243 D Finished loading status JSON.
+ 3120.243 D Status loading succeeded.
+ 3180.110 D Task "NetJob(Status JSON)" started
+ 3180.110 D Downloading  "http://status.mojang.com/check"
+ 3180.248 D Download succeeded: "http://status.mojang.com/check"
+ 3180.248 D Task "NetJob(Status JSON)" succeeded
+ 3180.248 D Finished loading status JSON.
+ 3180.248 D Status loading succeeded.
+ 3240.112 D Task "NetJob(Status JSON)" started
+ 3240.112 D Downloading  "http://status.mojang.com/check"
+ 3240.250 D Download succeeded: "http://status.mojang.com/check"
+ 3240.250 D Task "NetJob(Status JSON)" succeeded
+ 3240.250 D Finished loading status JSON.
+ 3240.250 D Status loading succeeded.
+ 3300.111 D Task "NetJob(Status JSON)" started
+ 3300.111 D Downloading  "http://status.mojang.com/check"
+ 3300.251 D Download succeeded: "http://status.mojang.com/check"
+ 3300.252 D Task "NetJob(Status JSON)" succeeded
+ 3300.252 D Finished loading status JSON.
+ 3300.252 D Status loading succeeded.
+ 3360.106 D Task "NetJob(Status JSON)" started
+ 3360.106 D Downloading  "http://status.mojang.com/check"
+ 3360.243 D Download succeeded: "http://status.mojang.com/check"
+ 3360.243 D Task "NetJob(Status JSON)" succeeded
+ 3360.243 D Finished loading status JSON.
+ 3360.243 D Status loading succeeded.
+ 3420.112 D Task "NetJob(Status JSON)" started
+ 3420.112 D Downloading  "http://status.mojang.com/check"
+ 3420.249 D Download succeeded: "http://status.mojang.com/check"
+ 3420.249 D Task "NetJob(Status JSON)" succeeded
+ 3420.249 D Finished loading status JSON.
+ 3420.249 D Status loading succeeded.
+ 3480.099 D Task "NetJob(Status JSON)" started
+ 3480.100 D Downloading  "http://status.mojang.com/check"
+ 3480.236 D Download succeeded: "http://status.mojang.com/check"
+ 3480.236 D Task "NetJob(Status JSON)" succeeded
+ 3480.236 D Finished loading status JSON.
+ 3480.236 D Status loading succeeded.
+ 3540.101 D Task "NetJob(Status JSON)" started
+ 3540.102 D Downloading  "http://status.mojang.com/check"
+ 3540.247 D Download succeeded: "http://status.mojang.com/check"
+ 3540.248 D Task "NetJob(Status JSON)" succeeded
+ 3540.248 D Finished loading status JSON.
+ 3540.248 D Status loading succeeded.
+ 3600.101 D Task "NetJob(Status JSON)" started
+ 3600.102 D Downloading  "http://status.mojang.com/check"
+ 3600.248 D Download succeeded: "http://status.mojang.com/check"
+ 3600.248 D Task "NetJob(Status JSON)" succeeded
+ 3600.248 D Finished loading status JSON.
+ 3600.248 D Status loading succeeded.
+ 3660.109 D Task "NetJob(Status JSON)" started
+ 3660.109 D Downloading  "http://status.mojang.com/check"
+ 3660.251 D Download succeeded: "http://status.mojang.com/check"
+ 3660.251 D Task "NetJob(Status JSON)" succeeded
+ 3660.251 D Finished loading status JSON.
+ 3660.251 D Status loading succeeded.
+ 3720.113 D Task "NetJob(Status JSON)" started
+ 3720.113 D Downloading  "http://status.mojang.com/check"
+ 3720.256 D Download succeeded: "http://status.mojang.com/check"
+ 3720.256 D Task "NetJob(Status JSON)" succeeded
+ 3720.256 D Finished loading status JSON.
+ 3720.257 D Status loading succeeded.
+ 3780.113 D Task "NetJob(Status JSON)" started
+ 3780.113 D Downloading  "http://status.mojang.com/check"
+ 3780.249 D Download succeeded: "http://status.mojang.com/check"
+ 3780.249 D Task "NetJob(Status JSON)" succeeded
+ 3780.249 D Finished loading status JSON.
+ 3780.250 D Status loading succeeded.
+ 3840.100 D Task "NetJob(Status JSON)" started
+ 3840.100 D Downloading  "http://status.mojang.com/check"
+ 3840.237 D Download succeeded: "http://status.mojang.com/check"
+ 3840.237 D Task "NetJob(Status JSON)" succeeded
+ 3840.237 D Finished loading status JSON.
+ 3840.237 D Status loading succeeded.
+ 3900.113 D Task "NetJob(Status JSON)" started
+ 3900.113 D Downloading  "http://status.mojang.com/check"
+ 3900.255 D Download succeeded: "http://status.mojang.com/check"
+ 3900.255 D Task "NetJob(Status JSON)" succeeded
+ 3900.255 D Finished loading status JSON.
+ 3900.255 D Status loading succeeded.
+ 3960.099 D Task "NetJob(Status JSON)" started
+ 3960.099 D Downloading  "http://status.mojang.com/check"
+ 3960.243 D Download succeeded: "http://status.mojang.com/check"
+ 3960.244 D Task "NetJob(Status JSON)" succeeded
+ 3960.244 D Finished loading status JSON.
+ 3960.244 D Status loading succeeded.
+ 4020.100 D Task "NetJob(Status JSON)" started
+ 4020.100 D Downloading  "http://status.mojang.com/check"
+ 4020.242 D Download succeeded: "http://status.mojang.com/check"
+ 4020.242 D Task "NetJob(Status JSON)" succeeded
+ 4020.242 D Finished loading status JSON.
+ 4020.242 D Status loading succeeded.
+ 4080.105 D Task "NetJob(Status JSON)" started
+ 4080.105 D Downloading  "http://status.mojang.com/check"
+ 4080.255 D Download succeeded: "http://status.mojang.com/check"
+ 4080.255 D Task "NetJob(Status JSON)" succeeded
+ 4080.255 D Finished loading status JSON.
+ 4080.255 D Status loading succeeded.
+ 4140.111 D Task "NetJob(Status JSON)" started
+ 4140.112 D Downloading  "http://status.mojang.com/check"
+ 4140.256 D Download succeeded: "http://status.mojang.com/check"
+ 4140.256 D Task "NetJob(Status JSON)" succeeded
+ 4140.256 D Finished loading status JSON.
+ 4140.256 D Status loading succeeded.
+ 4200.100 D Task "NetJob(Status JSON)" started
+ 4200.100 D Downloading  "http://status.mojang.com/check"
+ 4200.243 D Download succeeded: "http://status.mojang.com/check"
+ 4200.243 D Task "NetJob(Status JSON)" succeeded
+ 4200.243 D Finished loading status JSON.
+ 4200.243 D Status loading succeeded.
+ 4260.113 D Task "NetJob(Status JSON)" started
+ 4260.113 D Downloading  "http://status.mojang.com/check"
+ 4260.250 D Download succeeded: "http://status.mojang.com/check"
+ 4260.251 D Task "NetJob(Status JSON)" succeeded
+ 4260.251 D Finished loading status JSON.
+ 4260.251 D Status loading succeeded.
+ 4320.105 D Task "NetJob(Status JSON)" started
+ 4320.105 D Downloading  "http://status.mojang.com/check"
+ 4320.242 D Download succeeded: "http://status.mojang.com/check"
+ 4320.243 D Task "NetJob(Status JSON)" succeeded
+ 4320.243 D Finished loading status JSON.
+ 4320.243 D Status loading succeeded.
+ 4380.111 D Task "NetJob(Status JSON)" started
+ 4380.111 D Downloading  "http://status.mojang.com/check"
+ 4380.248 D Download succeeded: "http://status.mojang.com/check"
+ 4380.248 D Task "NetJob(Status JSON)" succeeded
+ 4380.248 D Finished loading status JSON.
+ 4380.248 D Status loading succeeded.
+ 4440.099 D Task "NetJob(Status JSON)" started
+ 4440.099 D Downloading  "http://status.mojang.com/check"
+ 4440.240 D Download succeeded: "http://status.mojang.com/check"
+ 4440.240 D Task "NetJob(Status JSON)" succeeded
+ 4440.240 D Finished loading status JSON.
+ 4440.240 D Status loading succeeded.
+ 4500.101 D Task "NetJob(Status JSON)" started
+ 4500.101 D Downloading  "http://status.mojang.com/check"
+ 4500.242 D Download succeeded: "http://status.mojang.com/check"
+ 4500.242 D Task "NetJob(Status JSON)" succeeded
+ 4500.242 D Finished loading status JSON.
+ 4500.242 D Status loading succeeded.
+ 4560.101 D Task "NetJob(Status JSON)" started
+ 4560.101 D Downloading  "http://status.mojang.com/check"
+ 4560.242 D Download succeeded: "http://status.mojang.com/check"
+ 4560.242 D Task "NetJob(Status JSON)" succeeded
+ 4560.242 D Finished loading status JSON.
+ 4560.243 D Status loading succeeded.
+ 4620.109 D Task "NetJob(Status JSON)" started
+ 4620.109 D Downloading  "http://status.mojang.com/check"
+ 4620.247 D Download succeeded: "http://status.mojang.com/check"
+ 4620.247 D Task "NetJob(Status JSON)" succeeded
+ 4620.247 D Finished loading status JSON.
+ 4620.247 D Status loading succeeded.
+ 4680.100 D Task "NetJob(Status JSON)" started
+ 4680.100 D Downloading  "http://status.mojang.com/check"
+ 4680.237 D Download succeeded: "http://status.mojang.com/check"
+ 4680.237 D Task "NetJob(Status JSON)" succeeded
+ 4680.237 D Finished loading status JSON.
+ 4680.237 D Status loading succeeded.
+ 4740.101 D Task "NetJob(Status JSON)" started
+ 4740.101 D Downloading  "http://status.mojang.com/check"
+ 4740.238 D Download succeeded: "http://status.mojang.com/check"
+ 4740.238 D Task "NetJob(Status JSON)" succeeded
+ 4740.238 D Finished loading status JSON.
+ 4740.238 D Status loading succeeded.
+ 4800.099 D Task "NetJob(Status JSON)" started
+ 4800.099 D Downloading  "http://status.mojang.com/check"
+ 4800.236 D Download succeeded: "http://status.mojang.com/check"
+ 4800.236 D Task "NetJob(Status JSON)" succeeded
+ 4800.236 D Finished loading status JSON.
+ 4800.236 D Status loading succeeded.
+ 4860.112 D Task "NetJob(Status JSON)" started
+ 4860.112 D Downloading  "http://status.mojang.com/check"
+ 4860.250 D Download succeeded: "http://status.mojang.com/check"
+ 4860.250 D Task "NetJob(Status JSON)" succeeded
+ 4860.250 D Finished loading status JSON.
+ 4860.250 D Status loading succeeded.
+ 4920.110 D Task "NetJob(Status JSON)" started
+ 4920.110 D Downloading  "http://status.mojang.com/check"
+ 4920.246 D Download succeeded: "http://status.mojang.com/check"
+ 4920.246 D Task "NetJob(Status JSON)" succeeded
+ 4920.246 D Finished loading status JSON.
+ 4920.246 D Status loading succeeded.
+ 4980.110 D Task "NetJob(Status JSON)" started
+ 4980.110 D Downloading  "http://status.mojang.com/check"
+ 4980.249 D Download succeeded: "http://status.mojang.com/check"
+ 4980.249 D Task "NetJob(Status JSON)" succeeded
+ 4980.249 D Finished loading status JSON.
+ 4980.249 D Status loading succeeded.
+ 5040.107 D Task "NetJob(Status JSON)" started
+ 5040.107 D Downloading  "http://status.mojang.com/check"
+ 5040.248 D Download succeeded: "http://status.mojang.com/check"
+ 5040.248 D Task "NetJob(Status JSON)" succeeded
+ 5040.248 D Finished loading status JSON.
+ 5040.248 D Status loading succeeded.
+ 5100.101 D Task "NetJob(Status JSON)" started
+ 5100.101 D Downloading  "http://status.mojang.com/check"
+ 5100.241 D Download succeeded: "http://status.mojang.com/check"
+ 5100.241 D Task "NetJob(Status JSON)" succeeded
+ 5100.242 D Finished loading status JSON.
+ 5100.242 D Status loading succeeded.
+ 5160.106 D Task "NetJob(Status JSON)" started
+ 5160.107 D Downloading  "http://status.mojang.com/check"
+ 5160.248 D Download succeeded: "http://status.mojang.com/check"
+ 5160.248 D Task "NetJob(Status JSON)" succeeded
+ 5160.248 D Finished loading status JSON.
+ 5160.248 D Status loading succeeded.
+ 5220.113 D Task "NetJob(Status JSON)" started
+ 5220.114 D Downloading  "http://status.mojang.com/check"
+ 5220.261 D Download succeeded: "http://status.mojang.com/check"
+ 5220.261 D Task "NetJob(Status JSON)" succeeded
+ 5220.261 D Finished loading status JSON.
+ 5220.261 D Status loading succeeded.
+ 5280.101 D Task "NetJob(Status JSON)" started
+ 5280.101 D Downloading  "http://status.mojang.com/check"
+ 5280.244 D Download succeeded: "http://status.mojang.com/check"
+ 5280.244 D Task "NetJob(Status JSON)" succeeded
+ 5280.244 D Finished loading status JSON.
+ 5280.245 D Status loading succeeded.
+ 5340.112 D Task "NetJob(Status JSON)" started
+ 5340.112 D Downloading  "http://status.mojang.com/check"
+ 5340.257 D Download succeeded: "http://status.mojang.com/check"
+ 5340.257 D Task "NetJob(Status JSON)" succeeded
+ 5340.257 D Finished loading status JSON.
+ 5340.257 D Status loading succeeded.
+ 5400.109 D Task "NetJob(Status JSON)" started
+ 5400.109 D Downloading  "http://status.mojang.com/check"
+ 5400.246 D Download succeeded: "http://status.mojang.com/check"
+ 5400.246 D Task "NetJob(Status JSON)" succeeded
+ 5400.246 D Finished loading status JSON.
+ 5400.246 D Status loading succeeded.
+ 5460.112 D Task "NetJob(Status JSON)" started
+ 5460.112 D Downloading  "http://status.mojang.com/check"
+ 5460.262 D Download succeeded: "http://status.mojang.com/check"
+ 5460.262 D Task "NetJob(Status JSON)" succeeded
+ 5460.262 D Finished loading status JSON.
+ 5460.262 D Status loading succeeded.
+ 5520.103 D Task "NetJob(Status JSON)" started
+ 5520.103 D Downloading  "http://status.mojang.com/check"
+ 5520.243 D Download succeeded: "http://status.mojang.com/check"
+ 5520.243 D Task "NetJob(Status JSON)" succeeded
+ 5520.244 D Finished loading status JSON.
+ 5520.244 D Status loading succeeded.
+ 5580.109 D Task "NetJob(Status JSON)" started
+ 5580.109 D Downloading  "http://status.mojang.com/check"
+ 5580.246 D Download succeeded: "http://status.mojang.com/check"
+ 5580.246 D Task "NetJob(Status JSON)" succeeded
+ 5580.246 D Finished loading status JSON.
+ 5580.247 D Status loading succeeded.
+ 5640.113 D Task "NetJob(Status JSON)" started
+ 5640.113 D Downloading  "http://status.mojang.com/check"
+ 5640.249 D Download succeeded: "http://status.mojang.com/check"
+ 5640.249 D Task "NetJob(Status JSON)" succeeded
+ 5640.249 D Finished loading status JSON.
+ 5640.249 D Status loading succeeded.
+ 5700.099 D Task "NetJob(Status JSON)" started
+ 5700.100 D Downloading  "http://status.mojang.com/check"
+ 5700.244 D Download succeeded: "http://status.mojang.com/check"
+ 5700.244 D Task "NetJob(Status JSON)" succeeded
+ 5700.244 D Finished loading status JSON.
+ 5700.245 D Status loading succeeded.
+ 5760.112 D Task "NetJob(Status JSON)" started
+ 5760.112 D Downloading  "http://status.mojang.com/check"
+ 5760.249 D Download succeeded: "http://status.mojang.com/check"
+ 5760.250 D Task "NetJob(Status JSON)" succeeded
+ 5760.250 D Finished loading status JSON.
+ 5760.250 D Status loading succeeded.
+ 5820.105 D Task "NetJob(Status JSON)" started
+ 5820.105 D Downloading  "http://status.mojang.com/check"
+ 5820.245 D Download succeeded: "http://status.mojang.com/check"
+ 5820.245 D Task "NetJob(Status JSON)" succeeded
+ 5820.245 D Finished loading status JSON.
+ 5820.245 D Status loading succeeded.
+ 5880.108 D Task "NetJob(Status JSON)" started
+ 5880.108 D Downloading  "http://status.mojang.com/check"
+ 5880.246 D Download succeeded: "http://status.mojang.com/check"
+ 5880.246 D Task "NetJob(Status JSON)" succeeded
+ 5880.246 D Finished loading status JSON.
+ 5880.246 D Status loading succeeded.
+ 5940.099 D Task "NetJob(Status JSON)" started
+ 5940.099 D Downloading  "http://status.mojang.com/check"
+ 5940.246 D Download succeeded: "http://status.mojang.com/check"
+ 5940.246 D Task "NetJob(Status JSON)" succeeded
+ 5940.246 D Finished loading status JSON.
+ 5940.246 D Status loading succeeded.
+ 6000.114 D Task "NetJob(Status JSON)" started
+ 6000.114 D Downloading  "http://status.mojang.com/check"
+ 6000.255 D Download succeeded: "http://status.mojang.com/check"
+ 6000.255 D Task "NetJob(Status JSON)" succeeded
+ 6000.255 D Finished loading status JSON.
+ 6000.255 D Status loading succeeded.
+ 6060.111 D Task "NetJob(Status JSON)" started
+ 6060.111 D Downloading  "http://status.mojang.com/check"
+ 6060.249 D Download succeeded: "http://status.mojang.com/check"
+ 6060.249 D Task "NetJob(Status JSON)" succeeded
+ 6060.249 D Finished loading status JSON.
+ 6060.249 D Status loading succeeded.
+ 6120.110 D Task "NetJob(Status JSON)" started
+ 6120.110 D Downloading  "http://status.mojang.com/check"
+ 6120.248 D Download succeeded: "http://status.mojang.com/check"
+ 6120.248 D Task "NetJob(Status JSON)" succeeded
+ 6120.248 D Finished loading status JSON.
+ 6120.248 D Status loading succeeded.
+ 6180.109 D Task "NetJob(Status JSON)" started
+ 6180.109 D Downloading  "http://status.mojang.com/check"
+ 6180.245 D Download succeeded: "http://status.mojang.com/check"
+ 6180.245 D Task "NetJob(Status JSON)" succeeded
+ 6180.245 D Finished loading status JSON.
+ 6180.245 D Status loading succeeded.
+ 6240.101 D Task "NetJob(Status JSON)" started
+ 6240.101 D Downloading  "http://status.mojang.com/check"
+ 6240.249 D Download succeeded: "http://status.mojang.com/check"
+ 6240.249 D Task "NetJob(Status JSON)" succeeded
+ 6240.249 D Finished loading status JSON.
+ 6240.249 D Status loading succeeded.
+ 6300.104 D Task "NetJob(Status JSON)" started
+ 6300.104 D Downloading  "http://status.mojang.com/check"
+ 6300.242 D Download succeeded: "http://status.mojang.com/check"
+ 6300.242 D Task "NetJob(Status JSON)" succeeded
+ 6300.242 D Finished loading status JSON.
+ 6300.242 D Status loading succeeded.
+ 6360.114 D Task "NetJob(Status JSON)" started
+ 6360.114 D Downloading  "http://status.mojang.com/check"
+ 6360.257 D Download succeeded: "http://status.mojang.com/check"
+ 6360.257 D Task "NetJob(Status JSON)" succeeded
+ 6360.257 D Finished loading status JSON.
+ 6360.257 D Status loading succeeded.
+ 6420.099 D Task "NetJob(Status JSON)" started
+ 6420.099 D Downloading  "http://status.mojang.com/check"
+ 6420.236 D Download succeeded: "http://status.mojang.com/check"
+ 6420.236 D Task "NetJob(Status JSON)" succeeded
+ 6420.236 D Finished loading status JSON.
+ 6420.236 D Status loading succeeded.
+ 6480.111 D Task "NetJob(Status JSON)" started
+ 6480.111 D Downloading  "http://status.mojang.com/check"
+ 6480.251 D Download succeeded: "http://status.mojang.com/check"
+ 6480.251 D Task "NetJob(Status JSON)" succeeded
+ 6480.251 D Finished loading status JSON.
+ 6480.251 D Status loading succeeded.
+ 6540.105 D Task "NetJob(Status JSON)" started
+ 6540.105 D Downloading  "http://status.mojang.com/check"
+ 6540.242 D Download succeeded: "http://status.mojang.com/check"
+ 6540.242 D Task "NetJob(Status JSON)" succeeded
+ 6540.242 D Finished loading status JSON.
+ 6540.242 D Status loading succeeded.
+ 6600.110 D Task "NetJob(Status JSON)" started
+ 6600.110 D Downloading  "http://status.mojang.com/check"
+ 6600.246 D Download succeeded: "http://status.mojang.com/check"
+ 6600.246 D Task "NetJob(Status JSON)" succeeded
+ 6600.246 D Finished loading status JSON.
+ 6600.246 D Status loading succeeded.
+ 6660.102 D Task "NetJob(Status JSON)" started
+ 6660.102 D Downloading  "http://status.mojang.com/check"
+ 6660.243 D Download succeeded: "http://status.mojang.com/check"
+ 6660.244 D Task "NetJob(Status JSON)" succeeded
+ 6660.244 D Finished loading status JSON.
+ 6660.244 D Status loading succeeded.
+ 6720.101 D Task "NetJob(Status JSON)" started
+ 6720.101 D Downloading  "http://status.mojang.com/check"
+ 6720.237 D Download succeeded: "http://status.mojang.com/check"
+ 6720.237 D Task "NetJob(Status JSON)" succeeded
+ 6720.237 D Finished loading status JSON.
+ 6720.237 D Status loading succeeded.
+ 6780.100 D Task "NetJob(Status JSON)" started
+ 6780.100 D Downloading  "http://status.mojang.com/check"
+ 6780.242 D Download succeeded: "http://status.mojang.com/check"
+ 6780.242 D Task "NetJob(Status JSON)" succeeded
+ 6780.242 D Finished loading status JSON.
+ 6780.242 D Status loading succeeded.
+ 6840.103 D Task "NetJob(Status JSON)" started
+ 6840.103 D Downloading  "http://status.mojang.com/check"
+ 6840.243 D Download succeeded: "http://status.mojang.com/check"
+ 6840.243 D Task "NetJob(Status JSON)" succeeded
+ 6840.243 D Finished loading status JSON.
+ 6840.244 D Status loading succeeded.
+ 6900.114 D Task "NetJob(Status JSON)" started
+ 6900.114 D Downloading  "http://status.mojang.com/check"
+ 6900.251 D Download succeeded: "http://status.mojang.com/check"
+ 6900.252 D Task "NetJob(Status JSON)" succeeded
+ 6900.252 D Finished loading status JSON.
+ 6900.252 D Status loading succeeded.
+ 6960.104 D Task "NetJob(Status JSON)" started
+ 6960.105 D Downloading  "http://status.mojang.com/check"
+ 6960.251 D Download succeeded: "http://status.mojang.com/check"
+ 6960.251 D Task "NetJob(Status JSON)" succeeded
+ 6960.251 D Finished loading status JSON.
+ 6960.251 D Status loading succeeded.
+ 7020.114 D Task "NetJob(Status JSON)" started
+ 7020.114 D Downloading  "http://status.mojang.com/check"
+ 7020.251 D Download succeeded: "http://status.mojang.com/check"
+ 7020.251 D Task "NetJob(Status JSON)" succeeded
+ 7020.251 D Finished loading status JSON.
+ 7020.251 D Status loading succeeded.
+ 7080.104 D Task "NetJob(Status JSON)" started
+ 7080.105 D Downloading  "http://status.mojang.com/check"
+ 7080.243 D Download succeeded: "http://status.mojang.com/check"
+ 7080.243 D Task "NetJob(Status JSON)" succeeded
+ 7080.243 D Finished loading status JSON.
+ 7080.243 D Status loading succeeded.
+ 7140.101 D Task "NetJob(Status JSON)" started
+ 7140.101 D Downloading  "http://status.mojang.com/check"
+ 7140.237 D Download succeeded: "http://status.mojang.com/check"
+ 7140.238 D Task "NetJob(Status JSON)" succeeded
+ 7140.238 D Finished loading status JSON.
+ 7140.238 D Status loading succeeded.
+ 7200.100 D Task "NetJob(Status JSON)" started
+ 7200.100 D Downloading  "http://status.mojang.com/check"
+ 7200.242 D Download succeeded: "http://status.mojang.com/check"
+ 7200.242 D Task "NetJob(Status JSON)" succeeded
+ 7200.242 D Finished loading status JSON.
+ 7200.242 D Status loading succeeded.
+ 7260.103 D Task "NetJob(Status JSON)" started
+ 7260.103 D Downloading  "http://status.mojang.com/check"
+ 7260.245 D Download succeeded: "http://status.mojang.com/check"
+ 7260.245 D Task "NetJob(Status JSON)" succeeded
+ 7260.245 D Finished loading status JSON.
+ 7260.245 D Status loading succeeded.
+ 7320.107 D Task "NetJob(Status JSON)" started
+ 7320.107 D Downloading  "http://status.mojang.com/check"
+ 7320.245 D Download succeeded: "http://status.mojang.com/check"
+ 7320.245 D Task "NetJob(Status JSON)" succeeded
+ 7320.245 D Finished loading status JSON.
+ 7320.245 D Status loading succeeded.
+ 7380.112 D Task "NetJob(Status JSON)" started
+ 7380.112 D Downloading  "http://status.mojang.com/check"
+ 7380.254 D Download succeeded: "http://status.mojang.com/check"
+ 7380.254 D Task "NetJob(Status JSON)" succeeded
+ 7380.254 D Finished loading status JSON.
+ 7380.254 D Status loading succeeded.
+ 7440.100 D Task "NetJob(Status JSON)" started
+ 7440.100 D Downloading  "http://status.mojang.com/check"
+ 7440.239 D Download succeeded: "http://status.mojang.com/check"
+ 7440.239 D Task "NetJob(Status JSON)" succeeded
+ 7440.239 D Finished loading status JSON.
+ 7440.239 D Status loading succeeded.
+ 7500.111 D Task "NetJob(Status JSON)" started
+ 7500.111 D Downloading  "http://status.mojang.com/check"
+ 7500.253 D Download succeeded: "http://status.mojang.com/check"
+ 7500.254 D Task "NetJob(Status JSON)" succeeded
+ 7500.254 D Finished loading status JSON.
+ 7500.254 D Status loading succeeded.
+ 7560.111 D Task "NetJob(Status JSON)" started
+ 7560.111 D Downloading  "http://status.mojang.com/check"
+ 7560.254 D Download succeeded: "http://status.mojang.com/check"
+ 7560.254 D Task "NetJob(Status JSON)" succeeded
+ 7560.254 D Finished loading status JSON.
+ 7560.254 D Status loading succeeded.
+ 7620.103 D Task "NetJob(Status JSON)" started
+ 7620.103 D Downloading  "http://status.mojang.com/check"
+ 7620.240 D Download succeeded: "http://status.mojang.com/check"
+ 7620.240 D Task "NetJob(Status JSON)" succeeded
+ 7620.240 D Finished loading status JSON.
+ 7620.240 D Status loading succeeded.
+ 7680.107 D Task "NetJob(Status JSON)" started
+ 7680.107 D Downloading  "http://status.mojang.com/check"
+ 7680.244 D Download succeeded: "http://status.mojang.com/check"
+ 7680.244 D Task "NetJob(Status JSON)" succeeded
+ 7680.244 D Finished loading status JSON.
+ 7680.244 D Status loading succeeded.
+ 7740.111 D Task "NetJob(Status JSON)" started
+ 7740.111 D Downloading  "http://status.mojang.com/check"
+ 7740.254 D Download succeeded: "http://status.mojang.com/check"
+ 7740.254 D Task "NetJob(Status JSON)" succeeded
+ 7740.255 D Finished loading status JSON.
+ 7740.255 D Status loading succeeded.
+ 7800.099 D Task "NetJob(Status JSON)" started
+ 7800.099 D Downloading  "http://status.mojang.com/check"
+ 7800.236 D Download succeeded: "http://status.mojang.com/check"
+ 7800.236 D Task "NetJob(Status JSON)" succeeded
+ 7800.236 D Finished loading status JSON.
+ 7800.236 D Status loading succeeded.
+ 7860.100 D Task "NetJob(Status JSON)" started
+ 7860.100 D Downloading  "http://status.mojang.com/check"
+ 7860.237 D Download succeeded: "http://status.mojang.com/check"
+ 7860.237 D Task "NetJob(Status JSON)" succeeded
+ 7860.237 D Finished loading status JSON.
+ 7860.237 D Status loading succeeded.
+ 7920.103 D Task "NetJob(Status JSON)" started
+ 7920.103 D Downloading  "http://status.mojang.com/check"
+ 7920.241 D Download succeeded: "http://status.mojang.com/check"
+ 7920.241 D Task "NetJob(Status JSON)" succeeded
+ 7920.241 D Finished loading status JSON.
+ 7920.241 D Status loading succeeded.
+ 7970.576 D Task "LauncherPartLaunch(0x87a936c)" succeeded
+ 7970.583 D Writing account list to "accounts.json"
+ 7970.583 D Building JSON data structure.
+ 7970.583 D Building account array.
+ 7970.583 D Writing account list to file.
+ 7970.583 D Saved account list to "accounts.json"
+ 7970.590 W Account "slava.basser@mail.ru" is no longer in use.
+ 7970.623 D Task "LaunchTask(0x85f0f10)" succeeded
+ 7970.623 D Task "LaunchController(0x85f0dd0)" succeeded
+ 7980.102 D Task "NetJob(Status JSON)" started
+ 7980.102 D Downloading  "http://status.mojang.com/check"
+ 7980.239 D Download succeeded: "http://status.mojang.com/check"
+ 7980.239 D Task "NetJob(Status JSON)" succeeded
+ 7980.239 D Finished loading status JSON.
+ 7980.239 D Status loading succeeded.
+ 8040.102 D Task "NetJob(Status JSON)" started
+ 8040.102 D Downloading  "http://status.mojang.com/check"
+ 8040.243 D Download succeeded: "http://status.mojang.com/check"
+ 8040.243 D Task "NetJob(Status JSON)" succeeded
+ 8040.243 D Finished loading status JSON.
+ 8040.243 D Status loading succeeded.
+ 8100.103 D Task "NetJob(Status JSON)" started
+ 8100.103 D Downloading  "http://status.mojang.com/check"
+ 8100.243 D Download succeeded: "http://status.mojang.com/check"
+ 8100.243 D Task "NetJob(Status JSON)" succeeded
+ 8100.243 D Finished loading status JSON.
+ 8100.243 D Status loading succeeded.
+ 8160.109 D Task "NetJob(Status JSON)" started
+ 8160.109 D Downloading  "http://status.mojang.com/check"
+ 8160.251 D Download succeeded: "http://status.mojang.com/check"
+ 8160.251 D Task "NetJob(Status JSON)" succeeded
+ 8160.251 D Finished loading status JSON.
+ 8160.251 D Status loading succeeded.
+ 8220.100 D Task "NetJob(Status JSON)" started
+ 8220.100 D Downloading  "http://status.mojang.com/check"
+ 8220.244 D Download succeeded: "http://status.mojang.com/check"
+ 8220.244 D Task "NetJob(Status JSON)" succeeded
+ 8220.244 D Finished loading status JSON.
+ 8220.244 D Status loading succeeded.
+ 8280.110 D Task "NetJob(Status JSON)" started
+ 8280.110 D Downloading  "http://status.mojang.com/check"
+ 8280.256 D Download succeeded: "http://status.mojang.com/check"
+ 8280.256 D Task "NetJob(Status JSON)" succeeded
+ 8280.256 D Finished loading status JSON.
+ 8280.257 D Status loading succeeded.
+ 8340.111 D Task "NetJob(Status JSON)" started
+ 8340.111 D Downloading  "http://status.mojang.com/check"
+ 8340.260 D Download succeeded: "http://status.mojang.com/check"
+ 8340.260 D Task "NetJob(Status JSON)" succeeded
+ 8340.260 D Finished loading status JSON.
+ 8340.260 D Status loading succeeded.

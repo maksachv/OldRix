@@ -1,0 +1,64 @@
+[13:29:56] [Client thread/INFO]: Setting user: maksachv
+[13:30:00] [Client thread/WARN]: Skipping bad option: lastServer:
+[13:30:00] [Client thread/INFO]: LWJGL Version: 2.9.4
+[13:30:09] [Client thread/INFO]: Reloading ResourceManager: Default, FMLFileResourcePack:Forge Mod Loader, FMLFileResourcePack:Minecraft Forge, FMLFileResourcePack:Advanced Machines, FMLFileResourcePack:Advanced Solar Panels, FMLFileResourcePack:Applied Energistics 2, FMLFileResourcePack:ChickenChunks, FMLFileResourcePack:Chisel, FMLFileResourcePack:CodeChicken Core, FMLFileResourcePack:CodeChicken Lib, FMLFileResourcePack:ccl-entityhook, FMLFileResourcePack:CoFH Core, FMLFileResourcePack:CT-GUI, FMLFileResourcePack:MineTweaker 3, FMLFileResourcePack:CraftTweaker JEI Support, FMLFileResourcePack:CTM, FMLFileResourcePack:EnderCore, FMLFileResourcePack:Ender IO, FMLFileResourcePack:EnderStorage, FMLFileResourcePack:Extra Cells 2, FMLFileResourcePack:Extra Utilities 2, FMLFileResourcePack:Extreme Reactors, FMLFileResourcePack:Fast Leaf Decay, FMLFileResourcePack:Forestry, FMLFileResourcePack:Forge Microblocks, FMLFileResourcePack:Forge Multipart CBE, FMLFileResourcePack:Minecraft Multipart Plugin, FMLFileResourcePack:FTBLib, FMLFileResourcePack:FTBUtilities, FMLFileResourcePack:Gravestone Mod, FMLFileResourcePack:Gravitation Suite, FMLFileResourcePack:IndustrialCraft 2, FMLFileResourcePack:Inventory Tweaks, FMLFileResourcePack:Iron Chest, FMLFileResourcePack:Just Enough Items, FMLFileResourcePack:JEI Bees, FMLFileResourcePack:JEI Integration, FMLFileResourcePack:JourneyMap, FMLFileResourcePack:Just Enough Resources, FMLFileResourcePack:Mantle, FMLFileResourcePack:MineFactory Reloaded, FMLFileResourcePack:MFR Compat: Vanilla, FMLFileResourcePack:Mod Tweaker, FMLFileResourcePack:MrTJPCore, FMLFileResourcePack:MTLib, FMLFileResourcePack:ProjectRed Core, FMLFileResourcePack:ProjectRed Fabrication, FMLFileResourcePack:ProjectRed integration, FMLFileResourcePack:ProjectRed Transmission, FMLFileResourcePack:ProjectRed Illumination, FMLFileResourcePack:ProjectRed Expansion, FMLFileResourcePack:ProjectRed Transportation, FMLFileResourcePack:ProjectRed Exploration, FMLFileResourcePack:Railcraft, FMLFileResourcePack:RebornCore, FMLFileResourcePack:reborncore-MCMultiPart, FMLFileResourcePack:Steve's Carts 2, FMLFileResourcePack:Steve's Factory Manager, FMLFileResourcePack:Tinkers' Construct, FMLFileResourcePack:TESLA, FMLFileResourcePack:Thermal Dynamics, FMLFileResourcePack:Thermal Expansion, FMLFileResourcePack:Thermal Foundation, FMLFileResourcePack:Waila, FMLFileResourcePack:Waila Harvestability, FMLFileResourcePack:WirelessRedstone-CBE, FMLFileResourcePack:Zero CORE
+[13:30:37] [Client thread/WARN]: File minecraft:sounds/gearswitch.ogg does not exist, cannot add it to event stevescarts:gearswitch
+[13:30:37] [Client thread/WARN]: File minecraft:sounds/win.ogg does not exist, cannot add it to event stevescarts:win
+[13:30:37] [Client thread/WARN]: File minecraft:sounds/boop1.ogg does not exist, cannot add it to event stevescarts:boop
+[13:30:37] [Client thread/WARN]: File minecraft:sounds/boop2.ogg does not exist, cannot add it to event stevescarts:boop
+[13:30:37] [Client thread/WARN]: File minecraft:sounds/boop3.ogg does not exist, cannot add it to event stevescarts:boop
+[13:30:37] [Client thread/WARN]: File minecraft:sounds/gameover.ogg does not exist, cannot add it to event stevescarts:gameover
+[13:30:37] [Client thread/WARN]: File minecraft:sounds/1lines.ogg does not exist, cannot add it to event stevescarts:1lines
+[13:30:37] [Client thread/WARN]: File minecraft:sounds/2lines.ogg does not exist, cannot add it to event stevescarts:2lines
+[13:30:37] [Client thread/WARN]: File minecraft:sounds/3lines.ogg does not exist, cannot add it to event stevescarts:3lines
+[13:30:37] [Client thread/WARN]: File minecraft:sounds/4lines.ogg does not exist, cannot add it to event stevescarts:4lines
+[13:30:37] [Client thread/WARN]: File minecraft:sounds/highscore.ogg does not exist, cannot add it to event stevescarts:highscore
+[13:30:37] [Client thread/WARN]: File minecraft:sounds/hit.ogg does not exist, cannot add it to event stevescarts:hit
+[13:30:37] [Client thread/WARN]: File minecraft:sounds/click.ogg does not exist, cannot add it to event stevescarts:click
+[13:30:37] [Client thread/WARN]: File minecraft:sounds/blobclick.ogg does not exist, cannot add it to event stevescarts:blobclick
+[13:30:37] [Client thread/WARN]: File minecraft:sounds/flagclick.ogg does not exist, cannot add it to event stevescarts:flagclick
+[13:30:37] [Client thread/WARN]: File minecraft:sounds/goodjob.ogg does not exist, cannot add it to event stevescarts:goodjob
+[13:30:37] [Sound Library Loader/INFO]: Starting up SoundSystem...
+[13:30:38] [Thread-12/INFO]: Initializing LWJGL OpenAL
+[13:30:38] [Thread-12/INFO]: (The LWJGL binding of OpenAL.  For more information, see http://www.lwjgl.org)
+[13:30:38] [Thread-12/INFO]: OpenAL initialized.
+[13:30:38] [Sound Library Loader/INFO]: Sound engine started
+[13:30:44] [Client thread/INFO]: Created: 16x16 textures-atlas
+[13:31:01] [Client thread/INFO]: Reloading ResourceManager: Default, FMLFileResourcePack:Forge Mod Loader, FMLFileResourcePack:Minecraft Forge, FMLFileResourcePack:Advanced Machines, FMLFileResourcePack:Advanced Solar Panels, FMLFileResourcePack:Applied Energistics 2, FMLFileResourcePack:ChickenChunks, FMLFileResourcePack:Chisel, FMLFileResourcePack:CodeChicken Core, FMLFileResourcePack:CodeChicken Lib, FMLFileResourcePack:ccl-entityhook, FMLFileResourcePack:CoFH Core, FMLFileResourcePack:CT-GUI, FMLFileResourcePack:MineTweaker 3, FMLFileResourcePack:CraftTweaker JEI Support, FMLFileResourcePack:CTM, FMLFileResourcePack:EnderCore, FMLFileResourcePack:Ender IO, FMLFileResourcePack:EnderStorage, FMLFileResourcePack:Extra Cells 2, FMLFileResourcePack:Extra Utilities 2, FMLFileResourcePack:Extreme Reactors, FMLFileResourcePack:Fast Leaf Decay, FMLFileResourcePack:Forestry, FMLFileResourcePack:Forge Microblocks, FMLFileResourcePack:Forge Multipart CBE, FMLFileResourcePack:Minecraft Multipart Plugin, FMLFileResourcePack:FTBLib, FMLFileResourcePack:FTBUtilities, FMLFileResourcePack:Gravestone Mod, FMLFileResourcePack:Gravitation Suite, FMLFileResourcePack:IndustrialCraft 2, FMLFileResourcePack:Inventory Tweaks, FMLFileResourcePack:Iron Chest, FMLFileResourcePack:Just Enough Items, FMLFileResourcePack:JEI Bees, FMLFileResourcePack:JEI Integration, FMLFileResourcePack:JourneyMap, FMLFileResourcePack:Just Enough Resources, FMLFileResourcePack:Mantle, FMLFileResourcePack:MineFactory Reloaded, FMLFileResourcePack:MFR Compat: Vanilla, FMLFileResourcePack:Mod Tweaker, FMLFileResourcePack:MrTJPCore, FMLFileResourcePack:MTLib, FMLFileResourcePack:ProjectRed Core, FMLFileResourcePack:ProjectRed Fabrication, FMLFileResourcePack:ProjectRed integration, FMLFileResourcePack:ProjectRed Transmission, FMLFileResourcePack:ProjectRed Illumination, FMLFileResourcePack:ProjectRed Expansion, FMLFileResourcePack:ProjectRed Transportation, FMLFileResourcePack:ProjectRed Exploration, FMLFileResourcePack:Railcraft, FMLFileResourcePack:RebornCore, FMLFileResourcePack:reborncore-MCMultiPart, FMLFileResourcePack:Steve's Carts 2, FMLFileResourcePack:Steve's Factory Manager, FMLFileResourcePack:Tinkers' Construct, FMLFileResourcePack:TESLA, FMLFileResourcePack:Thermal Dynamics, FMLFileResourcePack:Thermal Expansion, FMLFileResourcePack:Thermal Foundation, FMLFileResourcePack:Waila, FMLFileResourcePack:Waila Harvestability, FMLFileResourcePack:WirelessRedstone-CBE, FMLFileResourcePack:Zero CORE
+[13:31:01] [Client thread/WARN]: File minecraft:sounds/gearswitch.ogg does not exist, cannot add it to event stevescarts:gearswitch
+[13:31:01] [Client thread/WARN]: File minecraft:sounds/win.ogg does not exist, cannot add it to event stevescarts:win
+[13:31:01] [Client thread/WARN]: File minecraft:sounds/boop1.ogg does not exist, cannot add it to event stevescarts:boop
+[13:31:01] [Client thread/WARN]: File minecraft:sounds/boop2.ogg does not exist, cannot add it to event stevescarts:boop
+[13:31:01] [Client thread/WARN]: File minecraft:sounds/boop3.ogg does not exist, cannot add it to event stevescarts:boop
+[13:31:01] [Client thread/WARN]: File minecraft:sounds/gameover.ogg does not exist, cannot add it to event stevescarts:gameover
+[13:31:01] [Client thread/WARN]: File minecraft:sounds/1lines.ogg does not exist, cannot add it to event stevescarts:1lines
+[13:31:01] [Client thread/WARN]: File minecraft:sounds/2lines.ogg does not exist, cannot add it to event stevescarts:2lines
+[13:31:01] [Client thread/WARN]: File minecraft:sounds/3lines.ogg does not exist, cannot add it to event stevescarts:3lines
+[13:31:01] [Client thread/WARN]: File minecraft:sounds/4lines.ogg does not exist, cannot add it to event stevescarts:4lines
+[13:31:01] [Client thread/WARN]: File minecraft:sounds/highscore.ogg does not exist, cannot add it to event stevescarts:highscore
+[13:31:01] [Client thread/WARN]: File minecraft:sounds/hit.ogg does not exist, cannot add it to event stevescarts:hit
+[13:31:01] [Client thread/WARN]: File minecraft:sounds/click.ogg does not exist, cannot add it to event stevescarts:click
+[13:31:01] [Client thread/WARN]: File minecraft:sounds/blobclick.ogg does not exist, cannot add it to event stevescarts:blobclick
+[13:31:01] [Client thread/WARN]: File minecraft:sounds/flagclick.ogg does not exist, cannot add it to event stevescarts:flagclick
+[13:31:01] [Client thread/WARN]: File minecraft:sounds/goodjob.ogg does not exist, cannot add it to event stevescarts:goodjob
+[13:31:01] [Client thread/INFO]: SoundSystem shutting down...
+[13:31:01] [Client thread/WARN]: Author: Paul Lamb, www.paulscode.com
+[13:31:01] [Sound Library Loader/INFO]: Starting up SoundSystem...
+[13:31:02] [Thread-20/INFO]: Initializing LWJGL OpenAL
+[13:31:02] [Thread-20/INFO]: (The LWJGL binding of OpenAL.  For more information, see http://www.lwjgl.org)
+[13:31:02] [Thread-20/INFO]: OpenAL initialized.
+[13:31:02] [Sound Library Loader/INFO]: Sound engine started
+[13:31:08] [Client thread/ERROR]: Using missing texture, unable to load chisel:textures/blocks/ironpane/fenceIronTop.png, java.io.FileNotFoundException
+[13:31:08] [Client thread/ERROR]: Using missing texture, unable to load chisel:textures/blocks/ironpane/barbedwire.png, java.io.FileNotFoundException
+[13:31:08] [Client thread/ERROR]: Using missing texture, unable to load chisel:textures/blocks/futura/controllerpurple.png, java.io.FileNotFoundException
+[13:31:08] [Client thread/ERROR]: Using missing texture, unable to load chisel:textures/blocks/ironpane/spikes.png, java.io.FileNotFoundException
+[13:31:09] [Client thread/ERROR]: Using missing texture, unable to load chisel:textures/blocks/ironpane/cage.png, java.io.FileNotFoundException
+[13:31:09] [Client thread/ERROR]: Using missing texture, unable to load extrautils2:textures/xu_demonic_metal.png, java.io.FileNotFoundException
+[13:31:09] [Client thread/ERROR]: Using missing texture, unable to load chisel:textures/blocks/ironpane/bars.png, java.io.FileNotFoundException
+[13:31:09] [Client thread/ERROR]: Using missing texture, unable to load chisel:textures/blocks/ironpane/terrain-glass-ornatesteel.png, java.io.FileNotFoundException
+[13:31:09] [Client thread/ERROR]: Using missing texture, unable to load chisel:textures/blocks/ironpane/terrain-glass-thingrid.png, java.io.FileNotFoundException
+[13:31:12] [Client thread/INFO]: Created: 4096x2048 textures-atlas
+[13:31:22] [Client thread/WARN]: Skipping bad option: lastServer:
+[13:32:22] [Client thread/INFO]: Stopping!
+[13:32:22] [Client thread/INFO]: SoundSystem shutting down...
+[13:32:23] [Client thread/WARN]: Author: Paul Lamb, www.paulscode.com
